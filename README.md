@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sambhabsau
 - 👀 I’m interested in AI, software, engineering, and business
 - 🌱 I’m currently learning Python, Deep Learning
-- 💞️ I’m looking to collaborate on software development, startups, interesting projects
+- 💞️ I’m looking to collaborate on software development, startups, projects
 - 📫 How to reach me - sambhabsau@gmail.com
 
 <!---
