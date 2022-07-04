@@ -1,0 +1,596 @@
+Cake Monster
+A hyper-deflationary and elastic supply token that has
+unique reserve and reward mechanisms featuring an
+automated hybrid monetary policy.
+
+8 June 2021 (v1.0)
+
+Abstract
+
+DeFi is poised to revolutionize the financial markets by cutting out
+costs for intermediaries, such as banks or legal departments and
+offering new and compelling ways to earn interest in digital assets or
+gain easy and straightforward access to credit. Normally, DeFi token
+should aim to establish new standards in terms of transparency,
+access, and monetary models, but instead the majority of DeFi token
+is controlled by malicious actors or/and use inadequate economic
+models that are on the verge of implosion due to their archaic
+monetary policies. Interest rates fast become unprofitable for holders
+while emission blocks reduce to fight inflation, often leaving later
+entrants with an irrecoverable financial loss.
+
+Acurrent solution for a sustainable token ecosystem is represented by
+elastic supply token that aim to balance the splits between inflation
+and deflation of token supply trough rebases, trying to solve the
+inelasticity problem of fixed supply token through rebases of supply
+and keep steady interest rates.
+
+In this paper we present Cake Monster, a hyper-deflationary and
+elastic supply token that has unique reserve and reward mechanisms
+featuring an automated hybrid monetary policy. We describe the
+components that Cake Monster provides to maintain a_ fair,
+sustainable, and rewarding ecosystem. We introduce our monetary
+policy and reserve system, and describe Cake Monster's deflationary
+cycle, how it ends, and how it begins. Then we describe how the
+generated yield is calculated and accomplished. Finally, we will lay out
+our plans for the future.
+Contents
+
+1 Introduction
+
+2 Architectural Overview
+2.1 Management (Vault)
+2.2 Policy (Monetary)
+2.3 Volume
+
+3 General Overview
+3.1 Tax System
+3.2 Cycle and Functions
+
+4 Relaunch Process
+5 Yield Generation
+6 Long-Term Technical Strategy
+
+7 Legal Disclaimer and Risk Caution
+
+10
+
+12
+
+13
+
+14
+1 Introduction
+
+DeFi tokens (Decentralized Finance Tokens) are financial applications that run on
+blockchains and mirror concepts that have been successfully used in traditional
+banking and finance. The key idea is to recreate financial services in a decentralized
+way without a third party, such as a bank, intervening. Instead, trust is placed in written
+code (smart contract) that is deployed on a blockchain network and allows interest to
+be earned, loans to be obtained or (synthetic) assets to be traded, and more, without
+relying on a third party.
+
+If holders of a typical DeFi token want to earn high interest on staking or yield
+platforms, they typically have to expose themselves to several risks, such as loss of
+control over holdings, insecure/badly written smart contracts, and extremely volatile
+market conditions, coupled with an immature token economy whose value is only
+supported by its own underlying token and its experimental utility. In most cases, the
+applied monetary policy does not allow for sustainability or longevity of these projects,
+creating a bubble that will inevitably implode due to its corrupt and inflexible nature.
+
+In addition, the associated gas costs and the numerous transactions/interactions that
+end users must initiate along the way make this system error-prone and expensive.
+These inefficiencies ensure that the general public cannot be effectively reached due
+to low accessibility, high financial risks, and general fear factors (e.g., crypto project
+fraud rates, unregulated markets).
+
+The introduction of frictionless revenue generation has opened up DeFi to a wider
+audience, as it simplifies most user interactions via automated logic and rewards
+holders by passing a small portion of the protocol tax to all holders of the specific
+token, while another tax portion seeks to preserve token value via deflationary
+measures such as token burning.
+
+But the problems that remain are the overall profitability and fair distribution of
+rewards, the insufficiently maintained sustainability and stability of the protocol's
+ecosystem (implosion/monopolization), and the inability to update the smart contract
+logic and the lack of an advanced and well-executed marketing strategy aimed at
+achieving mass adoption through high, fast, and low-cost accessibility of the project.
+
+Cake Monster proposes a solution that combines the benefits of perpetual, easily
+accessible and profitable rewards for all with a smart and complex monetary solution
+that allows the protocol to stay healthy in all market conditions, where inelastic fixed-
+supply tokens are vulnerable to shocks. In addition, there is a memeable artwork
+design, an upgradable contract, and an overly ambitious, dedicated, and well-
+connected team. Supporting many investment strategies, Cake Monster is a credible
+financial tool for holders and traders alike and can be used, for example, as a hedge
+or simple speculation for short, medium, and long-term strategies.
+Whitepaper roadmap
+
+In this whitepaper*, we provide an overview of the Cake Monster architecture (Section
+2) and a general overview of the tax and cycle functions (Section 3). We describe Cake
+Monster's relaunch process (Section 4) and follow with information about the applied
+yield generation within the Gravity Vault (Section 5). We then describe a proposed
+long-term development (6). Finally, we present a legal disclaimer (7).
+
+2 Architectural Overview
+
+Cake Monster's core functional goal is to maintain an automated hybrid monetary
+policy (deflationary/inflationary) that protects its ecosystem from currency implosion
+through hyper deflationary cycles while generating non-native returns ($CAKE) within
+its own reserve vault for native token holders. Below, we describe the architecture of
+each component of Cake Monster. Cake Monster will initially be built on Binance
+Smart Chain, but we intend to integrate it with all leading smart contract networks
+that support an underlying reserve asset in the future. Cake Monster was designed
+with modularity in mind. Every part of the Cake Monster system is upgradeable,
+allowing various components to be replaced as better techniques and competing
+implementations emerge.
+
+The protocol logics are based on three fundamental pillars: Management, Policy, and
+Volume. Their interactions with each other are critical to the underlying functions and
+their value, feeding the vaults at the core of the economic model and using their
+applied functions: Yield, Tax, and Deflation.
+
+POLICY
+VAULT
+
+VOLUME
+2.1 Management (Vault)
+
+Allows the community to:
+
+manage the aggregation of the reserve asset ($CAKE) for the gravity vault.
+add locked liquidity to the LP on the DEX via temporary vault.
+
+cash out inactive holders and swipe dust in wallets to stay compliant to the
+policy.
+
+claim rewards generated in the gravity vault.
+
+re-launch the protocol when conditions are met.
+
+2.2 Policy (Monetary)
+
+Will allow the protocol to:
+
+ensure flexibility, stability, and execution of vital functionalities.
+
+maintain constant yield generation within the gravity vault.
+
+maintain the tax/burn system to ensure deflation of native supply and
+inflation of reserve assets within the vaults.
+
+maintain ever-rising price floor by adding monetary value to liquidity pool
+and gravity vault.
+
+2.3 Volume
+
+Allows the ecosystem to ensure:
+
+buys and sells are contributing to overall yield generation. The higher the
+volume, the bigger the gravity vault, the faster the deflation, the faster the
+native token price appreciation, the higher the yield, the faster the collectable
+rewards for holders.
+
+acceleration of the protocol value and a rising cyclic price floor.
+
+tax collection and deflation of supply.
+
+3 General Overview
+
+The Cake Monster protocol is designed to run in perpetual cycles, during which it
+burns off its initial supply until it reaches its programmed minimum of 1 million
+tokens (deflation rate per cycle 99.99%). At the same time, it builds up a protocol
+backing reserve (Gravity Vault) containing $CAKE, which acts as price anchor and
+makes itself available as a sophisticated reward system for holders of the native
+$MONSTA token.
+Cake Monster Cycle
+Circulating Supply == Reserve Value Expected Price Action
+
+100 --
+
+; Z
+
+ 
+
+3.1 Tax System
+
+The protocol monetary policy uses a total tax of 5% on each transaction (sale,
+purchase, transfer). A portion of the protocol tax (2.5% per TX) is used to replenish
+the temporary vault with $MONSTA tokens. This vault acts as a proxy between the
+Blockchain (BSC) and the Gravity Vault, which holds $CAKE in reserve and has the
+following tasks:
+
+Temporary Vault
+
+1. Add a portion of $MONSTA (10%) as locked liquidity to the Pancake Swap
+liquidity pool (50% converted to BNB, 50% $MONSTA)
+
+2. Swap $MONSTA for $CAKE and add $CAKE to the Gravity Vault (MONSTA >
+WBNB > CAKE)
+
+Another part of the protocol taxes (2.5% per TX) is used to burn $MONSTA forever.
+Tax Flowchart
+
+©
+
+Managed
+
+ 
+
+ 
+
+ 
+
+ 
+
+Convert 50% to
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+BNB Temporary Vault Burn Address
+v
+Add locked 90% Swap $MONSTA for »| Add $CAKE to
+Liquidity ° SCAKE "| Gravity Vault
+to LP
+Managed Managed Managed
+
+Only 5% is taxed on each transaction (2.5% Vault Tax, 2.5% Burn Tax)
+
+3.2 Cycle and Functions
+
+A protocol cycle is controlled by two distinct and rewarding functions (Vault
+Management, Auto-Cash Out) that can be called by anyone once certain parameters
+are met. An additional function promises recurring $CAKE rewards for $MONSTA
+holders (Base Reward).
+
+« Vault Management
+e Automatic Cash Out
+e Base Reward
+Vault Management
+
+If the temporary vault (collecting $MONSTA through tax) has grown bigger than
+0.01% of the current total supply, the VAULT MANAGEMENT function becomes
+available and can be called by anyone that is connected to the dashboard (Vault
+progress is visible on the dashboard). This function triggers the following chain of
+events, executed by the smart contract:
+
+1. 10% of the $MONSTA balance is added to the Pancake Swap locked liquidity
+pool (50% converted to BNB, 50% $MONSTA)
+
+2. 90% of $MONSTA from the temporary vault is swapped for $CAKE, which is
+then added to the $CAKE Gravity Vault (Smart Contract)
+
+More details...
+
+« A vault manager receives a minted reward of 1% of the total current
+temporary vault value in $MONSTA.
+
+« Vault manager queue size = 10 — To prevent spamming on this function,
+each managing wallet address is added to a list of vault managers. Vault
+managers on this list will be blocked from calling the VAULT MANAGEMENT
+until they move out of that list because of following vault managers.
+
+Example
+
+e The current supply is 10 billion $MONSTA.
+
+e The Temporary Vault is filled up with 1 million $MONSTA (0.01% of total
+supply).
+
+« The “Manage Vault” function becomes available on the dashboard.
+
+« The connected user initiates the transaction to manage the vault.
+
+« After a successful transaction, the user gets a minted reward of 10,000
+$MONSTA (1% of the 1 million $MONSTA in the Temporary Vault).
+
+e Locked liquidity is added to the LP, $CAKE is bought and added to the Gravity
+Vault.
+
+Base Reward
+
+Each time the current total supply of $MONSTA has decreased by 1%, owners are
+entitled to a base reward (or crumbs) of $CAKE from the Gravity Vault equal to their
+current supply compared to the total supply:
+e The total base reward is 25% of the Gravity Vault ($CAKE) aggregated since
+the previous snapshot.
+
+« Aholder should claim the rewards before the next snapshot takes place (after
+an additional 1% supply is burned).
+
+e Unclaimed rewards flow back into the Gravity Vault ($CAKE).
+
+Example
+
+e Auserholds 1% of the total supply (100 million $MONSTA at 10 billion supply)
+when the Base Reward becomes available.
+
+e Ifthe Gravity Vault has collected $1 million worth of $CAKE since the last 1%
+deflation, a total of $250.000 (25%) worth of $CAKE will become claimable for
+holders.
+
+e Theuser holding 1% of the total supply (100 million $MONSTA) will be eligible
+to receive 1% of the $250.000 worth of $CAKE from the Gravity Vault Base
+Reward ($2,500)
+
+Automatic Cash Out
+
+If no >= 5% action (buy/transfer/sell) is recorded from a bearer wallet for 50
+consecutive days, the AUTOMATIC CASH OUT function can be triggered by anyone.
+This measure is essential to the hyper-deflationary logic of the protocol, and without
+it the targeted end supply would never be reached.
+
+e Swaps 95% of the holders $MONSTA tokens for BNB, which will be returned
+to the holder.
+
+e Transfers 5% of the holders $MONSTA tokens as reward to the caller of this
+function.
+
+e The swapped $MONSTA token will be burned out of the LP.
+
+e If the holders $MONSTA token value is too low to sell, the function will just
+burn the tokens (100%) out of the bearer wallet instead of selling it.
+
+« Liquidity provided to the original BNB/MONSTA liquidity pool on Pancake
+Swapv2 is whitelisted for this function and therefore cannot be disbursed.
+
+Example
+
+e Auser bought 5 million $MONSTA on June 19.
+
+e 50 days later, that same user did not buy/sell/transfer a minimum of 5.01%
+of their holdings. They are ‘inactive’ .
+
+« Another user goes to the Cake Monster dashboard and cashes out this
+inactive user.
+
+e Since the user holds 5 million $MONSTA, the caller of the cash out function
+will earn 5% of the users ‘holdings (250,000 $MONSTA)
+e The inactive user will get the $BNB value for the rest of the holdings (95%).
+This is done by selling their $MONSTA for $BNB.
+
+e The sold 4.75 million $MONSTA (95%) residing in the LP will then be burned,
+to reduce price impact and ensure general deflation.
+
+4 Relaunch Process
+
+The end of the protocol cycle is controlled by three different functions that can be
+called by anyone. It basically rewards all holders with their share of the gravity vault,
+relaunches the protocol and protects the ecosystem from monopolization or
+
+ 
+
+ 
+
+implosion.
+e Finish
+e Claim Gravity Vault
+e Relaunch
+= Circulating Supply Value (Backed by Reserves) Supply Monopolization
+100 +
+75 +
+50 +
+25 +
+0
+Finish
+
+ 
+
+If supply <= end supply (1,000,000) the CLAIM GRAVITY VAULT function becomes
+available to anyone, and all trading will be halted.
+
+10
+e The collected liquidity from the LP will be removed and temporarily stored in
+the smart contract.
+
+e The FINISH function becomes also available when two years have passed
+since protocol launch/relaunch.
+
+e The FINISH function becomes also available when there is no vault
+management activity for 124 days since protocol launch/relaunch.
+
+Claiming Gravity Vault
+
+For 35 days anyone can claim their share of $CAKE, equivalent to their $MONSTA
+holdings versus total supply at the time of trading halt.
+
+e Upon claiming all $MONSTA tokens in the bearer wallet will be swapped for
+the $CAKE from the Gravity Vault and will be burned hereafter.
+
+e Unclaimed $CAKE stays in the contract and will be used to support the
+upcoming protocol cycle.
+
+Example
+
+e Minimum supply of 1 million $MONSTA is reached.
+
+e The Gravity Vault is worth $100 million $CAKE.
+
+e Auser owns 1% of the total supply (L0000 $MONSTA at 1 million supply)
+e They are eligible for $1 million of $CAKE.
+
+Relaunch
+
+After 35 days claiming period the RELAUNCH function can be called by anyone to
+kickstart a new cycle.
+
+« Supply will be minted back to the initial of 10,000,000,000 (10B)
+
+e Adds liquidity previously stored in the contract back to the LP to relaunch the
+protocol.
+
+« The holders of the previous cycle receive the shares back with which they
+claimed their $CAKE.
+
+e * IMPORTANT: Holders which have not claimed their reward will lose their
+reward and will not get re-minted tokens relative to the initial supply.
+Unclaimed $CAKE rewards will be used for the upcoming deflationary cycle.
+
+11
+5 Yield Generation
+
+The yield is generated via the growth of the Gravity Vault (reserve asset: $CAKE) and
+the total deflation happening within a calculated timeframe of one month, which is
+then compounded over 12 months.
+
+Formula
+
+cakegrowthover30d% + monsterdeflationover30d% - protocol tax (0.15% over 30d)
+= monthly growth (then compound over 12m) = APY
+
+ 
+
+Code
+const totalBurnedPct = 100 - (supplyLast / supplyFirst) * 100;
+const reserveGrowthPct = (reserveBalanceASSETLast /
+
+reserveBalanceASSETFirst) * 100 - 100;
+let monthlyRate = (reserveGrowthPct + totalBurnedPct - 0.15) / 100;
+let v= 1;
+for (let i= 1; i <= 12; i++) {
+v=v * (1 + monthlyRate);
+}
+
+setApyPct((v - 1) * 100);
+
+Friction or Frictionless
+
+The generated yield is frictionless for the most part, as holders do not have to stake
+or farm for potential $CAKE rewards, and thus do not have to give up control of their
+holdings or go through the hassle of a lot of interactions and transactions.
+
+However, the $CAKE base rewards must be collected by holders on the Cake Monster
+dashboard as they become claimable within a snapshot range determined by trading
+volume and subsequent token deflation. As previously mentioned, this happens
+every time the total supply decreased by 1% since the last base reward round.
+Holders must also claim their gravity vault share once minimum supply is reached.
+
+12
+6 Long-Term Technical Strategy
+
+The long-term technical strategy for Cake Monster proposed in this whitepaper
+includes four key directions: Gamification & NFT Art, Infrastructure Changes, General
+Expansion and Charity.
+
+Gamification & NFT Art
+
+We plan to develop sophisticated gameplay and art aspects for the project that will
+help engage the community and add value through professional artwork designs and
+an intertwined gameplay system for holders of the Cake Monster token. This would
+include the development of collectible NFTs (83D and augmented reality) that can
+have digital (dividends, bonds) and physical value.
+
+Infrastructure Changes
+
+Cake Monster was built to become a community project. And, as such, we plan to
+build a DAO around Cake Monster and hand the project over to the community. We
+will ensure that, from our perspective, everything necessary is in place by then so
+that we can say with a clear conscience that the project is safe and sound.
+
+We plan to build an intra-exchange (Monster Swap) to help the community swap
+other reserve assets, native tokens or NFTs for benefits.
+
+General Expansion
+
+We plan to expand our reach to other promising blockchains (multi-chain) that
+support a reserve asset in use of this project or another project we are developing or
+partnering with. Cake Monster can easily be spread to more chains.
+
+Charity
+
+When Cake Monster is established, we plan to create Cake Monster For Good. An
+initiative that sees Cake Monster committing to bespoke charity programs, decided
+by the community, to combat mental health, inequality, abuse, poverty, and any
+other endeavor the community decides.
+
+13
+7 Legal Disclaimer and Risk Caution
+
+Participating in an IDO is a high-risk activity. This IDO is intended only for experienced
+professionals who are familiar with blockchain technology, cryptocurrency trading and
+trading in other marketing tools. By participating in this IDO, the Buyer is aware of and
+accepts the risks related to security, possible failure to achieve technical and economic
+results, and total or partial loss of its capital. Finally, the Buyer declares to be aware of
+the legal uncertainty of this type of transaction and to have carried out its own legal
+consultation in accordance with the applicable law to which it is subject. The Token
+does not in fact grant any financial (income, capital, or dividend) or voting rights in the
+project. The Token is a crypto asset issued by the Decentralized Autonomous Platform
+(Project) through the IDO and used by Cake Monster team members and the
+community. No other rights are transferred to the IDO. More specifically, the only
+obligation of the Project is to distribute the Cake Monster token under the conditions
+defined in the official publications.
+
+Sales restriction
+
+Due to national legislation, participants from the following countries are not allowed
+to participate in the IDO: "U.S. person" (according to this definition), Canada, South
+Korea, Burma, Ivory Coast, Cuba, Democratic Republic of Congo, Iran, Iraq, Liberia,
+North Korea, Sudan, Syria and Zimbabwe, Singapore, and China. This prohibition
+applies to all types of persons (moral, physical, agents, etc.) and to any indirect
+participation (through an agent, registered loan, limited liability company, etc.). By
+participating in the IDO, the buyer agrees to the legal disclaimer and to collectively
+respect the above provisions.
+
+Warnings
+
+IDOs are high risk operations due to their experimental nature. By participating in this
+operation, participants declare that they understand and assume the following risks:
+
+e the lack of regulation: the buyer agrees not to take advantage of any guarantees
+associated with IPOs in regulated financial markets or other regulated financial
+investments.
+
+e Capital loss: the buyer accepts the risk of full or partial capital loss in
+cryptocurrency or in the token.
+
+e Volatility or market risk: the value of Tokens, just like cryptocurrencies in general,
+can be extremely volatile and subject to significant and largely unpredictable
+fluctuations.
+
+In addition, the market, or markets in which these tokens are traded do not offer
+the same guarantees that generally apply to traditional financial markets.
+
+14
+

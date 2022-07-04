@@ -1,0 +1,433 @@
+ 
+An Introduction
+to HOGE
+
+ 
+HOGE ORIGINS
+
+What is HOGE?
+
+Hoge is an ERC20 token on the Ethereum blockchain that has a 2% tax on every
+transfer. Part of that tax is reflected back to current holders, and part is burned
+forever making Hoge a deflationary cryptocurrency asset. Hoge is a fair launch
+project; everybody buys in. Even the developers.
+
+ 
+
+The HOGE Project
+
+There will never be more HOGE in circulation than there is now. The Hoge Token is
+100% owned by community members and trading exchanges. There is no developer
+wallet or revenue structure built into the token itself. The human resources group
+within the project has estimated there is an average of 80 to 110 developers or
+significant contributors working on the project at any given time, all working for free.
+
+Hoge is a community - Because there is no developer wallet, the community is
+incentivized to work together to achieve its common goals. Hoge has achieved
+success by focusing on the improvement of its brand, Decentralized Finance (DeFi)
+technology, charitable efforts, and most importantly its people.
+
+ 
+Memes are the latest iteration of language evolution in our hyper-connected society. The combination of the
+comedic, visual, and literary forms has reimagined fundamental communication norms in the 21st century.
+
+Exploring this form Is proving to be one of the necessary challenges of our time as information becomes subjugated
+to human desire. Through non-traditional incentive structures both in Finance (DeFi) and Cooperation (DAO) we
+can reimagine the way society functions to achieve previously impossible goals where political will (cooperation) or
+resources (finance) were scarce.
+
+The Hoge community promotes the simultaneous growth of an economy and its participants through rapid
+
+collaboration and alternate financial structures. Hoge solves the chicken and egg problem of poverty: with no
+resources, it is impossible to grow, and without growth, it is impossible to acquire resources.
+
+Vision
+
+Don't let your memes be dreams
+
+ 
+HOGE ECOSYSTEM -
+TEAMWORK MAKES THE DREAM WORK
+
+Hoge Brand
+
+The most powerful aspect
+of Hoge. Hoge is very well
+positioned to introduce the
+benefits of Ethereum’s  °°°"** >
+decentralized network to
+the mainstream. What
+Mickey Mouse did for the
+Disney Brand, Hoge will do
+for Ethereum and DeFi.
+
+Hoge Association
+
+A non-profit association in
+Switzerland watches over
+
+the brand. It executes
+partnershipsand = wwnne ee >
+agreements on behalf of the
+community. This entity
+
+offers a doorway into the
+corporate world for DeFi
+
+projects.
+
+DAO & Governance
+
+Solving the corporate @
+DeFi partnership by
+promoting a governance
+model where the Hoge
+Association supports and
+is beholden to a
+Decentralized
+
+Autonomous Organization
+(DAO).
+
+ 
+Community
+
+In an industry that relies on individuals exchanging value with one another, nothing matters more than
+community. Hoge purposefully harnesses the power of it's community as a varied and ever growing talent pool
+to build on the Hoge ecosystem. It empowers the individuals within using decentralized governance and tools.
+
+ 
+
+¢ Meme Creation
+
+e Educational Videos
+¢ Graphics
+
+¢« Game Development
+¢ Mobile Apps
+
+¢ Smart Contracts
+
+¢ Writing Articles
+
+ 
+It's bull
+
+LIMITED EDITION ; [alelefepieler-t-)
+
+} "Why wont it dump... | need to buy
+inate |e
+
+} ac0feQaS6adeaa589e43850dac664i6r17:
+
+HOGE FOUNDATION 202)
+
+ 
+
+ 
+
+Members 2 EDITION
+ae - ——)
+
+Stream= F ire$tream burns circulating
+supply and is so powerful it instantly
+incinerates any other meme
+Dollar Hoge- Summons Hoge Army from
+around the world
+
+1c089b792b8 fb2e3 04a8face43cc9 bbc
+
+]
+HOGE.FINANCE 2021
+
+ 
+
+Hoge Tsunami @)
+ee.)
+
+5 igh Ks BY
+LIMTED EDITION : 0000-0017
+
+There was a great silence. The water
+
+} retreated and people began to murmer,
+
+pointing and shielding their eyes. On
+
+the horizon, HOGE appeared...
+
+ieee racers csctenher ae
+
+HOGE FOUNDATION 202)
+
+ 
+
+ 
+
+i J
+
+i=>.4 on Members2™ EDITION
+
+a —_ _ ee _ a
+——_
+
+COT Seas) Un Es LeR
+od
+
+6006003af82920f7f17 d0bc8f655cc99 ;
+|
+
+~ HOGE.FINANCE 2021
+
+NFT Events
+
+HogeMint has seen two successful minting events to reward Hoge holders.
+The mint is a webapp where holders can upload their favorite meme and have
+it turned into a trading card/nft token that lives on the blockchain forever.
+Tokenomics and
+Transactions
+
+ 
+0% of the supply is 50% of the supply is 70% of the supply is
+burned. 100% burned. 50% burn: burned. 70% burn:
+
+redistribution : 2% 1% of every 1.4% of every
+
+of every transaction transaction is
+burned. 30%
+redistribution: 0.6%
+
+of every transaction
+
+transaction is
+burned. 50%
+redistribution: 1%
+of every transaction
+
+and transfer is
+redistributed.
+
+0%
+
+  
+
+and transfer is and transfer is
+redistributed. redistributed.
+
+Tokenomics
+
+The HOGE ERC-20 token has a 2% reflect amount for each transaction. 1,000,000,000,000 tokens
+were minted for the initial supply, and half of those were immediately burned. This balanced the
+starting transactions to redistribute 1% proportionally weighted to each wallet, and burn 1% of each
+transaction amount. As more tokens are burned, the burn rate slowly increases. At the end of April
+2021, each transaction is weighted as follows, and 41.2% of the initial supply is still in circulation.
+
+ 
+Tokenomics Continued
+
+The deflationary tokenomics squeeze supply all while the brand, active community, and meme culture all boosting
+demand. By both decreasing supply and increasing demand, the equilibrium price of HOGE has been engineered
+to squeeze the price higher over time, rewarding all holders. At only a 2% tax, it does so without being prohibitive to
+trade volume. The intention of this design i is to make HOGE the first point of contact that mainstream users have
+with the Ethereum network. The token serves as a native store of value on the blockchain, and easily usable
+collateral for smart contracts in Decentralized Finance. Compared to traditional finance, which offers .5% returns for
+savings accounts, investors using DeFi apps can gain 13% returns on the conservative end of the spectrum.
+
+To calculate the ongoing rate of redistribution, the Certik
+
+Audit gives a complete formula:
+Description
+
+Suppose the initial total supplies _tTotal = Ti and _rTotal TS, then the initial exchange rate between
+rSupply and tSupply rp = J /Ti. After we make the first transfer of amount x from the initial owner
+to account A, the r balance of A _rOwned[A] = O', = 0.99. And _rTotal becomes Tj — 0.012
+
+because of the transfer fees. Then we exclude account A such that the t balance _tOwned[A] =
+
+O',/ro = 0.99xT;) /T;;. Now the rate
+
+: 15 —00la—-0.99% Tj-az Ty Ly
+‘ T!_0.992Tt/Tr = Tr 0.992 Ti ~ °
+
+ 
+
+ 
+
+Similarly we can find the exchange rate will decrease as more accounts are excluded. However, as lang
+
+ 
+
+as the majority of the supply is not excluded, the decrease will be small.
+Hoge Roadmap
+
+ 
+Standard Crypto Roadmap Unique Projects Roadmap
+
+¢ Tracking on various crypto sites (Coingecko and ¢ Two phases of the NFT Platform deployed with
+Coinmarketcap) custom minting (The Genesis and The Expansion)
+
+¢ Website deployment ¢ Creation of a legal entity (DAO - Hoge Hybrid)
+
+¢ App deployment ¢ Bridged to aL2 Network (xDai)
+
+¢ Creating social media platforms and building an ¢ Website game development
+organic social media presence ¢ Created an eSports community
+
+¢ Developing relationships with non-profits and « Passed a full audit from Certik (becoming the first
+animal charities DeFi meme token in the history of crypto to do this
+
+¢ Listing on centralized exchanges on their platform)
+
+¢ CubeSat team formed and prepped for 2021 NASA
+CSLI call for proposals....memes in SPACE.
+
+Hoge Roadmap - Completed
+
+Hoge Finance began with a clear and aggressive roadmap. To date,
+every item listed has been completed on time or ahead of schedule.
+
+ 
+Future Projects: Q3 - Q4 of 2021
+
+Hoge Finance has some very ambitious future goals and these include:
+¢ Listing on a US-headquartered exchange
+¢ Creation of a program to send satellites into space
+¢ Completion of an NFT eCommerce marketplace, making HogeMint
+a single source for creating, viewing, and purchasing
+¢ Creation of a crypto crowdfunding platform
+¢ Development of a HOGE eCommerce/Merchandising platform
+¢ Development of a charity donation staking wallet
+¢ Implement a DAO governance Platform
+¢ Exploring dApp games within the Hoge ecosystem
+¢ Building two-way bridges to other networks (Matic, BSC, and
+Fantom)
+¢ Creating a cross-chain swap platform
+¢ Improvements to current smart contract technologies
+o Improved incentives for liquidity locking platforms
+o Improved DEX with liquidity consensus protocols
+
+ 
+(CA 2021 EXPANDED ROADMAP
+
+Hoge Space Program
+
+As part of exploring new frontiers and
+supporting the broader endeavors of
+humanity, Hoge has founded a small
+space program with the focus of
+developing a CubeSat platform to
+integrate crypto technologies in orbit.
+The team has a strong mission of broader
+impacts and outreach to bring value not
+only to the Hoge brand, but also to the
+greater community.
+
+Bridges & Swaps
+
+To increase the utility of the greater DeFi
+space, Hoge is exploring bridges to
+various networks (Fantom, Polygon, xDai,
+BSC). This is the first step in building the
+more capable Cross-Chain swap, which
+only compounds the problems of a normal
+bridge.
+
+NFT Marketplace
+
+After several successful NFT minting
+events, Hoge will be developing a full
+ecommerce platform to support its
+meme trading cards.
+
+Improved Liquidity Locking
+
+The simplicity of DeFi token launches is
+both a blessing and a curse. The crypto
+space still sees a lot of fraud and scams,
+of which Hoge will have no part of! The
+community is working on _ alternate
+incentive structures to have market
+forces do the heavy lifting when
+technology cannot.
+
+ 
+
+DEX Consensus Protocols
+
+A true DEX would be run by the
+community, not a small team. Hoge
+intends to place power in the hands of
+the people with a configurable DEX
+controlled by a DAO. Despite the mantra
+of “vote with your dollar”, people are still
+incentivized to invest in companies that
+destroy their way of life. The DAO-DEX
+gives power back to the people.
+
+Crowdfunding Platform
+
+Getting back to its currency roots, the
+community is working on a crowdfunding
+platform for Hoge to support content
+creators and artists with new business
+models via NFTs and microtransaction
+
+apps.
+Links ‘and Other
+Information
+
+ 
+Main Info
+
+Ethereum Contract:
+Oxfad45e4'7083e4607302aa43c
+65fb3106f1cd7607
+
+Website
+
+Reporting
+
+NFT Platform
+
+Game Website
+
+GitHub
+
+Certik Audit
+
+Legal Documents
+
+USEFUL LINKS
+
+ 
+
+ 
+
+Coin Links Social Media
+
+Etherscan Twitter Torum
+
+Uniswap Youtube - Hoge Official Giphy
+
+Coinbase Price Youtube - University Twitch Tv
+
+CoinMarketCap  ## "°°" > Instagram Telegram
+
+CoinGecko Facebook Discord
+TikTok Reddit
+LinkedIn
+No part of this document should be construed as financial advice, nor as a guarantee of the future performance for
+HOGE or any other investment mentioned herein. Cryptocurrencies are extremely speculative and are subject to
+powerful market forces and fluctuations outside of the control of the Hoge Finance team. These include but are not
+limited to macroeconomic trends and governmental regulations. No one affiliated with this whitepaper or with Hoge
+finance assumes responsibility for the performance of your asset, for the delivery of tokens to your wallet, nor for the
+security of your wallet. It is your responsibility to take all necessary security precautions when purchasing
+
+cryptocurrencies.
+
+Disclaimer
+
+Do Your Own Research
+
+ 
+

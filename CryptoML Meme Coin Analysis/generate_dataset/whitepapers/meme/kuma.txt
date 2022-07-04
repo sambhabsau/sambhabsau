@@ -1,0 +1,413 @@
+Kuma Inu
+
+Whitepaper 1.0
+1 Introduction
+
+Over a matter of weeks, the cryptocurrency markets saw meme coins shoot up in popularity and
+value, rivalling the likes of Dogecoin. KUMA is among the most loved of these meme coins,
+leading people into new and unforgettable experiences in the cryptocurrency ecosystem. After
+experiencing huge growth in both its community and token price in a short space of time,
+
+Kuma’s community has grown from strength to strength.
+
+This presents boundless opportunities to unlock gains from the cryptosphere like never before.
+The future of the digital economy is driven by community. The shift in trends to meme coins has
+set a domino effect which offers new approaches to defining experiences with cryptocurrencies
+
+through community, rather than centralized methods.
+
+Kuma empowers its community with utility tokens that give them a wide variety of benefits in the
+cryptocurrency ecosystem. Kuma’s offerings include a DEX, governance rights, farming, and
+
+vaults. These features ensure that the platform benefits all community members.
+2 Kuma Inu Ecosystem
+
+2.1 Kuma Dex
+
+KumaDex is a decentralized, vAMM based perpetual contract trading protocol for leverage
+traders with infinite on-chain liquidity. Unlike traditional AMMs, users can trade perpetual futures
+contracts utilizing the Constant Product Market Maker formula with up to 25x long or short
+leverage. Funding rate mechanism is in place to ensure vAMM market asset price converges
+
+with the underlying asset index price.
+
+With Kuma DEX, users do not have to worry about threats of centralized authorities interfering
+
+with their use of tokens as the DEX is designed to be market neutral and fully decentralized.
+
+Price discovery issues became a significant concern in the cryptocurrency industry for several
+reasons. One of the major reasons is that buyers of cryptocurrencies across the world have
+different use cases for the technology. While some buyers prefer to use cryptocurrencies as a
+medium of exchange for goods and services, other users of cryptocurrencies choose to use
+them as an investment. It is no surprise that several types of cryptocurrencies have been
+
+likened to precious metals and commodities in the past.
+
+Kuma DEX offers opportunities for price discovery and arbitrage. To understand what makes
+Kuma DEX beat the competition with its approach to price discovery, it is important to first
+understand what price discovery really means. This method of determining the spot price or
+proper price of an asset, security, product, or currency takes into account a variety of tangible
+
+and intangible variables, such as supply and demand, investor risk perceptions, and the overall
+economic and geopolitical climate. Kuma DEX is designed to achieve price discovery for its
+users using an advanced technical architecture which takes into account the variety of different
+
+market factors that the competition does not consider.
+
+Key features of KumaDex include:
+
+1. Similar to traditional Automated Market Makers like Uniswap, traders don’t need to rely
+on centralized exchanges (counter-parties) to place trades. By interacting with
+KumaDex vAMM smart contracts, traders can gain exposure to derivatives for any
+assets on the market. While most decentralized derivative trading platforms face liquidity
+concerns, the KumaDex vAMM offers consistent on-chain liquidity.
+
+2. The KumaDex platform utility and governance token dKUMA is built with a deflationary
+economic design. 50% of the platform trading fees will be allocated towards token
+buyback & burn in order to offset rewards token emission and increase scarcity of
+
+dKUMA.
+
+Perpetual Contracts
+
+Perpetual Contracts are cryptocurrency derivatives that enable traders to speculate on the
+
+valuation of specific underlying assets. Perpetual contracts have a few distinct differences
+
+when compared to traditional futures contracts:
+
+“+ There is no expiry date on contracts. Contracts are effective until traders close their
+positions.
+
+“* The underlying asset itself is never traded, therefore custody issues are mitigated.
+“* The swap price closely tracks the price of the underlying asset by utilizing funding rates.
+A mechanism ensures convergence of the perpetual price to the index price by
+
+exchange of currency swaps between long and short traders.
+
+The price of perpetual contracts would typically deviate from the underlying asset spot price.
+
+These differences reflect market sentiment: If the majority of traders expect the underlying
+asset to rise in value, the perpetual contract price will surpass the spot price. If the majority of
+traders believe the price will drop, the price of the perpetual contracts will be lower than the
+
+spot price.
+
+In general, perpetual contract trading on KumaDex is very similar to trading perpetual on
+centralized exchanges such as BitMex, Binance and FTX.
+
+The main difference is: All assets and trades are stored and executed on-chain. There’s no
+need to rely on counterparties and risk centralized off-chain servers. Users have full custody
+
+of their own funds.
+
+Virtual Automated Market Maker (vAMM)
+
+Our vAMM uses the same x*y=k constant product formula as most AMMs do. However, as
+the word virtual suggests, The vAMM itself does not contain an actual asset pool (k). Instead,
+the actual assets are kept in a smart contract vault that oversees all of the vAMM's
+collateral... In contrast to traditional AMMs, we use a VAMM as a price discovery mechanism,
+but not for spot trading.
+
+This allows KumaDex to operate with infinite liquidity with zero impermanent loss for
+
+stakeholders as liquidity providers aren’t required.
+The vAMM itself acts as an independent settlement market, all profits and losses are directly
+settled in a collateral vault.
+
+Traders use USDC as collateral to open long or short positions in a given asset.
+
+An important difference is that no swap is occurring. Unlike other exchanges, for example,
+where traders arrive with asset A and leave with asset B, on KumaDex traders always arrive
+with USDC, and leave with USDC. All profits/losses will be in USDC. Since there are no
+
+liquidity providers inside vAMMs.
+
+Traders may use leverage with KumaDex by backing a position with a margin, which is less
+
+than the total position size.
+
+Liquidation
+
+Each opened position on KumaDex has a margin and notional.
+
+The margin refers to the actual collateral used to back a position. The notional is the size of
+the position after leverage is considered, denominated in underlying assets. So a position
+with a margin of 1000 USDC and 10x leverage will have a notional value of 10,000 USDC.
+The ratio of the margin vs the notional size gives the margin ratio. If the market moves
+
+against you, as your PNL falls, your margin ratio will also fall.
+
+Liquidation occurs when your position margin ratio falls to 6.25% or below.
+It is triggered by bots. As a reward for performing this service, bots earn 1.25% of the
+
+remaining notional. The remaining margin will be placed in the protocol insurance fund.
+
+MarginRatic = (Margin + UnrealizedPVL) / PositionNotional
+UnrealizedPML = (ClosePrice - OpenPrice) * Position Size + FundingFee
+
+PocitionNotional = PocitionSize * MarketPrice
+
+Limit order and Stop orders
+
+With limit orders, you can place an order at a specific price or better. A buy limit order will
+be filled if the price matches your limit price or lower and a sell limit order will be filled at
+your limit price or higher.
+
+It's the same with Binance, but not placed on the order book as we are using vAMMs.
+
+The stop order is a combination of stop loss order and take profit order. The system will
+decide whether an order is a stop loss order or a take profit order based on the price level
+
+of trigger price against the last price or mark price when the order is placed.
+
+A stop-loss order is an order placed with a broker to buy or sell a security when it reaches a
+certain price. Stop-loss orders are designed to limit an investor's loss on a position in a
+security and are different from stop-limit orders. When a stock falls below the stop price the
+
+order becomes a market order and it executes at the next available price.
+
+A take-profit order (T/P) is a type of limit order that specifies the exact price at which to close
+out an open position for a profit. If the price of the security does not reach the limit price, the
+
+take-profit order does not get filled.
+Trade Fees
+
+A trading fee is charged when opening and closing positions on Kuma Dex.
+
+Collected fees will be used for project development and community encouragement.
+
+50% of fees will be deposited into the smart contract of Kuma Dex DAO and the other 50%
+will be allocated towards $dKUMA holders. Fees are all collected from the collateral vault,
+meaning stable coins.
+
+Note that this 50% - 50% ratio is the initial state, it may be adjusted by the community
+
+governance.
+
+Trade Example
+
+Step 1: Alice sends 100 USDC to the Clearing House on KumaDex and declares to use that
+
+fund as the initial margin to open a 3x leveraged long position.
+
+Step 2: Upon receiving the 100 USDC, the Clearing House deposits the funds into the
+Collateral Vault. After that, KumaDex updates the asset price in our vVAMM according to the
+
+margin amount, position direction (long or short), and the amount of leverage.
+
+The deposited funds from Alice aren't stored inside our AMMs, whereas on Uniswap, the
+deposited tokens from traders are indeed stored inside their AMMs. Due to this difference,
+we name our AMMs "Virtual AMMs" because there is no actual token swapping involved in
+
+our AMMs.
+
+Assume we have 1,000,000 KUMA and 10,000 USDC in our vAMM as its initial state.
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Step KUMA USDC
+Initial state 1,000,000 10,000
+Alice opens 29,126.22 long (300 USDC) 970,873.78 10,300
+Bob opens 44,947.86 long (500 USDC) 925,925.92 10,800
+Alice closes long and earns 29.35 USDC 955,050.54 10,470.65
+Bob closes long and loses 29.35 USDC 1,000,000 10,000
+
+ 
+
+ 
+
+ 
+
+ 
+
+Step 3: If Alice uses 100 USDC as the margin to open a 3x leveraged long position, which
+means that the amount of USDC in our vAMMs will become 10,300 (10,000+100*3), the
+amount of KUMA will become 970,873.78, (1,000,000*10,000/10,300), which is calculated by
+the constant-product curve, and the position Alice opens is 29,126.22 KUMA
+
+(1,000,000-970,873.78).
+
+Step 4: Following Alice, Bob uses 100 USDC to open a long position with 5x leverage. His
+
+position size will be 44,947.86 KUMA (970,873.78-925,925.92) as calculated by the vVAMM.
+
+Step 5: After Bob opened a long position, Alice decides to close her position and realizes a
+
+profit of 29.35 USDC
+
+Step 6: Seeing the price dropped, Bob wants to close his position to prevent further damage,
+only to find out that he lost -29.35 USDC
+
+2.2 Kuma Breeder
+
+We early introduced our Kuma Breeder and it is currently running on Ethereum mainnet
+
+(https://app.kKumatoken.com)
+
+ 
+Kuma Breeder is a yield farming protocol which offers a fresh approach to farming $4KUMA
+tokens. The Kuma Inu community can gain from the fair distribution system which ensures
+that the whole community benefits from Kuma Breeder farming pools.
+
+It currently has various of farming pools like ETH-dKUMA, ETH-KUMA, ETH-SHIB,
+ETH-LEASH, ETH-AKITA, ETH-ELON for LP pools and KUMA, SHIB, LEASH, AKITA, ELON
+for single token pools which are offering high interest rates.
+
+More pools are eligible to be added by community governance.
+
+2.3 Kuma Vault
+
+Kuma Inu will provide a Vault system for maximizing returns on investments.
+
+Kuma Vault involves pools of funds with an associated strategy on the asset in the vault.
+Vault strategies are more active than just lending out coins. In fact, a vault can do multiple
+things to maximise the returns. Each vault follows a strategy that is voted on by the Kuma Inu
+community.
+
+Kuma Vaults might be created as a direct response to yield farming and liquidity mining that
+made searching for the highest yield much more complex than just switching between
+different lending protocols.
+
+Similarly to the typical Defi Vaults, when users deposit tokens to a vault they receive their
+corresponding kTokens that represent shares of the vault.
+
+One of the important keys when you come to Kuma Vault, in general, is the fact that you
+always withdraw the same asset that was initially deposited. So farmed tokens and accrued
+fees are sold for $KUMA in the vault. Also you can increase your interest rate by staking
+
+kTokens to Kuma Breeder and farming $dKUMA tokens.
+Kuma Vault will be opened as a single vault which is responsible for stable coins
+DAIVUSDC/USDT.
+More vaults can be added by voting on the Kuma Inu community governance.
+
+GO
+
+Curve Guage
+CRV LP tokens ds din Guags
+- generate CRV tokens.
+
+    
+
+Get SKUMA + $4KUMA Rewards
+
+ge
+
+eS
+KUMA av
+* $KUMA Buy back
+UNISWAP Provide liquidity in Curve.ff 3 Cruve pool
+tl }____ and receive CRV/LP tokens which represent
+
+your share of the poo!
+KumaVault “se”
+
+ 
+
+ 
+3 Decentralized Autonomous Organization
+
+Kuma Inu’s goal is to be the first 100% fully decentralized community-driven project in space.
+To achieve it, we are going to offer DAO to the community, thus the community can control and
+
+drive the project.
+
+3.1 Kuma Vessel
+
+Kuma Vessel is a decentralized autonomous governance system for the Kuma Inu community to
+control the whole process of marketing, development and all other parts of the project.
+
+The primary voting token is $KUMA.
+
+From the regulatory perspective the project must be running under DAO authority.
+
+No team, No founders.. All community members are project owners.
+
+Devs and everything around the project will be hired by Kuma Vessel.
+
+Since the community is custodian of the project, funds will be stored in the Kuma Vessel smart
+contract. Everything will be paid by DAO.
+
+Decentralization. This is our dream.
+
+3.2 Kuma Dex DAO
+
+Kuma Dex DAO is another DAO for Kuma Dex product management and development.
+
+The primary voting token is $4KUMA.
+
+Since Kuma Dex is the biggest product of the Kuma Inu Community, we are going to separate
+DAO for dex product management.
+
+Anything can be decided and driven by Kuma Dex DAO regarding the dex product.
+For example, if someone wants to list a new coin to Kuma Dex, he might create a new proposal
+on Kuma Dex DAO. And the community decides whether to go or not.
+
+Also trading fee, rewards fee may be adjusted by Kuma Dex DAO.
+
+4 KUMA and dKUMA Tokens
+
+Kuma Inu Community now has 2 tokens - $KUMA and $dKUMA.
+
+4.1 KUMA Token
+
+KUMA v1.0
+
+Kuma Inu’s $KUMA has a total supply of 1,000T $KUMA.
+
+50% of the supply was allocated towards Vitalik Buterin as a gesture of peace, 12% to
+Ecosystem Fund for marketing, development, bug bounty, airdrop, burn events. Founders
+locked their tokens (10% of supply) for 100 years, and we already announced this to the
+community. Also 3% of supply was allocated towards Ryoshi as another gesture.
+
+Finally, 25% was apportioned towards Uniswap Listing paired with ETH, Uniswap was
+
+chosen as the primary platform listing of SKUMA on 12 May 2021.
+
+KUMA v2.0
+
+Kuma Inu Community showed integrity and unity in a will to have a 100% decentralized
+
+project.
+Robin Hood took wealth from The King to share it with people and Kuma Inu is doing the
+same on its base: we take back tokens from VB and share it with the community.
+Previous $KUMA v1 holders can migrate to v2 through the Migration contract.
+
+Now we are starting fully decentralization.
+
+4.2 dKUMA Token (Kuma Dex Governance Token)
+
+$dKUMA is a new token of Kuma Inu community and it is the primary utility token of Kuma
+Dex.
+
+There was no pre-sale or public sale for $S4KUMA tokens and 100% of $dKUMA tokens were
+distributed through Kuma Breeder as the Kuma Inu community worked towards a completely
+decentralized project.
+
+$dKUMA token is a deflationary token itself, but it will have the max supply which will be set
+
+by the community.
+
+5 Contact
+
+Telegram Community - https://t.me/KumalnuOfficial
+Official Twitter - httos://twitter.com/KumalnuOfficial
+Website - httos://www.kumatoken.com
+
+Medium - https://kumainu, medium.com
+
+Reddit - https://www.reddit.com/r/Kumalnu
+
+CoinMarketCap - https://coinmarketcap.com/currencies/kuma-inu/
+
+CoinGecko - https:/Avww.coingecko.com/en/coins/kuma-inu
+

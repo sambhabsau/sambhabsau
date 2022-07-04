@@ -1,0 +1,223 @@
+WHITEPAPER
+
+LEGAL STUFF
+THIS WHITE PAPER IS INTENDED TO ARTICULATE THE WSB PROJECT TO PROSPECTIVE TOKEN BUYERS DURING THE SCHEDULED TOKEN SALE EVENT.
+THE INFORMATION WITHIN THIS DOCUMENT IS NOT COMPREHENSIVE AND SHOULD IN NO WAY BE CONSIDERED INDICATIVE OF A CONTRACTUAL
+RELATIONSHIP BETWEEN WSB AND TOKEN BUYERS.
+ITS SOLE PURPOSE IS TO PRESENT ADEQUATE AND RELEVANT INFORMATION TO PROSPECTIVE HOLDERS TO HELP INFORM THEIR DECISION.
+THE CONTENTS OF THIS DOCUMENT DOES NOT CONSTITUTE AN INVESTMENT PROSPECTUS OR SOLICITATION FOR INVESTMENT. NEITHER DO THEY
+CONSTITUTE AN OFFERING OR THE SOLICITATION OF AN OFFER TO BUY SECURITIES IN ANY JURISDICTION.
+THIS WHITE PAPER HAS NOT BEEN CREATED WITHIN A LEGAL OR REGULATORY FRAMEWORK FOR ANY JURISDICTION.
+PROSPECTIVE PURCHASERS OF WSB TOKENS ACCEPT ALL RISKS INVOLVED AND ARE RESPONSIBLE FOR ENSURING THEY MAINTAIN COMPLIANCE WITH ALL
+RELEVANT LEGISLATION IN THEIR OWN JURISDICTIONS. THE DISTRIBUTION OF THIS DOCUMENT AND PURCHASE OF WSB TOKENS MAY BE RESTRICTED BY
+LAW IN CERTAIN JURISDICTIONS.
+READERS OF THIS DOCUMENT AND PURCHASERS OF THE WSB TOKEN SHOULD ENSURE THEY ARE INFORMED OF ANY RELEVANT LEGISLATION AND
+SHOULD COMPLY WITH IT.
+IT IS THE SOLE RESPONSIBILITY OF THE READER/BUYER TO ENSURE THAT PARTICIPATION IN THE TOKEN SALE IS PERMITTED UNDER APPLICABLE LAWS IN
+THEIR COUNTRY OF RESIDENCE OR DOMICILE.
+WSB TOKENS SHALL NOT BE OFFERED OR SOLD TO, OR FOR THE ACCOUNT OR BENEFIT OF, A CITIZEN OR PERMANENT RESIDENT OF THE UNITED STATES,
+SINGAPORE OR THE PEOPLE’S REPUBLIC OF CHINA, OR ANY RESIDENT OF A COUNTRY IN WHICH AMERICAN EMBARGOES AND/OR SANCTIONS ARE IN
+EFFECT, WHETHER DOMICILED FOR TAX OR OTHERWISE, AND WHETHER RESIDENCE IS PRIMARY OR OTHERWISE. THIS INCLUDES NORTH KOREA, IRAN,
+SYRIA, SUDAN, AND CUBA. ANY INDIVIDUAL WHO MEETS THE ABOVE CRITERIA IS NOT ELIGIBLE TO PARTICIPATE IN THE WSB TOKEN SALE IN ANY FORM.
+CERTAIN STATEMENTS IN THIS WHITE PAPER MAY BE CONSIDERED FORWARD-LOOKING. SUCH STATEMENTS AND FURTHER INFORMATION ARE OFFERED
+FOR ILLUSTRATIVE PURPOSES ONLY AND ENTAIL BOTH KNOWN AND UNKNOWN UNCERTAINTIES AND RISKS WHICH MAY LEAD TO SIGNIFICANTLY DIFFERENT
+OUTCOMES FROM THE ONES GIVEN WITHIN SUCH STATEMENTS. WHERE THIS WHITE PAPER IS TRANSLATED INTO DIFFERENT LANGUAGES, RELEVANT
+INFORMATION MAY BE MISREPRESENTED OR LOST, AND THE RELIABILITY OF NON-ENGLISH WHITE PAPERS CANNOT BE GUARANTEED.
+
+*** Not Financial Advice ***
+
+WSB DApp
+is a community-owned and operated decentralized
+version of r/wallstreetbets.
+
+WSB DAO was created to openly encourage the free flow of public information and opinion
+into actionable results. So that anyone, everywhere can
+
+YOLO together as one.
+
+WHY
+BLOCKCHAIN?
+
+TRADITIONAL ASSET
+MANAGEMENT
+Traditional asset management focuses on the investment and custody of
+wealth. Centralized financial institutions such as Banks and Hedge Funds derive profit from the sale of financial products like bonds and derivatives to retail
+investors. When selling these products, banks and other financial institutions
+set their own rules while also charging fees for managing these on behalf of
+their customers.
+Blockchain is a distributed network that enables fair information sharing and
+democratic access to freely traded financial assets valued today over $1T in
+daily volume.
+
+*** Not Financial Advice ***
+
+THE WSB DApp
+It’s time to fully decentralize Wall Street.
+Introducing the Wall Street Bets ETP (Exchange Traded Portfolio)™
+- not like your parents ETFs These are 100% blockchain assets traded 24/7, t0, borderless, self-custodial,
+instantly redeemable, liquid, and completely fungible.
+
+*** Not Financial Advice ***
+
+THE WSB DApp
+WSB DApp is an interface for
+
+SB DAPP
+
+community-driven version of
+BlackRock or other instrument
+providers.
+
+olves the problem of
+
+d MARKET
+The WSBMANIPULATION
+DApp solution design
+allows for index-fund type
+
+have solely benefited
+instruments to exist on the
+ized financial
+institutions
+blockchain.
+for the past
+$WSB governance token holders
+
+100 YEARS
+
+$WSB TOKEN HOLDERS
+BSC
+
+VOTE
+
+6 Month
+Perpetual Stake
+
+VOTE
+
+$$
+
+DAO
+
+vote to decide on the rebalancing
+and exposure of each community
+controlled instrument.
+
+MARKET BUY
+VOTED
+
+MARKET
+*** Not Financial Advice ***
+
+Profits
+back to
+
+DAO
+
+• Users log in with MetaMask on
+WSBDApp.com
+• Select an “Exchange Traded Portfolio”™
+‘ETP’ eg “WSB Yolo Stonks ETP”
+• Send stablecoin to the smart-contract.
+• Receive back ETP tokens automatically,
+representing their share of the
+underlying ETP assets.
+The ETP’s are:
+• Wholly Collateralized - (each deposit
+automatically buys each asset from
+DEX’s)
+• Instantly redeemable - anytime (each
+withdraw automatically sells each asset
+from DEX’s).
+• Self-Custodial - You hold the keys/coins.
+• Subject to standard 2% annual AuM fees
+- Use of the accumulated fees are voted
+on by $WSB governance token holders.
+
+The WSB DApp solves the problem of fees
+and market manipulation that have solely
+benefited centralized financial institutions
+for the past hundred years.
+
+*** Not Financial Advice ***
+
+WSB DApp ECOSYSTEM
+$WSB Crowd Votes
+On ETP Rebalancing
+
+VOTES
+
+WEEKLY / MONTHLY / QUARTERLY POLLS
+50%
+
+VOTES
+
+VOTES
+
+73%
+
+On-Chain proposal is
+created with ETP
+rebalancing changes.
+$WSB governance token
+holders vote to implement
+the rebalance.
+
+64%
+
+VOTES
+
+DIAMOND HANDS VOTE
+
+APES REBALANCING
+THE ETP
+
+*** Not Financial Advice ***
+
+Starting frequency of
+rebalance is fornightly.
+$WSB token holders can
+submit any on-chain
+proposal once WSB Dapp
+is fully automated
+(June/July milestone)
+
+WSB DApp
+Blockchain is a distributed computing system that creates infallible records of
+transactions. Bitcoin, Ethereum, and Binance Smart Chain are examples of new markets
+generating enormous wealth held together by individuals.
+Using blockchain technology, $WSB Governance token holders vote on regular rebalancing of ETP’s. Think that TSLA
+should be 90% instead of 10% of an ETP Portfolio? Vote on it. Votes are weighted according to the size of an individual’s
+$WSB holdings before the timer runs out each rebalancing cycle.
+The timer is based on a certain predetermined block height for when votes are cast. WSB DApp will start poll on fortnightly cycle to begin with for the initial ETP product. $WSB holders could also submit a proposal for new ETP concepts,
+changing of rebalancing frequencies, key industry integrations and much more.
+Vote results are public and verifiable on-chain. Votes for rebalancing the ETP Products such as the “WSB Yolo Stonks
+ETP” or “WSB Yolo DeFi ETP” and the resulting rebalance is also transparent and on-chain.
+The ETP products will contain a 2% per annum management fee. The $WSB Governance token holders will vote on what
+to do with accumulated funds. Example only: some may propose to use these proceeds to buy & burn $WSB. Or perhaps
+allocating more funds to developers to build further ETP’s. Or even vote to remain locked in the contract creating a giant
+honeypot over time which will amass a huge fortune or it could just go to zero, whichever the crowd prefers.
+
+*** Not Financial Advice ***
+
+ROADMAP
+
+LONG-TERM
+
+TENDIES
+With more and more funds invested in the DeFi sector,
+WSB DApp brings more diversity to the ecosystem.
+Crypto-finance applications and asset management tools
+are dominating the space, WSB DApp aims at providing
+endless opportunities and supporting the WSB ecosystem
+through strategic partnerships.
+
+*** Not Financial Advice ***
+
+TOKENOMICS
+
+*** Not Financial Advice ***
+
+*NOT FINANCIAL ADVICE*
+
+

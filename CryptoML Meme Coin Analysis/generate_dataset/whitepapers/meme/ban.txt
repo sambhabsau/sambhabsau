@@ -1,0 +1,874 @@
+BANANO: a Feeless, Instant, Rich in
+Potassium Cryptocurrency Powered by DAG
+Technology Disrupting the Meme Economy
+
+Banoshi Nakanano
+
+www.banano.cc
+
+Abstract
+
+Don't let your memes be dreams.
+
+ 
+1. Introduction
+
+In the year 2009, we saw the introduction of the first ever decentralized payment network, the mother
+of all coins, Bitcoin [1]. In the years that followed, global interest grew and Bitcoin inspired the
+genesis of numerous cryptography based projects that also worked towards trustless secure payment
+systems and storage of value.
+
+Bitcoin uses blockchain technology where a distributed ledger records transactions chronologically
+and publicly. Subsequent advancement in the space gave rise to second generation projects like
+Ethereum, Litecoin, EOS, Stellar, Monero and many others, which built on this concept by adding
+new features, and sometimes by acting as platforms for dApps - the execution of decentralised
+applications. Then finally in 2015, Sergio Lerner published a paper describing the applicability of so-
+called Directed Acyclic Graphs (DAG) to the field of cryptography [2]. This concept was adopted by
+multiple third generation cryptocurrencies. One such project originally developed by Colin LeMahieu
+emerged by specifically targeting the scalability issues plaguing generations one and two: Raiblocks.
+Raiblocks rebranded to NANO in January 2018 [3].
+
+BANANDO is a feeless, instant, rich in potassium cryptocurrency powered by DAG technology
+disrupting the meme economy. It is the first ferk peel of NANO, the genesis block redefining the
+memeconomy on | April 2018. Oh, did you know that Colin Lemahieu, the founder of Nano, likes
+us? Yea, that’s right (Figure 1)!
+ 
+
+a
+
+OD
+o
+
+Figure 1: “7 think memecoins are hilarious, we have one, we have BANANO, I like those guys!”
+Colin LeMahieu, Nano Founder
+
+Similar to NANO, BANANO has quite more properties and advantages over classical
+cryptocurrencies than simply being high in potassium, obviously (Table 1).
+
+Table 1: Feature comparison: BANANO vs. Bitcoin
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Feature Bitcoin BANANO
+Block Interval 10 Minutes on Average Instant
+Confirmation Time About 30 Minutes 3 Seconds
+Transaction Fees Up to $50 on Average Free
+Energy Use Immense Negligible
+Distribution Mining Faucets, Games, Contests
+Transaction Throughput Low and Limited High and Unlimited
+Participation Permissionless Permissionless
+Cryptography Basic Advanced
+Hashing Algorithm SHA256(2001) Blake2b (2012)
+Signing Algorithm ECDSA (2009) ed25519 (2011)
+Consensus Proof of Work Open Representative Voting
+Chain Type Single Chain Asynchronous Chains
+Backing Speculation Memes
+Deployement Status Deployed January 2009 Deployed April 2018
+
+ 
+2. Background: What is BANANO?
+
+BANANO started as a joke between a devoted group of NANO contributors and resulted in a coin
+being the product of a considerable amount of effort (without taking itself too seriously). While it's
+true that BANANO kept big portions of the original node code to keep cross-chain compatibility
+between existing code libraries, many parameters have been fine-tuned, such as work requirements
+and units. As it progresses, the node code will likely diverge further. NANO has the mantra of ‘do
+one thing and do it well’. BANANO, however, is more open to feature additions, e.g. on-chain
+messaging or privacy. BANANO doesn’t aim for drastic modifications of the reference
+implementation of the node at this early stage: it’s more about improving the ecosystem and ensuring
+we have the best developers to do so!
+
+It’s hard to overlook the exceptional tools and utilities that our hard working develepers monkeys
+have contributed thus far. Take a peek at BANANO’s mobile wallet, Kalium (Figure 2). It’s a modern
+mobile wallet designed to be efficient and effective when transferring BANANO between you and
+your banfam - that is to say, your BANANO Family. With it, you can send instant transactions to
+anyone, anywhere, for free! On top of this and in line with the overall philosophy behind BANANO,
+Kalium is easy-to-use to ensure anyone will be able to get started with BANANO in minutes, without
+requiring any crypto-related knowledge whatsoever.
+
+Figure 2: Kalium - BANANO’s mobile wallet (Download).
+
+“18,800 8
+
+trate
+
+SEND FROM
+
+ate)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Tati te
+
+Crate
+
+Copy Address
+
+ate)
+
+|
+Co
+
+SS
+
+ 
+
+ 
+
+We also haven't forgotten the roots of our BANANO tree. We made the tech from Kalium Wallet
+available for NANO users with Natrium, a mobile wallet for NANO based on Kalium tech! Adding
+features and helping other developers to create feasible concepts are just some of the few things we
+do while hanging in our BANANO hammocks. Most importantly, we work on the BANANO
+ecosystem and second layer solutions such as CAMO BANANO, our super-secret privacy layer,
+which is currently in development (Phase 1 announcement).
+
+BANANDO prides itself in its acttve development and pro-active community. BANANO community
+members have created fascinating projects, such as an implementation of BANANO into Minecraft,
+guild rewards in mobile games and apps, and even faucet bots on popular streaming platforms and
+
+highly used tipbots on major social media platforms such as Telegram, Twitter, Discord and Reddit.
+
+One of the most impactful differences between NANO and BANANO is that we started with billions
+of newly minted coins (Figure 3), 3.4 billion to be exact, that we use to continually run faucets that
+propagate DAG technology, fuel the tipping economy, and fund community projects. In that way, our
+objectives are similar to those of the NanoCenter—a community of NANO fans, investors, and
+contributors who operate parallel to NANO core.
+
+BANANDO follows a gamification approach and strives to also get into the hands of people who have
+never iteracted with crypto betore. Given its (apparently) silly and potasstum-nich nature, BANANO
+is friendly and somewhat forgiving to new users. Let’s be real, losing “some memecoins earned from
+sh*tposting” is not half as bad as “suffering a stolen” on a large investment. After all, making the start
+with cryptocurrency as easy as possible through a fun attitude, gamification, and education is a main
+aim of the project, finally enabling everyone to finally handle crypto assets in general in a responsible
+
+way.
+
+ALSO, it’s important to note: behind all the memes and sh*tposting, the BANANO operation has a
+hichh-skitedteam dedicated community, and it is very, very, legit.
+
+ 
+
+Figure 3: BANANO is the first peel of the NANO cryptocurrency and adheres to the open-source spirit. In the figure
+
+above, NANO in its raw form is remodelled through a combination of proof-of-work optimisation and potassium doping,
+
+resulting in unprecedented performance.
+3. BANANO Specifications
+
+3.1. Accounts
+
+In order to keep your precious BANANO safe, you'll need a wallet. A wallet can be accessed using a
+public key, also known as a wallet address; and a private key, also known as a seed. Together, the
+public key and the private key form a key-pair. The wallet address is its public key, it’s basically like
+your bank account number. You can share your wallet address with anyone in the world and your
+BANANO will remain secure. Every BANANO wallet address begins with the prefix, "ban_"
+(Figure 4).
+
+Fg BANANO
+
+ban_lmemelyacdid
+1u69wcu/et3kzrr1l
+
+s4yoizd9mx/nstaqp
+1c9e69979m)d4fun
+
+SBAN BANANO.CC
+
+ 
+
+Figure 4: A BANANO public address, starting with “ban_”. The QR code shown contains the exact same information and
+
+can be read by applications such as Kalium.
+
+A wallet ceed ic knawn ac ite nrivate kaw hecance it ahealitely muct he kent nrivate Tt’¢ the
+22 VYGILUL OUUEE 19 JNUIU YVUL Go LU PIV OLY Rwy USUI IL GUOULULeLYy LILLE Ue RYE plivaiw, 209 WIN
+
+equivalent to your bank account login information. Never share your BANANO seed! Anyone that
+has your seed can access your delicious pile of BANANO, which can lead to a potassium deficiency.
+
+To join the other jungle MonKeys and get a BANANO wallet of your own, you've got several options
+(Figure 5):
+
+* Desktop wallet: BANANO Vault Web Wallet.
+* Mobile wallet: Kalium (Android & iOS).
+
+¢ Hardware wallet: Ledger Nano S model is supported with the BANANO Vault.
+
+Account Details
+
+ 
+ 
+Received
+
+999
+
+Received
+ae.
+
+Received
+
+Receive
+
+Confirm transaction
+
+1919BAN “
+
+ 
+
+Figure 5: Overview of main BANANO wallets.
+3.2. Rise of the Block Lettuce
+
+How is BANANO developed to offer feeless, almost instant transactions? Enter the Block Lettuce.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+Figure 6: Block Lettuce.
+
+BANANDO uses a Block Lettuce (Figure 6) architecture to achieve lightening-quick transfer speeds.
+Each account has its own blockchain. Transferring funds from one account to another requires two
+transactions: a send which deducts value from the sender's balance and a receive adds the same
+amount to the receiver's balance. An account encodes its accumulated total balance when it makes a
+transaction, therefore nodes only need to keep track of the latest block rather than expend larger
+resources to track an account's full transaction history. Correctness is maintained, however there is a
+vast reduction in time and work versus a single-blockchain architecture used by other
+cryptocurrencies.
+
+3.3. BANANOdes
+
+The BANANO ledger is secured through Open Representative Voting (previously called ‘delegated
+Proof-of-Stake’), a powerful decentralization mechanism that has no strong analog in Proof-of-Work
+(PoW) or Proof-of-Stake (POS) algorithms. In conventional PoS systems, the account owner's node
+must be running to participate in voting. By contrast, BANANO account holders choose a
+representative node to vote on their behalf in the event of conflicting transactions. Continuously
+running a node is impractical for many everyday users; giving a representative the power to proxy
+vote reduces that requirement. A user has the ability to easily reassign their representative to any
+account at any time through a change transaction. The weight of the account is subtracted from the
+old representative and added to the new representative. No funds are moved in this transaction, and
+the representative does not have spending power of the account's funds.
+
+PoW in BANANO is solely used as an anti-spam tool and computation is almost instant. Once a
+transaction is sent, the PoW for the next block can be pre-computed, as the previous block field is
+already known. Therefore, as long as the time between transactions is greater than the time required
+to compute the PoW, transactions appear instantaneous to users (Figure 7).
+
+ 
+ 
+
+Figure 7: A real-time Kalium transaction and BANANO & NANO speed comparison.
+
+3.4. Proof-of-Work
+
+NANO's Proof-of-Work mechanism intends to serve as an anti-spam mechanism at the cost of
+unnecessarily delaying block generation on low-end machines. This makes community projects and
+field studies harder to maintain and grow. NANO's ability to pre-cache one work upfront doesn't help
+much, and concurrent work caching often isn't feasible either. That's why for BANANO, we chose a
+quicker proof-of-work generation time, but kept the original algorithm (hashing a nonce that is
+concatenated with the block hash, until the result exceeds a certain threshold). As a result, the
+BANANDO protocol runs on low power hardware, enabling it to be a lightweight, practical and
+decentralized cryptocurrency for everyday use. On average, generation times are 8x faster for
+
+Wawra . AT ART a4 oo4 1 ’ m1 . a a 10
+BANANU tnan tor NANU while consuming &x less electricity. Lnere’s a mathematical formula to
+calculate this: (2°4 - Oxfffffe0000000000) / (2°4 - OxffffffcO00000000), this work generation is even
+mobile friendly! Existing work generator software is backwards compatible, but it should be adjusted
+to the new threshold to not waste energy unnecessarily.
+
+3.5. MonKey
+
+Cryptocurrency wallet addresses are typically long strings of characters that can be nearly
+indistinguishable from each other. MonKeys solve this long-standing problem through the creation of
+unique, monkey-shaped avatars from a hash value based on a user's public key. These visual
+representations of wallet addresses serve to identify users while protecting the privacy of the account
+holders (Figure 8).
+Figure 8: Your MonKey is unique! No two wallet addresses share the same MonKey!
+
+Each Monkey has a unique combination of fur and eye colour, and can have additional accessories in
+varying styles, such as hats, glasses, shirts, pants, mouth types, tail decorations, and more! The value
+of the accessories is classified into 3 categories: basic, rare, and premium. The rarity ranges from 1/2
+to 1/32 and 1/1024 Monkeys, respectively. There are hundreds of billions of possible MonKey
+combinations. Consider that RGB color ranges from (0,0,0) to (255,255,255). Therefore, there are
+256? = 16,777,216 color options. By only examining fur color and eye color generation we get
+16,777,216? = 281,474,976,710,656 Monkey options. This is without even considering the 7 classes
+of accessories and their corresponding coloring! For testing purposes, we’ve implemented a MonKey
+generator right below (Figure 9). This generator allows you to experiment with MonKeys even
+without having a real wallet address (even though creating one is recommended and only takes
+seconds). You are welcome to try it for yourself, maybe you will be lucky and draw a premium
+accessory!
+
+Figure 9: MonKey Generator
+
+ 
+ 
+
+ 
+
+Randomize
+
+ 
+ 
+
+4A. CAMO BANANO - Private Coins on BANANO
+using ECDH
+
+A well known cryptographic challenged
+
+ 
+  
+
+ 
+
+that of privacy: preyention of unauthorized extraction of
+
+information from communications 0 re her companies nor individuals want
+
+   
+  
+  
+   
+   
+  
+   
+  
+
+all of their information being public | way it can be read without any
+restrictions by governments, family ompetitors. Serving as
+BANANO's privacy layer, CAMO @
+
+seed. To share it securely they put it int
+
+fe 1S a way for two people to share a
+ssentially it!
+
+Of note, CAMO BANANO Phase | as di
+confidential transactions, but not for rea
+
+tently being available allows for
+‘development will include the
+requirement of adding a new block type ocol and subsequently allow for sum-
+
+of-squares private transactions.
+
+ 
+ 
+
+Figure 10: CAMO BANANO graphic.
+
+The current CAMO solution currently consists of three layers of technology:
+A) Blockchain steganography
+B) Storing ECDH public key in the blockchain
+
+C) Private reversible transactions using shared seeds
+Private irreversible transactions using shared public keys
+
+4.1. Blockchain Stenography and ECDH
+
+Each BANANO wallet houses multiple addresses and is accessed using a seed. It is assumed that both
+party A (Alice) and B (Bob) in the transaction have an existing seed for an existing wallet. The main
+purpose of this system is to send funds from Alice's wallet to one of the wallets owned by Bob,
+knowing only Bobs seed and its first enclosed wallet. By splitting transactions of funds between
+multiple wallets under a single seed each party is in control of the funds but do not show up on a rich
+list.
+
+4.2. A Private Reversible Transaction
+
+1- Assume Part A (Alice) and B (Bob) have an existing seed and wallet.
+
+2- Alice and Bob achieve a shared secret using Elliptic-curve Diffie-Hellman (ECDH) [4].
+
+3- Alice and Bob must agree on a third neutral location to use to mix the funds and obfuscate records
+of their transactions to any eavesdropper (Eve).
+
+4- Alice sends three transactions to herself to store the seed of a third party on the blockchain. To do
+this, she leverages the fact the BANANO balance field has a precision of 29 places after the decimal
+point, i.c. you can store 11 bytes of data in the balance field 2. Alice splits the 32 byte public key into
+three chunks of 11, 11, and 10 bytes and sends three transactions to herself encoding these bytes in
+the balance field.
+
+5- Bob looks through Alice's transactions historv and finds three where the representative is the hash
+~~ -- ee - oO --- - were wes ype ~ -- - - ~ ep eee wee ee - ~
+
+of the shared secret. Bob combines theses to obtain the seed Alice hid in the blockchain. This seed is
+now neutral to both participating parties, and only both parties have access to it. At this point, if Alice
+sends funds to this neutral location the transaction can be considered reversible.
+
+6- Alice sends funds to the first N addresses contained in the neutral seed, starting at the zeroth
+address. She uses multiple transactions where the total number N is determined by the total amount of
+funds to be sent. In the Camo Phase | release this is orders of 10 BANANO: 10, 100, 1000 .... In
+production it is intended to be split according to how transactions in the blockchain look at that point
+in time.
+
+7- Bob moves funds from each used address in the neutral seed to N separate addresses under a seed
+in his control. To Eve, it appears Alice simply sent out many random low payments, which then each
+
+went onto a second address. However, if Bob consolidated into his wallet at only its zeroth address,
+Eve could then collapse the graph and see all the transactions went from Alice to Bob.
+
+4.3. A Private Irreversible Transaction
+
+Using the same method as reversible transactions, a new wallet is created instead of a new seed. The
+new wallet is controlled by only one party, so transactions are not reversible. The new wallet is stored
+on the blockchain in almost the same way as the reversible seed. The only difference is that the
+representative is set to the hash of the hashed shared secret and the public key, to distinguish it from
+the reversible transaction.
+  
+
+   
+
+@ in the future). Apart had a —_ ue distinction fro
+
+other cryptocurrency projects from
+faucet games. You heard it right, we td t just some boring faucets, we have faucet games! E
+legendary BANANO Runner game (Figure 11) with its first round in April 2018 was a huge success
+
+and an unprecedented form of airdropping a new cryptocurrency to its community.
+
+ive
+
+5. vA...
+md. is freely distribut games, contests, giveaways, and air f
+bog and Doge hold ted with aes via aird
+
+sica
+
+nning: Free coin distribution through i in
+
+ 
+ 
+
+Figure 11: A video from BANANO Runner - we’ll never forget this legendary BANANO faucet game!
+
+One of the highest aims of the ongoing free distribution of BANANO always was (and still is) to
+keep the distribution fair. Unfortunately, there have been attempts to bot and exploit BANANO faucet
+games from the very beginning. That’s one of the reasons why BANANO Runner sadly had to be
+
+discontinued after 5 highly successful rounds with thousands of participants.
+
+In addition to rains and tips at our discord server and lots of tips also through tipbots at our
+
+subreddit, twitter account and telegram groups (Figure 12), lots of often innovative events have
+
+been running in order to continue the free and fair ongoing distribution, including various contests &
+
+giveaways focusing on fun and creativity. Of note, both official and unofficial contests and games are
+
+an integral part of the BANANO ecosystem.
+
+BananoBot++ @
+
+V1.4}
+deposit
+
+96 BANANO by Randomizer. You
+can mute tip notif ons from this person
+using .mute 327379434183196673
+
+Wie ae-]
+
+RI-14 16)
+lor] a mL aats) STE Le 7et3kzrrls4yoizd9mx/7nst
+fel olecrete)
+
+BananoBot++ @6m
+ransaction has bee eT aoa aS
+yu a link to the block expl
+
+n I've broadcasted
+
+fimo neMal-
+
+ 
+
+address
+
+Your deposit address is :
+
+ban_lzddprdu564x7bmrdpaz8rowpfei9bnmhuinzwzfur
+jprlyn3yxufds4a8ik
+
+balance
+
+Your balance is :
+
+35135.00 BANANO
+
+Send 20000
+ban_3h7s8gixffadfwzdce4s8tu47q/fenxr4xooderfxkd86
+7sbrly9xmypm4qee
+
+Successfully sent 20000 BANANO to
+ban_3h/s8gixffadfwzdc4s8tu4/q/fenxr4xooderfxkd86
+Wale Aye) Canhy sage ce(=1-4
+
+You can view this transaction on
+
+send 100
+ban_lmemelyacdi5iu69wcu7et3kzrrls4yoizd9mx7nst
+qplc9e69979mjd4fun
+ban_136urkyoa658emcreyh6a7
+qtgmg5y8c86razmwuugut6om
+djinw15pwxaupo
+
+Available: 0.0 BANANO
+
+ai) Pending: 1.0 BANANO
+
+You have successfully
+withdrawn 1.0 banano! You can
+check the transaction at
+
+ 
+
+Figure 12: BANANO Tipbot wallet overview.
+
+Finally, several new faucets and faucet games have been developed, tested, and are meanwhile
+running permanently or intermittently! Here’s a brief, incomplete insight about some current faucets
+at the time of writing. Please make sure to visit our website at banano.cc for an updated overview.
+
+10
+5.1. Black Monkey
+
+With the name being a reference to the term of the “black sheep”, the Black Monkey faucet game
+revolves around finding the odd Monkey out of 6 Monkeys. Each MonKey will have some
+combination of hat, glasses, smile, skin color, clothing, shoes, and accessories. The goal is to identify
+the one Monkey being different, while the other 5 Monkeys have absolutely identical items of that
+type (Figure 13).
+
+Visit blackmonkey.banano.cc to play.
+
+=) feleol at Lela coy]
+
+Game will start March 12, 9AM UTC
+
+TTT PUR eA POO TAP OR REN ad uel ie litew era ure alone eee au ureter leh wala)
+Trace ID: 2518503058682094373
+
+§ Player profile / statistics ¥
+
+ban_3palm3g79ilh7uijugndjeytpmqbsg6hc19zm8m7 foqygwosimmcqmab91hh
+
+Level: 6
+
+Score: 68 (Rank: 13) Total Black Monkey games played: 3
+Hours played: 0.2 Total hours played: 0.6
+
+Ol eke lr msle) Total correct answers: 176
+
+LOT remit aee)
+
+Longest no-errors series: 23 (Rank: |) Best no-errors series: 23
+
+ 
+
+5.2. Meme Faucet
+
+The BANANO Meme Faucet consists of writing and verifying descriptions of various memes or
+other images. When you submit a description, it will be evaluated and compared to the relative
+picture by another user, who will act as both faucet-user and “inspector” (Figure 14).
+
+Visit memefaucet.banano.cc to play.
+e Banano meme faucet Banano Website Banano Discord How to play
+
+Price table
+
+1000 BAN = $1.458
+‘Your balance: $0.2644
+Sell Banano
+How fo sell Banano
+
+Describe the picture that you can see. Characterize objects, persons,
+background, shapes as detailed as possible. Please write the description in the
+following language: espafiol, castellano.
+
+ 
+
+Vegetacién de colores variogintos y silvestres son el recibimiento de esta
+hermosa fotografia, en la que dos globos aerostaticos de miltiples colores
+estén enprendiendo 1 vuelo.
+
+ 
+
+Figure 14: A screenshotifromcBANANO Meme Faucet.
+
+Coot-iown fime unti next question’ 0 seconds,
+
+ 
+
+5.3. Crane Faucet
+
+The crane faucet is run 24/7 and consists of solving captchas and various other “minigames” such as
+“Monkey Match’ or ‘Catch the Monkey’ (Figure 15).
+Visit faucet.banano.coranos.io to play.
+
+ 
+
+* a Sa ae ae a], *
+
+Welcome to the Banano Crane Faucet!
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+5.4. BANANO Mining
+
+It’s rarely mentioned that some fresh cryptocurrencies like BANANO (and it’s father NANO) do not
+require mining and therefore are highly innovative examples for ecologically “green”
+cryptocurrencies. However, in this case we purposefully branded our new Folding@Home faucet as
+“BANANO Miner’ (Figure 16). This naming choice was made as a way of stating that
+
+cryptocurrency mining is not without alternatives!
+
+ 
+
+BANANO
+MINER
+
+ 
+
+Figure 16: BANANO Miner - Contribute to Medical Research while earning BANANO!
+
+There are 2 separate faucet projects in this category, BANANO Powerplant and the BANANO
+Miner Faucet.
+
+BANANO Powerplant is a CPU mining pool faucet that mines a range of different altcoins and pays
+out with BANANO. The payments are subsidized by BANANO, so the rates are better than mining
+the altcoins directly.
+
+Visit powerplant.banano.cc to try it out.
+
+BANANO Miner is not really a miner. Instead of running arbitrary calculations to “mine” a
+cryptocurrency, your computer runs protein folding simulations through Folding@Home, which
+helps researchers fight Parkinson’s, Huntington’s, Cancer, Alzheimer’s and many more genetic
+diseases, and infectious diseases. Then, we send BANANO to your wallet based on the size of your
+computational contribution (Figure 17).
+
+Visit bananominer.com to try it out.
+
+ 
+
+Figure 17: Fight diseases with computational power while earning BANANO!
+
+12
+Visit MonkeyTalks.cc
+
+or not, | don’t care.
+
+message you'll need topes all fee in BANANO. Second, it’s self-sustaining since your payment
+in turn refills the fq ly, it's on-chain because any message sent through Monkey Talks
+
+ 
+
+it’s engraved into the transaction’s RAW: this means that all of the messages are publicly visible and
+basically immutable because they were written into the BANANO blockchain. Monkey Talks is
+basically a proof-of-concept website that combines a faucet giving out free BANANO with an actual
+application BANANO can be used for. There’s a clear incentive to visit the site to claim the faucet,
+which in turn incentivizes users to pay BANANO for a message many people will see. To make this
+more interesting, you can also choose to pay a little more to highlight your message in a different
+color.
+
+Visit monkeytalks.ce to try it out.
+
+y ly LSA Lt
+
+Bol ata ett ta
+
+hppy bday bnn =
+
+ 
+
+Scan the OR code with Kalium
+and send 25.2173~ Banano to
+
+Peele) pms aa ato
+
+Py Pimp My Message
+
+a
+welcome tomt — 11:00 AM, Mon, 4/01/2019
+-
+
+dit it & strt again
+
+6 2019 tuesday &
+
+Figure 18: Monkeytalks - A self-sustaining BANANO faucet including on-chain messaging!
+
+ 
+
+5.6. Inflation versus Deflation
+
+While its ongoing free and fair distribution program surely resembles one of the biggest strengths of
+BANANO and has led to a rapidly growing community, it also logically leads to inflation. That’s why
+the BANANO team in July 2019 announced a monthly “Buy-Back and Burn’ scheme (article). In
+brief, the BANANO team uses earnings from faucet monetization (mainly mined coins and income
+from advertisements) to buy back BANANO from exchanges and subsequently sends all bought
+BANANDO to a burn address, making respective coins ultimately inaccessible. The overall aim of this
+approach is to stabilize markets especially during the ongoing free distribution phase (Figure 19).
+Coin burns unrelated to this program have occurred, and may happen again in the future.
+
+ 
+ 
+
+Figure 19: BANANO has a ‘Buy-Back and Burn’ program.
+
+13
+   
+  
+ 
+     
+  
+
+* BANANO (BA ' offersiiteless, i
+green transactions. @ utilizes ir Graph ed bl
+
+it and ecologically
+ettuce™
+
+6. Summary a . , ‘ {
+
+  
+
+O did no ICO what
+
+* BANANO was forked in April 20 ver, instead all
+
+     
+ 
+
+     
+ 
+
+    
+    
+
+  
+
+coins were and are distributed throug! air distribution pro , through
+Airdrops, Faucet Games and other e is also experi ing with feature
+additions such as a privacy layer in sagin onkeyfalks) and more.
+* In the context of distribution is usifig theif@pfrastructure with easy-to-
+
+     
+   
+
+use mobile wallets (Kaliun social med to onboard normies
+
+and crypto-noobs who
+
+  
+
+p
+te, the
+
+d a gamiiffication
+
+   
+ 
+
+cy is. Of here is to make the
+
+ 
+ 
+    
+
+start with crypto as eg roach to get new
+
+users started witho em to le crypi@€urrencies ina
+
+responsible way.
+¢ At the time of writing, BANANO is already heavily used in tens of thousands of daily on-chain
+transactions for tipping and payment within our community and on several third-party platforms.
+
+¢ The main hub where the BANANO community resides and collaborates is our Discord server.
+Here you'll find BANANO constantly flying around between the community members. We
+recommend an expedition to the Jungle channel where it frequently rains BANANO on all active
+Monkeys. Please join us there, everyone is welcome! We are genuinely a very open project, so if you
+have a great faucet idea or want to contribute otherwise, chat to us! We’re looking forward to your
+
+visit!
+
+* If you can't wait to get your paws on some juicy, yellow BANANO, we are listed on several
+exchanges already (overview at Coingecko).
+
+7. Acknowledgements
+
+The authors of this yellowpaper would like to warmly thank all members of the BANANO
+community for their valuable contributions to the BANANO ecosphere.
+
+8. References
+[1] S. Nakamoto, Bitcoin: A peer-to-peer electronic cash system. http://bitcoin.org/bitcoin.pdf. 2008.
+[2] S. D. Lerner, DagCoin Draft. SEPTEMBER 2015.
+
+[3] C. LeMahieu, Nano: A Feeless Distributed Cryptocurrency Network.
+https://nano.org/en/whitepaper. Accessed: 2018-10-21.
+
+[4] D. Whiteld, New Directions in Cryptography. IEEE Transactions on Information Theory, Vol. IT-
+22, NO 6, NOVEMBER 1976.
+
+14
+

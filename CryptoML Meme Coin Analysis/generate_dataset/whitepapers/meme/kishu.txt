@@ -1,0 +1,549 @@
+KISHU INU
+
+WHITEPAPER
+INTRODUCTION
+
+Launched in April 2021, Kishu Inu is the
+fastest-growing cryptocurrency of its kind. Kishu
+is fully decentralized and on a mission to bring
+popular cryptocurrency concepts to the
+mainstream in one, easy to understand project.
+
+  
+
+ 
+
+ecu
+
+DISCLAIMER
+
+Kishu Inu including but not limited to the overall
+project, the token, website, smart contracts and any
+apps (“KISHU INU") as presented in this
+
+conceptual paper is not an licensed, unlicensed or
+exempted financial or payment service of any kind and
+in any jurisdiction. Any terminology used in this
+Whitepaper, on the Website or within the app is
+intended only as a basic reference, without any
+effective or legal meaning of the same termsin a
+regulated and/or financial environment. KISHU INU is
+a fully and completely decentralized and community
+driven project and does not have owners, shareholders,
+promoters, marketers, managers, directors or other
+figures or entities exerting any form of governance; the
+KISHU INU smart contracts are open-source, security
+audited, permanent and non-modifiable in any way.
+The KISHU token is a strictly utility token in any
+jurisdiction and is not and can not be considered as a
+security or otherwise a regulated token of any kind, is
+not in any way e-money and/or a fiat or asset backed
+stablecoin, whether global or limited in scope. This
+Whitepaper taken by itself is not a contract ora
+contractual agreement of any kind, is not an invitation,
+solicitation or offer to invest in KISHU INU or acquire or
+use its KISHU tokens in any way and with any
+expectation of profit in any form. Any user of KISHU
+INU declares to have received appropriate technical,
+administrative, regulatory and legal advice before and
+after accessing and/or reading this Whitepaper, the
+website and using any portion or element of KISHU INU
+(including any KISHU token therein) and accepts that
+there is an inherent high risk in accessing, acquiring
+
+or using any kind of blockchain and/or crypto system,
+token, platform, software, interface including KISHU
+INU and further acknowledges with full disclaimer for
+any community member directly or indirectly involved
+with KISHU INU, that there can be any kind of damage
+suffered, including total loss.
+
+ 
+    
+ 
+
+Table of Contents
+
+ABSTRACT
+
+VALUES
+
+Oo
+1)
+
+oO Oo Oo Oo
+“J Ty aN W
+
+$KISHU TOKEN
+
+ECOSYSTEM
+
+ROADMAP
+
+PROGRESS
+
+FUNDING
+
+www.kishu.com | 3
+
+   
+Abstract
+
+Littke Meme. Big Dream. Welcome to KISHU...
+
+KISHU INU was created in April 2021
+with the goal of being a decentralized
+meme project with true purpose.
+
+KISHU’s mission is to bring popular
+cryptocurrency concepts to the
+mainstream. Unlike older, comparable
+projects, KISHU introduces holders to
+next-gen concepts such as
+participation rewards, NFTs,
+decentralized exchanges, and more.
+
+Within the first month of its launch,
+KISHU made history by surpassing a
+$2 billion market cap and over 100,000
+holders. This was an unprecedented
+milestone for a project of its kind, and
+proved the world’s belief in the project.
+
+ 
+
+4 | www.kishu.com
+
+The KISHU INU project includes...
+
+$KISHU TOKEN
+
+An ERC20 meme token that fosters and
+promotes healthy and widespread usage and
+decentralization of the project through a
+specific reward linked to users’ transactions
+involving decentralized wallets. The more
+holders use, trade and execute transactions
+with $KISHU, the higher the rewards! It's a kind
+of automagic ;-)
+
+KISHU SWAP
+
+Decentralized exchange that features custom
+functionality and allows holders to trade among
+themselves and without any centralized point
+of failure any ERC20 token for another.
+
+KISHU CRATE
+
+NFT Marketplace where users can stake
+$KISHU in exchange for NFT rewards created
+by artists from community contests. The artists
+are awarded prizes out of the $KISHU staking
+pool.
+
+KISHU PAW PRINT
+
+Wallet tracker where users can track their
+prizes and rewards out of $KISHU usage,
+current token valuations, wallet balance, and
+more.
+
+KISHU sWAG [coming soon!]
+
+A merchandise store run by a ownerless,
+stockholderless non-profit organization to
+allow $KISHU holders to proudly support
+KISHU INU’s fun in the real world, with any and
+all proceeds supporting the KISHU INU's
+project growth, maintenance and future
+features.
+Values
+
+ 
+
+TRANSPARENCY & COMMUNITY
+
+KISHU INU is ownerless, fully decentralized and
+supported by its community of enthusiasts. Free,
+open and frank communication is encourage
+within the community supporters so that everyone
+willing can be informed and even participate in
+every step of KISHU INU’s growth! Multiple,
+independent, free group efforts in development,
+community self-management and more are
+strongly encouraged!
+
+TRUST
+
+In the cryptocurrency market, Trust is paramount.
+That means full transparency not only in the
+community support and development, but also
+in any security effort. Examples include top-grade
+audits of $KISHU's code, and liquidity tokens being
+burnt to strongly reduce any risk of malicious
+behavior.
+
+ 
+
+LONGEVITY
+
+KISHU is in it for the long haul. The decentralized
+community is fostering long-term development of
+the ecosystem which will result in real use cases,
+greater rewards and a popularity beyond any
+temporary trends.
+
+www.kishu.com | 5
+$KISHU Token
+
+$KISHU is an ERC20 token which started on the Ethereum blockchain April 17, 2021.
+
+The max supply is 100 quadrillion and one of its key functionalities is its decentralized
+usage rewards mechanism. For every active user transaction a 2% $KISHU reward
+is granted to holders’ decentralized wallets only, fostering a healthy distrubuted
+network and community usage. The more $KISHU is actively used, the more rewards
+are granted!
+
+The $KISHU Token Smart Contract successfully passed a top-grade security audit to
+further the community's confidence, in full transparency.
+
+KISHU INU is a fully decentralized and community driven project - $KISHU liquidity
+pools and listings are constantly added by many completely independent enthusiasts
+and supporters in a number of different exchanges, among which:
+
+EXCHANGES
+
+KISHU SWAP 4% Slippage
+Gate.io KISHU/USDT
+OKEx KISHU/USDT
+Poloniex KISHU/USDT
+ZB.com IOOOKISHU/USDT
+Uniswap 4% _Slippage
+BKEX KISHU/USDT
+Bitrue KISHU/USDT
+Biki KISHU/USDT
+Bilaxy KISHU/ETH
+Hotbit KISHU/USDT
+
+ 
+
+..and many others thanks to our active and diverse community!
+
+6 | www.kishu.com
+OS. .0n
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+KISHU
+SWAP
+
+Launched May 5, 2021, KISHU
+SWAP is a decentralized
+exchange (DEX) where users can
+swap any ERC20 token for
+another one.
+
+ 
+
+It is powered by Uniswap, the
+largest and safest DEX in the
+world and acts as the foundation
+on which KISHU INU will develop
+further functionality and
+use-cases for any $KISHU holder.
+
+ 
+
+ 
+
+ 
+
+ey KISHU
+‘@ PAW PRINT
+
+ 
+
+Launched in May 2021, KISHU
+PAW PRINT is an app with which
+users can track their $KISHU
+token stats over time.
+
+Stats include $KISHUrewards and
+total balance, current USD value,
+price charts, and more.
+
+KISHU
+M4 CRATE
+
+Coming in June 2021, KISHU
+CRATE is the official KISHU INU
+community's NFT decentralized
+marketplace - $KISHU tokens can
+be staked (locked) in order to
+receive exclusive NFT rewards
+and digital collectibles featured
+by artists that are themselves
+part of the KISHU community.
+
+ 
+
+KISHU INU will foster
+participation in regular contests
+for artists to showcase their work
+and have the community vote
+on which should be added to the
+marketplace.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+€P KISHU
+SWAG
+
+Coming in June 2021, KISHU
+sWAG takes KISHU to the
+mainstream by allowing any
+enthusiast to represent KISHU in
+the wild with official
+merchandise sold by a
+completely ownerless and
+non-profit, transparent
+organization. Any proceeds will
+be used to foster and support
+further KISHU INU community
+and platform development.
+
+ 
+
+ 
+
+www.kishu.com | 7
+
+ 
+
+ 
+ap
+
+PHASE 1 - LAUNCH
+
+COMPLETE
+
+1,000 Holders
+
+Website Launch
+CoinGecko Listing
+
+2,000 Telegram Members
+CoinMarketCap Listing
+5,000 Holders
+
+ 
+
+PHASE 2 - GROWTH
+
+COMPLETE
+
+5,000 Telegram Members
+Website Redesign
+
+10,000 Holders
+
+10,000 Telegram Members
+20,000 Holders
+
+ 
+
+ 
+
+PHASE 3 - EXPANSION
+COMPLETE
+
+KISHU Swap (Decentralized
+Exchange)
+
+Initial CEX Listings (Hotbit,
+Bilaxy, CoinTiger)
+
+15,000 Telegram Members
+30,000 Holders
+
+8 | www.kishu.com
+
+ 
+
+PHASE 4 - UTILITY
+IN PROGRESS
+
+KISHU Crate (NFT
+Marketplace)
+
+KISHU Paw Print (Wallet
+Tracker)
+
+KISHU sWag (Non-profit, real
+life Merchandise Store)
+
+3 More CEX Listings
+
+50,000 Telegram Members
+100,000 Holders
+
+Influencer Partnerships
+
+ 
+ss
+
+TIME SINCE LAUNCH: ONE MONTH
+
+$2B
+
+MARKET CAP
+HIGH
+
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+
+ 
+
+ 
+
+  
+ 
+
+NYC TAKEOVER
+2 Times Square Billboards
+50 Sidewalk Billboards
+
+ 
+
+ 
+
+BY THE NUMBERS
+
+150K TISK
+
+COMMUNITY
+
+HOLDERS MEMBERS
+
+IN THE WILD
+
+Newsweek
+
+U.S. World Business Tech & Science Culture Newsgeek Sports Health Opinio
+
+     
+     
+  
+
+  
+
+TECH & SCIENCE
+How to Buy Kishu Inu, New Crypto Calling Itself
+
+‘Dogecoin's Big Brother’
+RY FD AROWINE C5" = im Det)
+
+1121 AT 9.90 aM =DT
+< JNEY DEARDEIDRE TECH TRAVEL MOTORS PUZZLES
+
+ 
+ 
+      
+    
+  
+
+ 
+
+ 
+
+     
+
+Pea Uy Shopping Money Tips Property Busine
+
+CRYPTO COIN How risky is Kishu Inu
+and why is the price going up?
+
+       
+  
+ 
+ 
+
+Marc SHOFFMAN
+14 May 2021, 13:54 | Updated: 14 May 2021, 14:45
+
+  
+
+PRESS COVERAGE
+Featured in Newsweek Magazine
+and The Sun
+
+   
+Funding
+
+KISHU INU is a fully decentralized commu nity-led project. Therefore, it runs primarily on
+volunteers and donations from the community.
+
+ 
+
+USE OF DONATIONS
+
+Donations contributed by our community will go
+towards three things:
+
+1) Awareness
+Participation with social media influencers, digital
+and real-world awareness campaigns
+
+2) Exchange Listings
+
+Complementing the existing independent listings in
+DEX, further CEX presence will be sought to better
+the reach of the project among new audiences
+
+3) Platform and Community Development
+Following the roadmap and expanding the KISHU
+community, features and ecosystem ecosystem
+
+ 
+
+ 
+
+ 
+
+ 
+
+OFFICIAL DONATION WALLET
+OxB7852D285f31B740318CAb51Bd0ESE7936073725
+
+Accepts: Any ERC20 token
+Prefers: $KISHU, $ETH and $USDC
+
+ 
+
+101 www.kishu.com
+ 
+

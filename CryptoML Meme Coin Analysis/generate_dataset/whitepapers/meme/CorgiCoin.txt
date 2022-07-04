@@ -1,0 +1,306 @@
+CorgiCoin
+W H ITE PAPE
+
+R
+
+
+www.corgicoin.net
+
+CorgiCoin is a cryptocurrency with a unique
+community ownership model. 100% of the
+xed token supply is locked on a decentralized
+exchange for purchase by anyone in the world.
+In the spirit of decentralized ownership and
+open access, no privileged entities like
+developers or celebrities were allocated any
+tokens. We believe that true community
+ownership is the only stable foundation of trust,
+and that trust is the de ning characteristic of a
+successful currency.
+Built on the Binance Smart Chain, CorgiCoin is
+100x cheaper to exchange and send than
+Ethereum-based tokens, and uses a fraction of
+the electricity. CorgiCoin leverages core
+blockchain innovations to deliver a global
+currency with permissionless international
+transactions and frictionless exchange.
+Binance Smart Chain is the world’s rst
+practical blockchain, and CorgiCoin is the rst
+token on BSC with the complete community
+ownership required to compete on the global
+scale with existing reserve currencies like the
+US dollar.
+
+fi
+
+fi
+
+fl
+
+fi
+
+fi
+
+DISCLAIMER: This whitepaper is presented for informational purposes only. It is not intended to be
+fully comprehensive. It is not to be taken as nancial advice, or a recommendation to buy any
+cryptocurrency. This whitepaper is meant to be a starting point for interested parties to begin their
+research on CorgiCoin, and in no way constitutes a recommendation to buy tokens. Purchase of
+cryptocurrency is inherently risky, and the authors of this whitepaper do not accept any responsibility
+for nancial loss. CorgiCoin is a completely community driven project, and any purchase of CorgiCoin
+must be made with the understanding that no centralized company or group of developers is
+responsible for moving the project forward. This whitepaper does not imply any contractual
+relationship. The whitepaper contains forward looking statements, which are not to be taken as
+statements of fact. A large number of external factors will in uence the evolution of the project,
+including market conditions, and levels of community engagement and contribution. All statements
+are made to the best of the author’s knowledge at the time of writing, and the authors are not
+responsible for any factual inaccuracies in the whitepaper.
+
+fi
+
+fi
+
+ABSTRACT
+
+A STORY
+In 1684, New France had a problem. To pay their
+soldiers, they relied on deliveries of gold from
+France. But shipping rare metal across the Atlantic
+was fraught with risk, as ships often foundered in
+storms or were attacked by pirates. When the
+annual shipment of specie failed to arrive in the fall
+of 1684, New France was suddenly insolvent and
+unable to pay wages to its soldiers. It was the
+intendant Jacques de Meulles who found a
+solution.
+Jacques de Meulles con scated all of the playing
+cards in the colony, and signed each one with his
+seal and signature. Instead of paying soldiers in
+gold, he gave them wages in these o cial playing
+cards. Instantly a new at money was born. The
+soldiers accepted the unorthodox payment, and
+soon it was traded back and forth like gold. The
+newly minted currency brought immediate utility to
+the local economy, greasing the wheels of labor
+and trade.
+
+WHAT MAKES A CURRENCY?
+The long arc of human history has seen many experiments in currency. We can now
+pinpoint exactly the characteristics that make a currency useful. These characteristics
+are transferability and trust. Useful currencies are convenient to exchange and store,
+and the systems that govern their supply and demand are widely trusted.
+
+ffi
+
+fi
+
+fi
+
+There is an important synergy between transferability and trust: the more trust that
+there is in a system, the more transferable its currency can be. The earliest human
+societies were very unstable and thus lacked trust, so the only viable currencies were
+objects of tangible and immediate value like grain or livestock. To our modern
+sensibilities, it is obvious that cows make for a terrible currency. But when you cannot
+trust your neighbor or government, a cow may be the only currency you accept.
+
+EVOLUTION IN TRUST AND TRANSFERABILITY
+As society evolved and institutions became more stable and trustworthy, the doors
+were opened to more transferable currency, which in turn helped lubricate all economic
+activity. The rst jump was from perishables like grain and livestock to commodities like
+gold and copper.
+The next leap forward occurred in the 7th century during the Tang Dynasty. Merchants
+in China were tired of dealing with heavy copper coinage, so they began issuing
+merchant receipts, promising their customers that these receipts could be redeemed
+for hard currency in the future. As long as customers trusted the merchant’s word, they
+would accept this more convenient and transferable IOU.
+The next evolution was subtle but equally important. For years, London’s goldsmith
+bankers held gold deposits for customers. A customer would deposit gold with the
+banker, and get a receipt in return. The receipt entitled them to withdraw their gold at
+any time. If they gave their receipt to another person, the receipt would be useless to
+the new holder because they were not the owners of the gold account. In the 17th
+century there was a breakthrough: the goldsmith bankers began making the receipts
+payable to the bearer of the receipt, whomever that may be, rather than the original
+customer who deposited the gold. This meant that the bank receipts could be
+exchanged freely as paper money, over and over again!
+Crucially, this evolution in transferability required an evolution of trust. With the original
+merchant receipts, customers had to trust their banker, but at least that was someone
+that they knew and saw frequently. But in order for these receipts to become accepted
+by third parties, much greater trust was required. The new holder had to trust a banker
+he had never met, and had to trust that the receipt and signature had not been forged
+somewhere along the line.
+THE FALLIBILITY OF HUMAN TRUST
+Trust is the foundation of a useful currency. The more trustworthy an institution, the
+more transferable and convenient its currency can be.
+But all human institutions are fallible, and there is a limit to the trust that can be placed
+in government currency like the US dollar. The dollar is the world’s reserve currency but
+leaves a great deal to be desired. Individuals at the Federal Reserve have complete
+control over the minting of new dollars, and recent months have seen this privilege
+used extensively. The US money supply has increased by 25% in the last year. More
+alarming is that there is no limit to how many dollars the Federal Reserve can print.
+
+fi
+
+fi
+
+fi
+
+Ten years from now, we will look back in confused disbelief at the current regime, when
+the whole world simply crossed its ngers and hoped that the Federal Reserve
+behaved responsibly with its in nite power to print new currency.
+
+BLOCKCHAIN IS THE EVOLUTION OF TRUST
+Blockchain entirely removes the need to trust a group of privileged humans. It is
+impossible to overstate the signi cance of this discovery. Blockchains and
+cryptocurrencies can be designed by humans but, once created, exist beyond human
+institutions. Once created, they are governed by xed rules expressed in computer
+code, that are at once transparent to everyone yet modi able by no one.
+On the blockchain, ownership and transfer of currency is governed by indisputable
+community consensus. It is truly decentralized and beholden to no one institution.
+Blockchain exists beyond people, beyond companies, beyond governments.
+Since Satoshi’s whitepaper in 2008, we have seen tremendous progress in blockchain.
+Only now has the technology become mature enough to support viable contenders to
+replace the US dollar as the world’s reserve currency. Bitcoin was a brilliant proof of
+concept, but its practical use is limited by its lack of programmability. Ethereum
+brought smart contracts to the blockchain, but consumes a country’s worth of
+electricity just to handle very limited activity, and at the time of writing has network fees
+over $10 for simple transactions.
+BINANCE SMART CHAIN IS THE WORLD’S FIRST PRACTICAL BLOCKCHAIN
+
+fi
+
+fi
+
+fi
+
+ffi
+
+Designed for practical e ciency, Binance Smart Chain has network fees 100x lower
+than Ethereum, while maintaining all the same smart contract functionality. Launched in
+September 2020, it has seen an explosion of user growth and already surpassed
+Ethereum in daily transactions:
+
+CorgiCoin was built from the ground up to provide a level of trust and transferability
+unrivaled by any other cryptocurrency.
+CorgiCoin transcends national
+boundaries and is censorship-resistant.
+Arbitrarily large sums of Corgis can be
+transferred in seconds to anyone in the
+world, in a permissionless way.
+Built on the Binance Smart Chain, it costs
+just cents to exchange and transfer and
+uses a fraction of the electricity
+consumed by Ethereum. As a BEP-20
+token, it is interoperable with all BSC
+smart contracts and decentralized
+nance applications like PancakeSwap.
+There is a xed supply of 10 billion
+Corgis. The functionality to mint and burn
+Corgis is not even present in its Solidity
+contract code. It is in ation resistant by
+design. We believe strongly that no
+individual should have unilateral control
+over the money supply.
+CorgiCoin is not mined, so large concentrations of Corgis will not pool in the pockets of
+already wealthy miners who have access to vast computing resources.
+Most importantly, Corgi builds a culture of trust with a unique community ownership
+model. It has become fashionable (and lucrative) for the developers of new
+cryptocurrencies to allocate a large chunk of the total supply to themselves. This cuts
+deeply against the heart of decentralization, and betrays community trust.
+All 10 billion Corgis have been locked in a decentralized liquidity pool, and the keys
+burned. We eliminated our own privileged roles as the creator of this currency as a
+symbol of trust in our community. Because the blockchain and decentralized
+exchanges are global and permissionless, the entire Corgi supply is literally available
+for anyone in the world to purchase.
+
+fl
+
+Trust is the foundation of a currency’s acceptance and usefulness. We have embedded
+community trust into the distribution mechanism of the entirety of the Corgi token
+supply. More than that, we stand on the shoulders of giants, leveraging the sweeping
+innovations in decentralized ownership and exchange, to deliver a new currency to rival
+the US dollar as the world’s reserve currency.
+
+fi
+
+fi
+
+CORGICOIN IS THE PEOPLE’S CURRENCY
+
+SPREADING BLOCKCHAIN LITERACY THROUGH EDUCATION
+The primary obstacle to global blockchain adoption is a lack of general knowledge
+and uency. The technology behind blockchain is brand new and technically
+sophisticated. Many prospective users are turned o by intimidating concepts like
+public/private key cryptography, proof of work, and decentralized exchange, as well
+as interfaces like MetaMask and other cryptographic wallets.
+While blockchain has seen
+tremendous growth in recent
+years, we are still far from a
+world where the majority feels
+comfortable storing wealth on a
+blockchain address. We view
+education and blockchain
+literacy as critical to long-term
+adoption. CorgiCoin was
+designed as a fun and userfriendly entryway into the
+intimidating world of
+blockchain. We are developing
+smoother onramps to token
+ownership on the Binance Smart Chain, and publishing informative articles
+demystifying relevant technical concepts. Down the road, we envision that Corgis will
+be used as a friendly incentive to complete tasks like creating a rst blockchain wallet.
+
+BRINGING ART ONTO THE BLOCKCHAIN
+Alongside education and blockchain literacy, the second early use case for CorgiCoin
+is as a medium for art. The blockchain has already begun to revolutionize the art world
+through non-fungible tokens. NFTs enable
+decentralized ownership and exchange of art in a
+transparent and counterfeit-proof way.
+
+fi
+
+ff
+
+fi
+
+fl
+
+Bringing world-class artists into the Corgi
+ecosystem will be a key avenue for spreading
+mainstream awareness of blockchain. Already,
+artists and designers are minting Corgi themed
+BEP-721 NFTs. In the future, we envision a
+dynamic NFT marketplace where users can
+exchange CorgiCoin for unique art pieces, with
+Web3 enabled online galleries that display owned
+artwork once cryptographic signatures are veri ed.
+
+CONCLUSION
+We stand at a pivotal moment in history, when blockchain
+technology has just now matured enough to enable a
+viable competitor to the US dollar.
+Bitcoin showed that proof of work can secure a
+decentralized ledger.
+Ethereum brought us programmable smart contracts.
+Binance Smart Chain married decentralization with low
+transaction fees and acceptable energy consumption.
+CorgiCoin delivers the rst 100% community owned
+token on the Binance Smart Chain, laying a foundation of
+trust upon which the world’s next great currency will grow.
+
+fi
+
+JOIN US AT:
+WEBSITE:
+TWITTER:
+REDDIT:
+TELEGRAM:
+
+corgicoin.net
+twitter.com/corgicoinbsc
+reddit.com/r/corgiarmy
+t.me/corgicoinbsc
+
+AD
+LUNAM
+CORGI
+
+

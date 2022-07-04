@@ -1,0 +1,189 @@
+Abstract
+The success of the cryptocurrency movement stems from the permissionless nature of the peer-to-peer networks that allow trustless transfer of value. Today, few assets actually do increase economic productivity, and with cryptocurrencies, we are mostly seeing the creation of new assets that represent different self-sustained communities. The recent rise of Dogecoin, often diminished as a meme, has shown us the power of the narratives. In order to self-sustain, communities are in desperate need of their currency to have different aspects; as a means of payment, store of value, utility, or unit of account.
+
+In the light of these, we propose KANGAL, a governance and value token of the Kangal Ecosystem. KANGALs purpose is to distribute the value and voting power to its holders: The Kangal Community. We refer to our community as the Kangal DAO.
+
+While the KANGAL serves the purpose of representing ownership over the network and distributing voting power, we as the Kangal DAO have no control over its emission or distribution since it was launched fairly with 100% of the supply and there will be no further emissions. In order to fuel the ecosystem, we're creating a second currency called $TEAK. This currency will be minted only through staking and will be used within the Kangal ecosystem to power all the decentralized applications.
+
+The DeFi aspect, the dApp ecosystem powered by $TEAK, and Kangal DAO governance is our answer to how to create a community that is not only self-sustaining, but also able to create incentives for every participant of the ecosystem.
+
+Powered by GitBook
+Introduction
+
+Cryptocurrencies
+In recent years, Bitcoin has become the first decentralized global currency. The rise of Bitcoin has not only sparked interest in digital currencies, but it has also sparked interest in the underlying technology that supports their development: blockchain technology. Blockchain is a distributed ledger used to record and protect transactions on a peer-to-peer network. In addition to authorizing digital currencies, blockchain technology also enables innovators to create digital tokens that represent rare assets, thereby reshaping innovation and entrepreneurial capabilities. 
+Blockchain tokens can democratize communities by providing builders with new ways to raise funds and interact with their users, and can provide innovators with new ways to develop, implement, and decentralize applications. The concept of digital scarcity allows people to incentivize and financially reward network participants in a simple and transparent way, without having to rely on third parties.
+The introduction of Bitcoin and later Ethereum has led to a rise in alternative cryptocurrencies that primarily compete for in-network services. Although Bitcoin has become the safest settlement layer and store of value in the digital arena, Ethereum and EVM have become the safest settlement layer and store of value by giving developers the ability to write smart contracts that can solve reasonable computational problems. Hence, we have seen many scattered experiments and applications on Ethereum, and lately on Layer 2 projects as well as other EVM-based networks like BSC.
+These tokens running on EVM and similar environments can represent various rare assets such as currency, securities, property, unique collectibles, loyalty points, and gift certificates. They generally have a fixed supply or follow a transparent supply schedule, making them resistant to inflation. Furthermore, they can be transferred between parties without the involvement of a central entity and can be traded on borderless digital currency exchanges.
+DeFi
+Decentralized finance (DeFi) is a concept used to describe a financial system built on top of the blockchains that are able to run smart contracts that allow the creation and usage of trustless financial tools.
+In the past, users would have to rely on centralized institutions such as banks and other financial institutions to store their money and provide them with financial services. However, with the advent of blockchain technology, this is no longer necessary. Blockchain-based smart contracts are able to provide users with financial services at a fraction of the cost that they would have to pay if they were using a traditional institution.
+One of the pillars of the Kangal ecosystem is DeFi, where the people control the tokenomics of the Utility Token $TEAK via its limited emission to only staking and via its configurability through DAO.
+DAO
+Blockchain applications are not limited to the financial sector, but have recently been applied to decentralized governance. The "Decentralized Autonomous Organization" (DAO) with blockchain function has become a new form of collective management in which communities can be organized based on a decentralized infrastructure. In the DAO, the blockchain can be used to record the information of the members, voting results, and information on the financial transaction. The DAO has no central authority or management team, but is operated by the members themselves. 
+The core of the Kangal community is DAO.
+Kangal Ecosystem
+The debate on sovereignty and opposition to censorship continues to grow and the scope of decentralization is not limited to technology. In today's age of the open-source Web, users have given up control of their privacy and software freedom, to gain a somewhat free but controlled gateway to the Internet.
+Kangal Ecosystem has its foundations on a flexible collaboration infrastructure that truly respects user freedom, which started with a fair token launch on the public market via Uniswap, has given the control of the utility currency of the ecosystem's to the community and will be further developed to minimize trust required on a group of individuals via trustless dApps and services that are built on blockchain, creating incentives for sustainable growth and following the community DAO where everyone can voice their opinions without any censorship, push their proposals and change the ecosystem.
+
+Powered by GitBook
+Background
+
+As second-order capital rushes to Bitcoin, potential investors are attracted to alternative currencies that could serve specific purposes; however, one such crypto asset, Dogecoin, is more of an inflationary leisured pursuit of community-building around a particular subject than an alternative deflationary instrument.
+
+Initially conceived as a joke, Dogecoin became an Internet meme based on the popular Shiba Inu dog character from the "doge" Internet meme. The craze behind doge memes has allowed for a gaggle of users to take this previously abandoned asset and build a community around it.
+
+While Dogecoin didn't die over the years, the meme story began to circulate and became the source of inspiration of many crypto communities. In the year 2021, a group of Kangal enthusiasts came up with the idea of the ecosystem of decentralized applications built around a community and decided to name it after the Kangal breed. This unnamed group of developers and designers launched the Kangal Genesis on February 16th, 2021.
+
+Governance
+
+Decentralized Autonomous Organizations (DAO) are edge organizations due to their constantly evolving organizational and community needs. DAOs are novel scalable, self-organizing collaborations on the blockchain, governed by smart contracts, and their vital operations are automated agreeing to rules and principles assigned in code without human intervention.
+Kangal Core Team's one of main responsibilities is bootstrapping the DAO. This is an ongoing process that will get moving faster as there are more stakeholders active in the process. Below is the current situation:
+Kangal DAO stakeholders are able to discuss ideas on any aspect of the project and initiate new proposals on the community forum. Voting for proposals take place on projects snapshot spaces, available for both ETH and BSC side.
+The project aims not only to give Kangal DAO stakeholders the ability to create proposals and vote on them but also to give control of the main parameters of the ecosystem itself by making them configurable. 
+Some initial examples of this ecosystem configurability are the stakeholders selecting the logo and name of the Utility Token $TEAK, and the APR-M rate for staking KANGAL and KANGAL-LPs.
+Kangal DAO is currently in its bootstrapping stage. As expected, this stage was more concentrated on getting all aspects of the project running and available for stakeholders and eventually achieve on-chain governance mechanisms. All plans have been and will continue to be co-designed with stakeholders through future initiatives such as surveys and discussions on the community forum.
+
+Powered by GitBook
+Voting
+
+The Kangal Governance consists of two phases:
+Community discussion
+Snapshot voting
+Community discussion
+A community discussion can start anywhere. On the community forum, on Telegram, or even on Twitter. At some point, it is desired to create a thread in the forum to form a structured discussion around the topic. Everyone has the opportunity to join and contribute to the discussion.
+Ideally, you keep the discussion as a general, non-biased question about a potential change, improvement, or action. Be polite and respect each other’s opinions. A drafted proposal could include the following:
+Functional description (what are you proposing?)
+Purpose (what’s the “why”?)
+Background (what is the reasoning behind the proposal?)
+Reasoning & analysis (what is the case for the proposal? what are the pros and cons?)
+Technical implementation (who will be writing the code? what is the scope required?)
+Impact (how does this contribute to the long-term sustainability of Kangal?)
+Open questions (what else needs to be figured out?)
+Snapshot voting
+The voting on Snapshot is the second phase of the governance process.
+ETH holders can vote via snapshot.page/kangal.eth
+BSC holders can vote via snapshot.page/kangal-bsc.eth
+A minimum of 10M KANGAL tokens are required to create a proposal. Anyone holding KANGAL token can vote on the proposals. Snapshot doesn’t require any gas in order to participate in the votes. All you have to do is to authenticate with your Web3 wallet (e.g. MetaMask).
+The core team will create their proposals on both platforms. Community proposals will be duplicated to the required side in case the proposal owner has 10M balance only on one side.
+The outcome of the voting will be decided by tallying up results on both sides (ETH & BSC) and will be binding for the core team to implement. In the future, there will be other on-chain governance solutions that will trigger smart contract executions.
+
+Powered by GitBook
+General
+
+KANGAL is an ERC-20 & BEP-20 token running on Ethereum & Binance Smart Chain. There was no presale or special allocations. The starting liquidity is locked via Unicrypt for 10 years.
+The total maximum and circulating supply of ERC20 KANGAL and its BEP20 version bKANGAL token is 100 billion, which you can see by checking the contract source code of the ERC20 token on etherscan. There are no burn or mint functions in this contract, which means there is no way to change the supply.
+Kangal uses the bridging feature of burgerswap.org to bridge into Binance Smart Chain, which works by creating BEP20 bKANGAL tokens on BSC and locking the bridged ERC20 tokens. Check this contract to see the amount ERC20 tokens that are locked, and this bscscan page to see the amount of bKANGAL tokens. When bKANGAL tokens are converted back into KANGAL tokens, BEP20 version of the tokens are burned and the amount that was locked on the Ethereum contract is unlocked.
+Note that there can be a difference in the number of locked KANGAL's in the contract and the bKANGAL supply shown on bscscan in case anyone using burgerswap.org bridge does not claim the tokens they have converted.
+The primary contract address on Ethereum is: 0x6e765d26388a17a6e86c49a8e41df3f58abcd337
+The primary contract address on BSC is: 0xd632Bd021a07AF70592CE1E18717Ab9aA126DECB
+$TEAK's supply and tokenomics will be configurable by the Kangal DAO. The emission will be limited to staking KANGAL and KANGAL-LPs. It will be burned through various use-cases in the ecosystem.KANGAL is an ERC-20 & BEP-20 token running on Ethereum & Binance Smart Chain. There was no presale or special allocations. The starting liquidity is locked via Unicrypt for 10 years.
+The total maximum and circulating supply of ERC20 KANGAL and its BEP20 version bKANGAL token is 100 billion, which you can see by checking the contract source code of the ERC20 token on etherscan. There are no burn or mint functions in this contract, which means there is no way to change the supply.
+Kangal uses the bridging feature of burgerswap.org to bridge into Binance Smart Chain, which works by creating BEP20 bKANGAL tokens on BSC and locking the bridged ERC20 tokens. Check this contract to see the amount ERC20 tokens that are locked, and this bscscan page to see the amount of bKANGAL tokens. When bKANGAL tokens are converted back into KANGAL tokens, BEP20 version of the tokens are burned and the amount that was locked on the Ethereum contract is unlocked.
+Note that there can be a difference in the number of locked KANGAL's in the contract and the bKANGAL supply shown on bscscan in case anyone using burgerswap.org bridge does not claim the tokens they have converted.
+The primary contract address on Ethereum is: 0x6e765d26388a17a6e86c49a8e41df3f58abcd337
+The primary contract address on BSC is: 0xd632Bd021a07AF70592CE1E18717Ab9aA126DECB
+$TEAK's supply and tokenomics will be configurable by the Kangal DAO. The emission will be limited to staking KANGAL and KANGAL-LPs. It will be burned through various use-cases in the ecosystem.
+
+Fair launch
+
+With thousands of cryptocurrencies available today it became unbearable for end-users to differentiate legitimate projects from scams. The Kangal Core Team designed a fair launch mechanism in which there were no pre-mine or pre-sale.
+One of the most common schemes to scam token holders in the recent rise of decentralized exchanges is a rug pull. A rug pull is a fraudulent act in which token holders abandon a project and escape with the funds of investors. Rug pulls are more prevalent on decentralized exchanges (DEXs), where criminals generate a coin, list it on a DEX, and then combine it with a successful cryptocurrency like ETH or BNB as part of a liquidity pool.
+Malicious actors impersonating liquidity suppliers then empty the liquidity pool, rendering it difficult for investors to recover their funds or "pulling the rug" out from under them, essentially driving the coin's price to zero. Liquidity providers are issued "LP" tokens when a token is listed on DEXs like Uniswap or Pancake, which is an essential detail in this process. They can trade these LP tokens for other tokens or even use them for yield farming until they have them.
+To make a rug pull impossible, all the liquidity of the initial KANGAL pool which started with 100% of the supply was locked in a Unicrypt contract. This liquidity has been locked for 10 years.
+As being aware of the token launch first, the Kangal Core Team has personally purchased a stake of 9% of the total supply for their initial and future work. All other tokens have been purchased by unknown users on the free market. At no point in time did the core team receive any proceeds or bounties during the token generation event as all of 100 billion of supply was directly put into the initial pool on Uniswap.
+
+DeFi & Staking
+
+Utility Token and Staking Deployment
+As the first order of business, the ecosystem's Utility Token which will be powering the dApps will be deployed. This token's supply & circulation will be controlled by the DAO. Emissions will occur only by staking KANGAL and KANGAL LPs. The name of the token was decided by the DAO stakeholders as $TEAK after this vote.
+Kangal’s price will display the whole Kangal ecosystem’s value, and the Utility Token's price will be driven by the return percentage rate of minting for staking, the burns through the usage in the dApps, and fees gathered which will be driven by the transaction volume on the ecosystem usage.
+KANGAL Staking
+While a sufficient amount of liquidity is healthy for any token, oversaturated markets tend to have constant sell pressure. Kangal attempts to prevent this by staking the main KANGAL and LP tokens. Staking is essentially locking the tokens to make them unavailable on the free market. In exchange, stakers are be rewarded $TEAK as per its emission set up through APR-M decided by the DAO.
+Liquidity Staking
+The method of staking the liquidity you apply to the pools in exchange for $TEAK incentives is known as liquidity staking. PancakeSwap liquidity providers deposit liquidity (BNB + native tokens) into a PancakeSwap pool, liquidity tokens are minted and sent to the provider's address.
+A 0.17% premium is distributed pro-rata to all LPs in the pool at the time of the exchange if a trade happens. PancakeSwap enables “liquidity suppliers to opt to sell, move, or otherwise use (e.g. stake) their liquidity tokens in whatever manner they see fit” in addition to receiving fees. As a result, liquidity suppliers will potentially stake the LP tokens using Liquidity Staking.
+For a KANGAL LP supplier, maintaining the LP token is now doubly incentivized, so not only are you collecting trading commissions, but you're now earning $TEAK tokens on top of that.
+You can read more about the implementation details of staking on the community forum.
+
+Overview
+
+The value development in the Kangal Ecosystem will be driven by a combination of DeFi powered tokenomics and dApps that use the ecosystem's Utility Token $TEAK, as stated in the previous section.
+The decentralized applications that use $TEAK would be both a sinkhole that consumes a percentage of the $TEAK used and a constant income source for the DAO, with the Kangal DAO deciding how the profits are used. These use-cases will include $TEAK buyback and burn schemes, Kangal ecosystem development investments, charitable initiatives, and more.
+The dApps will be created by Kangal's core team of developers at first, and then by third-party developers who will be able to create their own dApps on top of the Kangal Ecosystem, with the ultimate goal of turning the ecosystem into an App Store of dApps. This dAppStore will be the world's first App Store controlled by a decentralized community. A community of people who are incentivized to make the Kangal Ecosystem thrive.
+The Kangal DAO will have an ever-increasing income stream as a result of all these dApps being built out and utilized, which will be used to further develop and expand the ecosystem. This source of revenue can be used to boost the value of $TEAK, which is something that benefits all token holders. Since staking KANGAL is the only source of $TEAK emission, the combination of DeFi-powered tokenomics and dApps that use $TEAK will also help increase KANGAL's value over time.
+
+dApps
+
+The Ethereum blockchain and other blockchains that allow the creation of smart contracts are more than just a cryptocurrency. They can be used to create decentralized applications and smart contracts that can be used to disrupt or reinvent many industries.
+
+A decentralized application (dApp) is an application that uses a peer-to-peer network to function without any central authority controlling it. In other words, it’s an application that exists on a blockchain and doesn’t rely on a third party to dictate how it operates. A dApp could be something as simple as a game or as complex as a social network like Facebook or Twitter, but it would be built in such a way that users have control over their data and no single entity controls the network.
+
+This differs from traditional applications because they typically rely on centralized servers to operate and store user information. The difference between these two types of applications is best illustrated by comparing Facebook with Synereo. Synereo is an example of a dApp because it relies on users hosting and running their own servers for the application to work and store their data. Facebook, on the other hand, is not decentralized because all of its data is stored on centralized servers owned by Facebook.
+
+How do dApps Work?
+A decentralized application relies on smart contracts to operate without relying on any central authority or third party to dictate how it works. A smart contract is an automated piece of code that’s stored on the blockchain and cannot be altered once it’s been deployed onto the blockchain. This means that anyone who wants to use the application will need to interact with the underlying smart contracts (calling methods of the smart contract via wrapped in a user-friendly UI) using transactions, via their public address using their own wallets. This also means that all data created by the application will be stored directly on the blockchain instead of being stored in centralized servers owned by one company or person.
+
+The advantage of this approach is that it allows developers to build applications that can function without relying on any central authority or trusted third parties. This is particularly useful for applications that deal with sensitive or valuable data because it means that users will have full control over their data and won’t have to trust a third party with it.
+
+Examples of dApps
+There are a lot of different types of decentralized applications being built on the Ethereum blockchain, with the most popular ones so far being games and social networks.
+
+One of the first popular dApp games is called CryptoKitties, which is a game that allows users to collect, breed, and trade digital cats. The game uses smart contracts to govern how users can trade their cats and also limits the number of cats that can be bred. At a point, the game has become so popular that it’s been responsible for slowing down the Ethereum network because so many people are using it at once.
+
+Another (at one point) popular dApp is called Steemit, which is a decentralized social network where users can post content and get paid for doing so in cryptocurrency. Users receive money for creating content and also for upvoting content they like. Steemit also uses smart contracts to govern how users can interact with each other on the platform.
+
+The future of dApps is still uncertain because there are only a few examples being developed right now, but there are a growing number of developers who believe that they have the potential to disrupt many industries.
+
+Initial dApp Plans of The Kangal Ecosystem
+Below are some of the initial plans related to what the ecosystem will get started with. More information on each project will be released as the development progresses.
+
+An NFT dApp that will start with special drops, and then turn into an NFT minting and a marketplace.
+
+Kangal Ecosystem Identity Service that uses kang.al domain where you can own a subdomain and associate it with your wallet, with further development these subdomains can be turned into tradable NFTs.
+
+An Advertisement board, which can extend to a fully-fledged ad platform that utilizes the whole ecosystem.
+
+Holders board, where users can use the handle from the Ecosystem Identity Service and leave a message recorded on the blockchain.
+
+BURN board, where the messages left are sorted by the number of $TEAKs you burned for it.
+
+Various lotteries.
+
+Games and virtual worlds.
+
+Own DeFi services.
+
+All powered by the $TEAK utility token.
+
+Further possibilities
+Below are several additional possibilities, provided as examples of the ecosystem's possible reach.
+
+An on-chain analytics service.
+
+An exchange for trading sub-tokens in the ecosystem.
+
+A launchpad platform.
+
+A lending platform for crypto collateralized & uncollateralized loans.
+
+A prediction market.
+
+A crowdfunding platform for raising funds for dApps and projects.
+
+A micro-job platform.
+
+Outlook
+
+We purposefully left several questions unanswered in our effort to articulate a straightforward and succinct vision for the Kangal protocol. This will be briefly mentioned here, with an effort to resolve them in future work:
+One big area for Kangals future development will be its utility token proposal and deployment. While Kangal as the governance token is essential to make decisions within the DAO, the $TEAK token will be the native asset to fuel the dApp ecosystem. After which the first dApp of the ecosystem, an exclusive NFT drops dApp that will expand with minting and marketplace capabilities.
+
+Another major area of development will be Staking. As discussed in the Staking this will entail both: KANGAL and Liquidity Staking.
+
+One more goal of any DAO is full decentralization. While we believe in that goal, it's a very hard problem to bootstrap a solution for. Eventually, we will be working on full on-chain governance mechanisms. On-chain governance will enable community votes to directly and seamlessly be executed on-chain.
+
+Conclusion
+
+Blockchain technology has the potential to change the future of social and economic systems, and the Kangal Ecosystem will be built to be a part of this paradigm shift by using the technology to create an ecosystem that is fair, transparent, and sustainable incentivized; based on the three major pillars: DeFi, dApps, and DAO. 
+Unlike many other ecosystems, the Kangal Ecosystem will not be driven by a single dApp or service. Instead, it will count on each dApp to contribute to the ecosystem's growth on its own merits, oriented on a community that owns and governs the ecosystem through the DAO. By using this framework, several paths within the ecosystem can be created rather than being pulled in one direction, allowing the Kangal Ecosystem to remain flexible and resilient in the face of economic and technological change.
+

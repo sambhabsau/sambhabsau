@@ -1,0 +1,22 @@
+ABOUT MONACOIN
+Monacoin, conceived in the December of 2013, is the first alternative cryptocurrency developed in Japan. It is based on the popular ASCII art character, Mona.
+
+Monacoin is not a payment system controlled by one single entity, but a fully distributed payment system preserved by everyone who uses it via client applications running on their computers.
+
+While much of the world treats most cryptocurrencies as speculative ventures, Monacoin is a cryptocurrency popularized by the initiative of its community: it continues to be nurtured and built upon not by a core development team but by its enthusiastic user base. To give some examples, Monacoin users have brought up various kinds of Mona-based web applications and services, have erected shrines in appreciation of Monacoin, regularly play word games when tipping others (known as "monage" (モナゲ, lit. "throwing mona")), and otherwise use the coin in ways users of most other coins would never have thought of.
+
+Check out this video for more info (contributed by a Monacoin user).
+
+https://www.youtube.com/watch?v=lIg0ub_VWjk&feature=emb_imp_woyt
+
+TECHNICAL DETAILS
+Algorithm: Lyra2RE(v2)
+Block time: 1.5 minutes
+Block reward: 25 MONA
+105,120,000 total coins
+Subsidy halves every 1051k blocks (~3 years)
+Difficulty re-target: every block (Dark Gravity Wave v3)
+not premined
+
+Through a process called "mining", coins are issued to users running programs to perform computational work.
+Since Monacoin's launch, Monacoinproject has not set aside any coins for theirselves (known as "premining") - in other words, the developer of the coin and all of its users all have had the same conditions for obtaining coins from the very beginning (this can be confirmed by anyone by inspecting the blockchain).

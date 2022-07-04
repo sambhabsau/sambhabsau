@@ -1,0 +1,435 @@
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+® SHIBSC Lightpaper Olea hal
+
+NFT Games
+and Blockchain Toolbox
+
+ 
+
+admin@shibsc.com
+® SHIBSC Lightpaper
+
+64 NFT opens the portal between the real world and the crypto world...
+Card games are evolving to a brand-new dimension via blockchain...
+
+Imagine you do Yield Farming like playing games...
+
+  
+ 
+  
+
+You can play NFT Games with these NFT cards
+and make Huge Profits.
+
+Want to play to make a fortune?
+
+shiobsc.com
+® SHIBSC Lightpaper
+
+Here Comes the SHIBSC!
+
+In order to improve the BSC ecosystem and facilitate users to better use the BSC network,
+
+SHIBSC has developed a blockchain toolbox product. In addition to the gadgets that have
+
+been announced, we also have big tools for business users, such as oracle and a lot.
+
+, 4
+
+shibsc.com admin@shiosc.com
+
+ 
+@® SHIBSC Lightpaper
+
+How SHIBSC works?
+
+1 As autility token, users will pay with SHIBSC for the services provided in the blockchain toolbox.
+
+6% of paid tokens will be burnt in each transaction.
+
+2 6% of each transaction will be burnt for deflation, and 3% of each transaction will be provided to Liquidity Pool,
+
+the other 3% will be allocated to all token holders’ addresses proportionally.
+
+3 Deflation and RFI mechanisms provide huge incentives for SHIBSC holders.
+More products coming online, more users and more tokens burnt by the transaction tax. Value of SHIBSC tokens
+
+will increase and better liquidity is provided to the pool.
+
+shibsc.com admin@shiosc.com
+® SHIBSC Lightpaper
+
+STATS of SHIBSC
+
+Holders
+Twitter Followers
+
+Telegram Members
+
+CoinMarketCap Likes
+
+Distribution
+
+Burned
+
+Liquidity
+
+shiobsc.com
+
+34,023
+
+100.4k
+
+CM ss)
+
+Niet sro
+
+Initial
+
+Current
+
+70.18%
+
+Pa Pas
+
+Liquidity 29.82%
+(Initial 33%)
+
+   
+   
+
+Distribution
+
+Burned 70.18%
+(Initial 67%)
+
+admin@shibsc.com
+® SHIBSC Lightpaper
+
+® SHIBSC has a maximum supply of one quadrillion and
+more than 70% of the tokens have already been burnt. It has
+no pre-mining, no private or public sale, and the liquidity
+
+pool is locked permanently.
+
+ 
+
+shibsc.com admin@shibsc.com
+@® SHIBSC Lightpaper
+
+NFT Marketplace is essential while NFT games are becoming
+
+more and more popular.
+
+® SHIBSC provides both NFT games and NFT marketplace. Soe
+
+ 
+
+ 
+
+ 
+
+While enjoying the NFT games, players can earn SHIBSC tokens and NFT carasagnicn can be a / A]
+traded in our NFT marketplace.
+
+ 
+ 
+
+shiobsc.com
+@® SHIBSC Lightpaper
+
+@® LUCKY PET
+
+https://shibsc.com/#/game
+
+@ bs | a. on NY 4 4 ie
+
+Lucky Pet, the first SHIBSC NFT game was already online since May 20th.
+
+ 
+
+It’s a very cool game waiting to be explored.
+
+Players can buy their favorite NFT cards in each lottery.
+
+There is no limit to the type and number of NFT cards purchased. Duration of each lottery is 24
+hours. All SHIBSC tokens that used to purchase the NFT cards will be put into the lottery pool.
+
+When the lottery is done, the winning NFT card type will be announced. All the winners holding
+this particular type of NFT card will share 30% of the prize pool proportionally.
+
+The rest of the 70% are divided into two portions: the first is burned, the second will be kept in
+the prize pool to be collected in the next draw.
+
+shibsc.com admin@shiosc.com
+@® SHIBSC Lightpaper
+
+Blockchain Tools
+
+Free LP Value Query | Token Generator Token MultiTransfer Cross-chain Oracle More Tools Coming Soon...
+co LP PRICE CHECKING
+
+» https://shibsc.com/#/toolbox/lpPriceChecking ae LP PRICE CHECKING cr Ne
+
+The first blockchain tool of SHIBSC is LP Value Query. When users provide a voces ns
+PNT] + Stare
+
+a pair of LP tokens into the mining pool, the value of these LP tokens is | © ee ©
+dynamically changing with potential impermanent loss. SHIBSC ToolBox a PCC Aina ee
+helps users calculate the value of these LP tokens, which is very valuable G=n
+for miners.
+When you stake a bunch of LP tokens in a DeFi mining pool and have no seat ae Be er LE ohare S428 8
+idea how much the LP tokens are worth over time, SHIBSC ToolBox can —e NS EE
+help you calculate the value of your LP token in US dollars. eee = aerate aati
+
+BUSD Price: 0 =| 0b] bee ee Bs ear
+Tha ti tra eo ie a ree be ee cde pee a en ee
+
+Input the two Token Contract addresses for your LP token Pair and the iach
+
+corresponding number of LP tokens you have, then click ‘Confirm’. Boom,
+
+the result will show in a flash!
+
+shiobsc.com
+
+admin@shibsc.com
+® SHIBSC Lightpaper
+
+Free LP Value Query | Token Generator Token MultiTransfer Cross-chain Oracle More Tools Coming Soon...
+
+CREAT TOKEN
+
+https://shibsc.com/#/toolbox/createToken
+
+ 
+
+The one-click token generator allows users to launch their own
+tokens within just a few seconds by following the steps below:
+
+1. Open ToolBox page and click “Create Token”
+
+2. Click “Set as initial holder” and your own contract address will
+automatically be generated
+
+3. Input the symbol of your token under “Token Symbol”
+
+4. Input the name of your token under “Token Name”
+
+5. Input the total supply of your token under “Total Supply (exclude 18
+decimals)”
+
+6. Then choose the payment method (SHIBSC or BNB), only few transaction
+fee needed
+
+7. Click “Confirm Creation” and your own token will be launched
+
+shiobsc.com
+
+oo CREATE TOKEN Eyer
+
+Connected address: 0x8 1003d3ec328010EbF 1Ea41148DBDD22548fC36E tae wii maleic ag
+
+Initial Holder Address Teken Symbol
+
+Bee) am ats Total Supply (exclude 18 decimals)
+
+ae NL 0 SHIBSC
+
+ 
+
+Cost: 0 SHIBSC
+
+Approve SHIBSC
+
+By using this project, everyone can easily launch their own tokens.
+
+(Please do NOT use these tokens for any financial purpose)
+
+admin@shibsc.com
+® SHIBSC Lightpaper
+
+| Free LP Value Query | Token Generator
+
+   
+
+C TOKEN MULTITRANSFER(BET A)
+https://shibsc.com/#/toolbox/tokenMultiSender
+
+Token MultiTransfer - The most cost-effective tool for bulk token
+
+Cointool
+
+Service Charge 0.04 BNB per operation
+
+Minimum gas fee needed for each transfer,
+Fee and one transaction may include hundreds
+oy UE laSK-16os
+
+When the network is congested, some
+transactions may fail. The successful and
+
+Deploymen
+Spain: failed transactions are mixed up, making it
+difficult and time-consuming to track.
+Customized Gas fee is predefined and cannot be
+adjusted, which may lead to transaction
+Gas Fee
+
+failure if the network is congested.
+
+shiobsc.com
+
+Ue Un acs
+
+SHIBSC
+
+Free
+
+Consolidate hundreds of transfers into one
+transaction, the minimum gas fee is reduced
+to one instead of hundreds, resulting in
+significant cost reduction.
+
+Success or failure for all the transfers in one
+transaction, which is time-saving for decision
+making.
+
+Gas fee can be customized according to the
+network congestion condition
+
+Cross-chain Oracle
+
+More Tools Coming Soon...
+
+G TOKEN MULTI-SENDER cyte
+
+ 
+
+Select Token to send
+
+Paras S
+
+mere le CL me ECC i mete aatag lp PU wee a
+
+ek ia ee aL Te Be
+er ie uae we Dit ea ea Dee Be eae
+PAB On ar a UA Uni nie i |
+
+eC TEP ge Ow ee ie ee Gee a
+Pee a RE bi Be le eo PAUL Be 4)
+rato el a ee Reece em E pee Le Pe ieee
+UE Spood
+
+a
+Yee eT oem | Medium re
+cee
+
+iter els tee Ls oor ety ak 0 SHIBSC
+Wi gy teen ns o Balance: 292,813,243, 792.6218 SHiesc
+eee a
+dmin@shib mM
+fs INGUSNIDSC.CO
+@® SHIBSC Lightpaper
+
+Free LP Value Query Token Generator Token MultiTransfer Cross-chain Oracle More Tools Coming Soon...
+
+DC BRIDGE ORACLE
+
+At the moment, most popular projects on the Binance Smart Chain, such as PancakeBunny and Merlin Labs do not have a good quality oracle with a
+secure data feed, which results in frequent price attacks. With many years of DeFi development experience, our team analyzed these attacks care-
+
+fully, and designed a secure and highly efficient Oracle protocol, DC Bridge Oracle. It provides a solid infrastructure for DeFi development and cre-
+ates a safer and more reliable ecosystem.
+
+DC Bridge Oracle is the next-generation Cross-chain Oracle Protocol, which aims to build a data bridge between DEX and CEX safely and efficiently.
+
+It feeds data to the Smart Chain from Centralized exchanges, providing fundamental facilities and systems for DeFi dApps.
+
+Advantages
+- Custom Oracle compression algorithm running on the chain
+- High-performance data caching service
+- Oracle node fusion middleware
+- Information from reliable multi-sources.
+
+- Cross-chain price feed in parallel with DEX price feed.
+
+shibsc.com admin@shibsc.com
+@® SHIBSC Lightpaper
+
+| Free LP Value Query | One-click Token Launch Bulk Token Transfer Cross-chain Oracle More Tools Coming Soon...
+
+Design details
+The design of DC Bridge is divided into three parts.
+
+1. On-chain smart contracts
+
+DC Bridge Smart Contract can be deployed on a high-performance blockchain. The main functions include request processing and response
+calculation result verification, node application and token staking, and a gas fee system. The on-chain contracts also provide a set of easy-to-use
+interfaces for all DeFi dApps.
+
+2. Relayer Node System
+A P2P distributed network that runs independently by external users and is composed of an API that uses Core Governance Protocol. The API
+mainly includes the following modules: Block-Watcher, Tx-Relayer, CEX-Watcher, Verifiable Random Number Engine, Request Handler, and node
+
+consensus module.
+3. High-performance data caching system
+
+Combining efficient data compression algorithms with multi-level data caching structures, and middleware for data communication protocols, it
+monitors and caches multi-chain DEX and CEX data in real-time, and updates the price feed data when there is a pre-defined price difference.
+
+shibsc.com admin@shiosc.com
+© SHIBSC Lightpaper Roadmap
+
+Main theme of SHIBSC is
+
+NFT games + blockchain toolbox
+
+First NFT game, Lucky Pet (online)
+
+   
+
+PET NFT Card
+
+ime)
+launched
+
+LP Value Query (online)
+One-Click Token Generator (online)
+
+Token MultiTransfer (online) Listing on
+Pancake ro
+
+ 
+
+rane Pd
+
+DeFi Monitoring (New Mining Pool Minitoring, online)
+
+     
+
+NFT marketplace (coming soon)
+
+2021.94
+
+6 3 6 6 2021.05 4021.06 2021.07 2021.93 Te
+One-Click Mining Pool Launch (coming soon)
+
+Price Bot (coming soon) Panes
+
+CE is 2
+
+Market Data Analytics and Price Charts (coming soon)
+10. Smart Pool (coming soon)
+
+shibsc.com admin@shiosc.com
+

@@ -1,0 +1,158 @@
+PolkaDoge
+First NFT Multichain Marketplace
+Whitepaper
+
+POLKA+DOGE
+Polkadoge is the first multichain NFT market with the aim to provide an
+all-in-one marketplace for NFT.
+Polkadoge is the only project to combine 4 chains NFT marketplace into
+one with a growing goal of adding more chains.
+We are striving to launch on Ethereum, Binance Smart Chain, xDAI and
+Matic/Polygon.
+Polkadoge is the only memecoin with a real use case on Ethereum.
+
+1
+
+QUADRILLION
+total supply
+
+WHAT ARE NFT?
+A non-fungible token (NFT) is a data unit kept on a digital ledger known as a blockchain that
+certifies a digital asset as unique and thus non-transferable.
+Photos, films, audio, and other sorts of digital media can all be represented using NFTs. The buyer
+of the NFT, on the other hand, has access to any duplicate of the original file.
+While anyone can access copies of these digital objects, NFTs are tracked on blockchains to give
+the owner with a proof of ownership that is distinct from copyright.
+In 2020, the market value of NFTs will have tripled, reaching more than $250 million.
+NFT sales surpassed $2 billion in the first quarter of 2021.
+
+WHY NFTs ARE USEFUL?
+The blockchain ledger can verify an NFT’s unique identification and ownership. Ownership of the
+NFT is frequently associated with a licence to use the underlying digital asset, but this licence
+does not generally confer copyright to the buyer: some agreements only grant a licence for
+personal, non-commercial use, while others allow commercial use of the underlying digital asset.
+Digital Art
+Digital art was an early utilize case for NFTs, since of the capacity of blockchain innovation to
+guarantee the interesting signature and possession of NFTs. The computerized artwork entitled
+“Everydays – The Primary 5000 Days”, by craftsman Mike Winkelmann, moreover known as
+Beeple, sold for US$69.3 million in 2021.The buy come about within the third-highest sell off
+cost accomplished for a living craftsman, after Jeff Koons and David Hockney. Another Beeple
+piece entitled “Crossroad”, comprising of a 10-second video appearing enlivened people on
+foot strolling past a figure of Donald J. Trump, sold for US$6.6 million at Clever Door, a web
+cryptocurrency commercial center for advanced art. A 3D-rendered show of a domestic named
+“Defaces House”, made by craftsman Krista Kim was sold as a chunk of computerized genuine
+domain on the NFT showcase for over US$500,000.
+Collectibles
+NFTs can represent computerized collectibles like physical card collections, be that as it may in a
+totally computerized format. In February 2021, a LeBron James slam dunk NFT card on the NBA
+Best Shot stage sold for $208,000.
+Games
+NFTs can too be utilized to represent in-game resources, such as computerized plots of land,
+which are controlled by the client rather than the game designer. NFTs permit resources to be
+exchanged on third-party marketplaces without consent from the game designer. In February
+2021, Axie Infinity recorded a deal of $1.5 million for digital land titles in a single sale.
+Music
+Blockchain and the technology enabling the network have given the opportunity for musicians
+to tokenize and publish their work as non-fungible tokens. This has extended the list of options
+for musicians and artists alike to monetize and profit from their music as well as other content
+surrounding the themes of the music and the artists public image. Additionally, NFTs have
+provided the opportunity for artists and touring musicians to recuperate lost income due to the
+2020 COVID-19 pandemic which resulted in music industry revenues falling nearly 85%.
+
+NFTs were utilized by artists to increase revenue during the COVID-19 pandemic. In February
+2021, NFTs reportedly generated around $25 million within the music industry (in an industry
+with annual revenue of over $20 billion).On February 28, 2021, electronic dance musician
+3LAU sold a collection of 33 NFTs for a total of $11.7 million to commemorate the three-year
+anniversary of his Ultraviolet album. On March 3, 2021, rock band Kings of Leon became the first
+to announce the release of a new album, When You See Yourself, in the form of an NFT which
+generated a reported $2 million in sales. Other musicians that have used NFTs include American
+rapper Lil Pump,artist Shepard Fairey and rapper Eminem.
+Film
+In May 2018, 20th Century Fox partnered with Atom Tickets and released limited-edition
+Deadpool 2 digital posters to promote the film. They were available from Opensea.io and the GFT
+exchange. In March 2021, Adam Benzine’s Oscar-nominated documentary Claude Lanzmann:
+Spectres of the Shoah became the first motion picture, documentary and Academy Awardnominated film to be minted and auctioned as an NFT,via the Rarible platform.
+Other projects in the film industry using NFTs include the announcement that an exclusive NFT
+artwork collection will be released for Godzilla vs. Kong and director Kevin Smith announcing in
+April 2021 that his forthcoming horror movie Killroy Was Here would be released as an NFT.
+Sports
+NFTs have also been used in sports, in September 2019, NBA player Spencer Dinwiddie
+tokenized his contract so that others can invest into it. In addition, Dapper Labs, a blockchain
+technology-based company, has collaborated with the NBA to create “N.B.A Top Shot”, a
+marketplace for digital highlight clips.
+Fashion
+In 2019, Nike acquired a patent that allows for blockchain technology to attach cryptographically
+secured digital assets in the form of NFTs to physical products, such as a pair of sneakers, under
+the name “CryptoKicks”.
+
+POPULAR NFTs PLATFORM
+
+OpenSea (Ethereum - Matic)
+OpenSea boldly describes itself as being the largest NFT marketplace. It offers a wide range of
+non-fungible tokens, including art, censorship-resistant domain names, virtual worlds, trading
+cards, sports, and collectibles. It includes ERC721 and ERC1155 assets. You can buy, sell, and
+discover exclusive digital assets like Axies, ENS names, CryptoKitties, Decentraland, and more.
+They feature over 700 different projects, including trading card games, collectible games to digital
+art projects, and name systems like ENS (Ethereum Name Service).
+
+Rarible (Ethereum)
+Rarible is a community-owned NFT marketplace, with its “owners” holding the ERC-20 RARI
+token. Rarible awards the RARI token to active users on the platform, who buy or sell on the NFT
+marketplace. It distributes 75,000 RARI every week.
+
+SuperRare (Ethereum)
+SuperRare has a strong focus on being a marketplace for people to buy and sell unique, singleedition digital artworks. Each artwork is authentically created by an artist in the network
+and tokenized as a crypto-collectible digital item that you can own and trade. They describe
+themselves as being like Instagram meets Christie’s, offering a new way to interact with art,
+culture, and collecting on the internet.
+
+Foundation (Ethereum)
+Foundation is a specialist platform designed to bring digital creators, crypto natives, and collectors
+together to move culture forward. It calls itself the new creative economy. Its primary focus is on
+digital art.
+
+Atomic Market (Ethereum)
+AtomicMarket is a shared liquidity NFT market smart contract that is used by multiple websites.
+Shared liquidity means that everything listed on one market also shows on all other markets.
+
+Myth Market (Ethereum)
+Myth Market is a series of convenient online marketplaces supporting various digital trading card
+brands. At the moment, its featured markets are GPK.Market
+
+BakerySwap (Binance Smart Chain)
+BakerySwap is an automated market maker (AMM) and decentralized exchange (DEX) on Binance
+Smart Chain (BSC). It uses a native BakerySwap token (BAKE). BakerySwap is a multi-functional
+crypto hub offering a range of decentralized finance (DeFi) services, as well as a crypto launchpad
+and non-fungible token (NFT) supermarket.
+
+KnownOrigin (Ethereum)
+KnownOrigin is a market where you can discover and collect rare digital artwork. Every digital
+artwork on KnownOrigin is authentic and truly unique. Creators can use the platform to showcase
+and sell their work to collectors who care about authenticity. It is secured by the Ethereum
+blockchain.
+
+Enjin Marketplace (Ethereum)
+Enjin Marketplace is a mechanism by which you can explore and trade blockchain assets. It is the
+official marketplace for Enjin based NFTs. To date, it has enabled $43.8 million of Enjin Coin to be
+spent on digital assets, involving 2.1 billion NFTs. 832.7K items have been traded. You can use the
+Enjin Wallet to easily list and purchase gaming items and collectibles.
+
+Portion (Ethereum)
+Portion is an online marketplace connecting artists and collectors through Blockchain technology
+to easily sell, invest and own art and collectibles with complete transparency. It includes the Artist
+Community, a global network of decentralized artists and creators.
+
+WHAT ARE xDAI AND MATIC/POLYGON?
+xDAI
+The xDai chain is a stable payments EVM (Ethereum Virtual Machine) blockchain designed for fast
+and inexpensive transactions. The chain uses a unique dual-token model; xDai is a stable token
+used for transactions, payments, and fees, and STAKE is a governance token used to support the
+underlying POSDAO Proof-of-Stake consensus.
+MATIC/POLYGON
+Polygon combines the best of Ethereum and sovereign blockchains into a full-fledged multi-chain
+system.
+Polygon solves pain points associated with Blockchains, like high gas fees and slow speeds,
+without sacrificing on security. This multi-chain system is akin to other ones such as Polkadot,
+Cosmos, Avalanche etc, but with major upsides.
+
+

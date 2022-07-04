@@ -1,0 +1,546 @@
+ 
+
+et tetera
+
+Boxer Inu
+WHITE PAPER
+KEY FEATURES
+
+01. Auto liquidity feature
+02. RFI Mechanics
+
+03. Deflationary Mechanics
+04. Charity/Donations
+
+O5 Use Cases
+
+06. Tax Distribution
+07. Tokenomics
+
+08. Distribution
+09. Presale
+
+10. Roadmap
+11. Audited by Techrate
+
+boo ACE CIa TE
+INTRODUCTION
+
+If we take a closer look at blockchain, the crypto market, the famous
+decentralized finance (DeFi) protocols: we are actually seeing FIAT being
+replaced with crypto and the large steps taken towards the development of a
+permissionless, transparent, immutable, secure, and fully autonomous global
+digital economy. This development will allow us to differentiate between the
+virtual and physical, FIAT currency and digital currency, and real-world use
+cases and dapps. This development will pave the way towards a digital
+economy that will overcome financial, technological, and societal problems.
+
+Dogecoin was originally created at least in part as a lighthearted joke for
+crypto enthusiasts and took its name from a once-popular meme. Despite this
+unusual origin story, it has exploded in popularity in 2021, becoming the fifth-
+largest cryptocurrency by market cap. Today Dogecoin Is no joke, having
+exploded in value and gained more than 5,000% in 2021. Among its boosters
+is Tesla CEO Elon Musk, who called Dogecoin his favorite cryptocurrency. Musk
+also named Dogecoin the “people's crypto,” and promised to plant a physical
+Dogecoin token on the moon. The original point of Dogecoin might have
+been to just have fun, but for investors, having fun means making money.
+
+Following its success and a little before that, a lot of tokens launched on the
+Ethereum and the Binance Smart Chain, all promising to rebuild financial
+services and make them available to anyone. These tokens created a new era
+in the history of Blockchain creating a whole community of millions with the
+same interests in similar meme coins and shitcoins projects.
+
+As Ethereum gas fees were high and there was an alternative to Ethereum
+available with the same features which used the Ethereum Virtual Machine
+(EVM), meme coins started to launch on the Binance Smart Chain (BSC),
+making BSC a powerful medium for investment and transactions as it allowed
+transactions to be done immediately with lower costs.
+
+Ms Ay CUm Le Page | 03
+However, meme coins and shit coins have taken this development for granted
+and developers and project owners are launching actual shitty projects with
+zero use Cases and zero utility and getting too much traction. We think
+projects should not be invested in until they have a lot of use cases and
+applications of their tokens. This is why we are launching Boxer Inu, a meme
+coin with the actual use case and a catchy and trendy name.
+
+Boxer Inu will be a deflationary, auto-liquidity generating, static rewarding
+token on the Binance Smart Chain. Apart from this Boxer Inu will also have the
+donation function in its contract through which 2% fees will be cut and sent
+for important causes.
+
+Unlike other meme tokens out there that serve only one purpose; pump and
+dump, Boxer Inu has actual use cases and applications for its utility token
+{O38
+
+Some utilities include an NFT Marketplace, a decentralized exchange, Boxer
+Lottery, and a crypto gaming platform that will all launch as soon as in 3
+months at different time intervals. After this comes a launchpad platform that
+
+will compete with platforms like DxSale and BSCPad.
+
+All these features are mentioned on the roadmap and under development. As
+you will see as you read through this White Paper
+
+Boxer Inu also has a perfect tokenomics and token distribution model that
+aims to take Boxer to the moon like its predecessors with the same Inu name
+
+DISCLAIMER: DYOR
+
+Moo) ADC a TT Pera ey.
+Automatic Liquidity Generation Mechanism
+
+In many DeFi projects, we have seen a lot of investors jump in and buy a large
+number of assets, causing a huge uproar, a lot of pumps that we all like to see.
+And once the graph becomes more vertical rather than horizontal (starts
+going up), an increasing number of common traders also start investing too.
+We've all been there and seeing a colorful graph that is just heading up, it can
+be pretty damn hard not to jump in. However, almost always, the token suffers
+an impending collapse of the price.
+
+Once the bandwagons are full and the big holders sell, the graph sees a
+downward plunge and the common trader suffers a great loss.
+
+Now, what is the reason behind such a big loss to price?
+
+You know how liquidity pools store a pair of assets, the token, and another
+currency (mostly BNB on BSC). When the pool loses a lot of BNB, the price of
+the other token shoots down. This causes a loss of value and those scary
+graphs we talked about.
+
+This effect increases in a smaller liquidity pool and decreases as the liquidity
+pool increases in both tokens. This is the reason why we have integrated an
+automatic liquidity generating function that not only solves the high price
+variation problem but also strengthens Boxer Inu’s future.
+
+The Automatic Liquidity Generation feature within $BOXER’s smart contract is
+recently very popular, yet very innovative core module that the protocol has
+implemented. It involves a feature that, on every transaction, causes a certain
+percentage of the trade's value to automatically generate liquidity in
+PancakeSwap liquidity pools.
+
+Ms Ay CUm Le Tem Os
+This mechanism benefits in two distinct ways: first, the constant supply of
+liquidity into the pool solidifies its future as the removal of tokens from that
+pool will not cause a huge variation to the price. Second, a specific percentage
+of tax is cut on each transaction, this disincentivizes the user to sell as he will
+receive a lesser value when he sells causing him to hold until a large increase
+0
+
+We have put a 3% fee that can be changed as the community demands, the
+fee is split 50/50, half is swapped by the contract into BNB, while the other half
+of the tokens are paired automatically with the previously mentioned BNB and
+added to the liquidity pair on Pancake Swap.
+
+RFI Mechanics
+
+What is RFI? RFI also called Reflection or static rewards is a function that
+causes a certain percentage of tax on each transaction to automatically be
+sent to holders of the tokens.
+
+Now here’s a better upside to holding $BOXER.
+
+If you just hold $BOXER in your wallet you become eligible to receive more
+tokens without any limit of holding period. The more you hold the more you
+receive. The longer you hold onto it the more you can actually earn. This is
+because 3% of transaction fees from trades and transfers of %BOXER will get
+redistributed amongst the token holders.
+
+As the token transactions per day increase so will the static reward amount
+and hodlers/believers of the project and token can earn just by believing.
+
+Static Rewards solve a range of problems. First, the size of the reward is
+determined by the number of tokens traded. Second, each holder receives a
+portion of each dump and pump's value through this process. Third, this
+system allows token holders to retain their tokens to gain a higher value when
+they sell them (they will have more tokens than they bought).
+
+Ms Ay CUm Le Page | 06
+As a result, each transaction is subject to 3% fees for static rewards, which are
+immediately distributed to all holders based on their holding volume, all
+without the need for farming or staking!
+
+As users execute transactions, the number of tokens in your wallet will
+continue to grow indefinitely. This successfully avoids impermanent loss, and
+you are effectively compensated for simply holding $BOXER.
+
+Deflationary Mechanics - Burning
+
+Burning is a deflationary approach to control the supply of a token which
+works by constantly removing assets from circulation. Burning of $BOXER will
+be an automatic process that Boxer Inu’s devs have implemented by adding a
+function that allows each transaction to cut a specific cut (1%) and sends this
+amount of tokens to the burn address, effectively decreasing the supply
+shown on explorers too.
+
+Developers use deflationary burning mechanisms to increase the value of
+tokens thereby avoiding inflation. Because of the way early DeFi platforms
+distributed LP and reward tokens, they experienced inflationary issues.
+Through this function, $BOXER’s supply will gradually delete a portion of the
+tokens in circulation in order to decrease its supply.
+
+Donation/Charity
+
+Being a DeFi project, Boxer Inu aims to also give some attention towards
+helping those in need with our protocol. While we, our investors, our holders
+and the community are focusing on the longevity, growth and development of
+the project, we also need to do some good for the world we live in. Therefore,
+Boxer Inu’s mission is to open more and more ways through which donations
+can be given for important causes while we do our transactions.
+
+Ms Ay CUm Le Page | 07
+To accomplish this, the team has integrated a function in $BOXER’s smart
+contract that will allow 2% fee to be cut on each transaction and sent forward
+to a charity wallet which will hold all funds. The community will be urged to
+vote and give their opinion on the allocation of these funds for righteous
+causes whether they be of helping the poor or needy, endangered animals,
+combating climate change or any other reated matter.
+
+Boxer Inu also has plans to hold crowdfunding schemes for larger causes. All
+the funds will be sent to a charity wallet and when it has the right amount
+raised, all contributions and donations will be made in a secure and
+transparent way.
+
+The charity wallet’s address will be shared by the team so that the community
+can check through blockchain explorers where their donations go.
+
+Use Cases. What's Next?
+
+Boxer Inu differs from the rest of the meme crowd because it has a passionate
+team working full time to develop a fully-fledged ecosystem of applications
+surrounding the token. Our mission is to not only drive a marketing and
+development campaign appealing to cryptocurrency asset traders for the
+short term but also a suitable long-term plan for hodlers and serious long-
+term crypto enthusiasts active in the crypto sphere.
+
+Boxer protocol will offer a variety of cryptocurrency dapps all with the goal to
+accelerate the adoption of our protocol and help play a leading role in
+changing the way people conduct financial transactions. Dapps that will
+accelerate the growing process:
+
+1. Boxer NFT Marketplcae
+2. Boxer DEX
+
+3. Boxer Lottery
+
+4. Boxer Crypto Gaming
+5. Boxer Launchpad
+
+Moo) ADC a TT era,
+- An NFT Marketplace
+
+A marketplace for all kinds of digital assets and crypto collectibles. Users
+can trade, buy, sell, auction, bid, and discover digital art and assets.
+Content creators will be allowed to produce their own NFTs on the
+blockchain using Boxer Inu’s NFT minting feature. There is no need for
+content creators to have any programming knowledge to make collections
+and NFTs.
+
+Apart from this, Boxer will employ a bunch of artists and upload its own
+content for sale to the public. We will create and sell NFTs and the money
+generated from these activities will be donated to charities.
+
+Users who are selling content or NFTs can sell an item for a fixed price,
+create a declining price listing, or make an auction listing.
+
+All kinds of content will be welcomed whether they are images, photos,
+digital art, music files, 3d models, movies, concert hostings, books, or
+Wile [tes
+
+This provides artists complete control over their careers, allowing them to
+achieve their goals without having to pay a large fee to larger agencies.
+The Binance Smart Chain (BEP-20) utility token for this NFT marketplace
+allows artists and producers can turn their ideas into NFTs, mixing music,
+art, and gaming with collectible NFTs.
+
+The Boxer Inu NFT marketplace will be powered by the Boxer Inu token
+
+($BOXER) meaning that all transactions will be made through this token.
+Each artist will be provided with BOXER tokens.
+
+Ms Ay CUm Le Page | 08
+Explore Create
+
+bo AD 4 eomnees eT
+
+CREATE, EXPLORE & COLLECT DIGITAL ART NFTS.
+
+The New Creative
+Economy.
+
+feta olt ig 3D Model
+Weekly Pick Collection
+By Vertical Crypto CNET
+
+~——s
+
+a
+
+Breer Today
+
+ 
+
+ 
+
+ 
+
+  
+
+Sc eS ard + 2a)
+
+a 2c 5
+% Lf [<S z 4. a Trym_ruud
+Me we mei) Silt) Q
+
+LIRONA Stargarden ICOnow Art Ln lolP)E Nay Bored Elon Trym_ruud
+
+BD en Cy Pan Cea y reed} Ny
+
+ee on 2
+
+v
+
+4
+
+ 
+
+Hot Bids >
+
+ 
+
+cin Cr sia als ee Crypter Weekly Pick (2.45 5NA Crypter Weekly Pick [2.4558] yn) sa atd
+oa Pe oat Poe oat Pre oa tof
+0) Highest Bid 0.01BNB — Newbid & eS CO: CO | Vee LOL | eee DCO |
+
+Hot Collections >
+
+ 
+- A Decentralized Exchange
+
+Boxer Inu intends to launch a decentralized exchange, yield farming, and a
+staking platform in the same application.
+
+The DEX will be working on the Automated Market Maker (AMM)
+algorithm much like Uniswap, PancakeSwap, and BakerySwap.
+
+The DEX will be launched on the Binance Smart Chain and will introduce a
+new era where meme coins will be launched as credible projects and
+putting a stop to the disgraceful name people give to these protocols.
+
+The Boxer Inu DEX will be much like PancakeSwap, the swapping protocol
+Boxer Inu will be initially listed on. Boxer Inu’s DEX will allow users to add
+liquidity to the protocol, earn Ip tokens for their contribution, and get
+great rewards for providing liquidity.
+
+ 
+
+= Mo \ ere a [sox | BOXER J connect | ©
+. fl
+Ce g a
+a t ?\ a
+i Ly
+v err
+Pos . Sec +
+oa
+ra :
+\ a
+eer PS
+‘ \
++ = » + a
+~ r a rn
+‘Slippage Tolerance $
+,
+0000 , . ;
+
+ 
+
+ 
+
+Ms Ay CUm Le Page | 10
+TRANSACTION TAXES PERCENTAGES:
+
+Total Tax fee: 10%
+
+Breakdown:
+
+ 
+
+ 
+
+ 
+
+ 
+
+Static Rewards nL
+Automatic LP Generation Mechanism Ey
+Donation/Charity ra
+Auto Burn: bs
+
+ 
+
+ 
+
+ 
+
+ 
+
+WALLET ADDRESSES
+
+ 
+
+Dev Wallet 0xbb39c963850b27bba662d3a60f7c4137b7add018
+
+ 
+
+ 
+
+ 
+
+ 
+
+Charity Wallet 0x972A239820b9028cD9197E35FfB1dA94B2aa86Df
+
+ 
+
+Moo) ADC a TT Page | 11
+TOKENOMICS & DISTRIBUTION
+
+TOKENOMICS
+
+Token Name: Ticker: Decimals:
+Boxer Inu BOXER ]
+
+Total Supply: Supply Model:
+1,000,000,000,000,000 (1 Quadrillion) Deflationary
+Chain: Class:
+
+Binance Smart Chain Ua Acre laa
+
+Black Hole Address:
+
+0x000000000000000000000000000000000000dEaD
+
+TOKEN DISTRIBUTION
+
+Public Sale:
+50%
+
+Listings & Liquidity:
+27%
+
+ei sass
+ato
+
+Team & Dev Wallet:
+
+DxSale Platform Fee
+01%
+
+ 
+
+TOKEN SALE
+
+Presale is on DxSale to allow contributors and investors to feel safe
+
+Hard Cap: Soft Cap: Personal Max: Personal Min:
+3000 BNB 2000 BNB 5 BNB 0.01 BNB
+
+Moo) ADC a TT Page | 12
+THE ROADMAP
+
+The development and marketing teams at $BOXER are currently focusing on
+the key activities that are needed for hyper-growth. The following is a high-
+level roadmap that can change as new directions are proposed by the Boxer
+
+Inu community:
+
+Q3 2021 —O
+
+CoinMarketCap & CoinGecko Listing =
+More Exchange Listing =
+
+New Partnerships =
+
+Boxer Decentralized Exchange (DEX) =
+Start of Development: Boxer Launchpad =
+Boxer Lottery =
+
+Boxer Crypto Gaming =
+
+bos MTom TT
+
+ 
+
+(Omen
+
+Q2 2021
+
+= Concept Creation
+
+= Launch of white Paper
+= Huge Marketing Efforts
+= Launch of public sale
+
+= Listing and Launch
+
+Q4 2021
+
+= Huge Marketing Push
+= Boxer Mobile App
+
+= Boxer LaunchPad
+
+= Boxer Lending/Borrowing Portal
+= Boxer NFT Marketplace
+
+Page | 13
+AUDITED BY TECHRATE
+
+TechRate was commissioned by Boxer Inu to perform an audit of Boxer
+Inu's token smart contract. The link to the contact is given below:
+
+https://bscscan.com/
+token/0x192E9321b6244D204D4301AfA507EB29CA84D9ef
+
+The purpose of the audit was to achieve the following:
+
+1. Ensure that the smart contract functions as intended.
+
+2. Identify potential security issues with the smart contract.
+
+Link to Audit Report:
+http See SHRORIU SMSIn eCcln NE CT COTM La
+
+Audits/blob/main/Boxerlnu%20Full%20Smart
+%20Contract%20Security%20Audit.pdf
+
+bos MTom TT Page | 14
+DISCLAIMER
+
+- All of the information contained in this White Paper andon = _
+. the website (boxerinu.finance) is provided solely for - ——
+-edug¢ational purposes and should pot be construed as financial *
+advice. Purchasing or trading cryptocurrencies/digital assets is
+fraught with danger and uncertainty. Viewers of this White
+a z-] eL-1meJalell ie) never put more money into cryptocurrency than
+they can afford to lose. Before investing in this or any other
+cryptocurrency project, the reader should always seek expert
+investment advice.
+
+Learn More & Get Involved
+
+WAelessti kee https://boxerinu.finance
+Twitter: https://twitter.com/BoxerlnuFinance
+Teleg ram: t.me/BoxerlnuOfficial
+
+C https://exchange.pancakeswap.finance/#/swap?output
+PancakeSwap: eno : eae
+
+Currency=0x192E9321b6244D204D4301AfA507EB29CA84D9ef
+
+Charts: https://poocoin.app/tokens/0x192E932
+CLES 1b6244D204D4301 AfA507EB29CA84D9ef
+
+Let Boxer Inu
+

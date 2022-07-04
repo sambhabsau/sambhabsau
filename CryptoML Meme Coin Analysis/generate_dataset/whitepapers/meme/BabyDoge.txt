@@ -1,0 +1,469 @@
+BABY DOGE
+WHITEPA PER
+
+w w w.babydogecoin.com
+
+INTRODUCTION
+Launched in June 2021, Baby Doge
+Coin is the fastest-growing
+cryptocurrency of its kind. Baby
+Doge is fully decentralized and on a
+mission to bring crypto to the
+average person while also helping
+save dogs in need. Baby Doge is
+created after doge coin with 10x
+faster block speeds and cheaper
+gas fees since its built on binance
+smart chain.
+Baby Doge has learned a few tricks
+and lessons from his meme father,
+Doge Coin. A new crypto birthed by
+members of the Doge Coin online
+community. Baby Doge seeks to
+impress his father by showing his
+new improved transaction speeds &
+adorableness. He is
+Hyper-deflationary with an
+integrated smart staking system built
+in to reward you, so more baby doge
+coins are being automatically added
+to your wallet each transaction.
+Simply love, pet, and watch your
+baby doge grow.
+DISCLAIMER
+Baby Doge, including but not limited to the overall project, token, website, smart contracts and any apps
+(“BABY DOGE”) as presented in this conceptual paper is not a licensed, unlicensed or exempted financial or
+payment service of any kind and in any jurisdiction. Any terminology used in this Whitepaper, on the Website
+or within the app is intended only as a basic reference, without any effective or legal meaning of the same
+terms in a regulated and/or financial environment. BABY DOGE is a fully and completely decentralized and
+community driven project and does not have owners, shareholders, promoters, marketers, managers,
+directors or other figures or entities exerting any form of governance. The BABY DOGE smart contracts are
+open-source, security audited, permanent and non-modifiable in any way. The BABY DOGE token is strictly a
+utility token in all jurisdictions and is not and cannot be considered to be a “security” or otherwise regulated
+token of any kind. BABY DOGE is not in any way e-money and/or fiat money, or an asset backed stablecoin,
+whether global or limited in scope. This Whitepaper taken by itself is not a contract or a contractual
+agreement of any kind, nor is it an invitation, solicitation or offer to invest in BABY DOGE or acquire or use BABY
+DOGE tokens in any way and with any expectation of profit therefrom. Any user of BABY DOGE represents and
+warrants that such user has received appropriate technical, administrative, regulatory and legal advice
+before and after accessing and/or reading this Whitepaper or the Website, and/or using any portion or
+element of BABY DOGE (including the BABY DOGE token). The user hereby acknowledges and accepts that
+there is an inherent high risk in accessing, acquiring or using any kind of blockchain and/or crypto system,
+token, platform, software or interface, including BABY DOGE, and further disavows any claim of any kind
+against any community member directly or indirectly involved with BABY DOGE, for any damage suffered,
+including total loss. BABY DOGE makes a credit card interface available on its website solely for the users’
+convenience. The Company is not a payment processor of any kind, and has no control over credit card
+processing. Use at your own risk.
+
+www.babydogecoin.com
+
+2
+
+Table of Contents
+
+01
+
+ABSTRACT
+
+02
+
+VALUES
+
+03
+
+BABY DOGE COIN
+
+04
+
+ECOSYSTEM
+
+05
+
+BABY DOGE PROTOCOL
+
+06
+
+ACCOMPLISHMENTS
+
+07
+
+PAW MAP
+
+08
+
+TOKENOMICS & STATS
+
+www.babydogecoin.com
+
+3
+
+01
+
+Abstract
+
+Baby Meme. Big Dream.
+Baby Doge Coin was born June 1st 2021 with the goal of being a
+decentralized meme project with a purpose. Baby Doge is a fun meme
+with a serious mission to rescue dogs in need, bring crypto adoption to
+the main stream with new concepts such as rewards, NFTS, decentralized
+exchanges, and credit card for crypto payment on our website.
+Within the first 21 Days of birth Baby Doge Coin made history surpassing
+100,000+ holders.
+Baby Doge Swap
+We are one of the first meme coins to offer a live decentralized swap
+directly on our website right after launch.
+Baby Doge Card Pay
+We are one of the first meme coins to offer credit card for crypto
+payments directly on our website.
+Baby Doge Paw Wallet
+On our road map our paw wallet will have users track their rewards
+gained from reflections, wallet balance, coin valuation, and more.
+Baby Doge NFTs
+Our largest project in the works is our NFT marketplace. We will allow
+users to create and buy/auction their own NFTs and plan to allow users to
+donate a % to helping save dogs.
+Baby Doge Swag
+A merchandise store for $BabyDoge holders to proudly support their
+favorite meme in the real world with the proceeds to benefit the project
+and help more dogs in need.
+
+www.babydogecoin.com
+
+4
+
+02
+
+Values
+
+TRANSPARENCY
+
+COMMUNITY
+
+Baby Doge is decentralized and
+supported by its community of
+enthusiasts. We encourage open
+communication and believe
+trust, transparency, and
+community are the 3 pillars to
+building longevity.
+
+Baby Doge is one of the fastest
+growing and most loved
+communities in crypto we believe
+that only together we are strong.
+Community is everything and
+Baby Doge strives to include
+everyone from around the globe.
+We have multiple telegram
+channels dedicated to our
+international communities.
+
+TRUST
+In cryptocurrency market trust is
+paramount. That means full
+transparency not only in the
+community and development but
+also in security efforts. Baby Doge
+has been audited by a third party
+dessert finance and has burned
+and locked majority of the LP
+tokens. No rug pulls here only
+cute baby doges.
+
+LONGEVITY
+Baby Doge is in for the long haul.
+The decentralized community is
+fostering and adopting long
+term development of the
+ecosystem and foundation in
+efforts to drive real use cases,
+and greater rewards beyond any
+temporary trends.
+
+www.babydogecoin.com
+
+5
+
+03
+
+Baby Doge Coin
+
+Binance Smart Chain (BSC) was developed as a means of utilizing
+solidity-based smart contracts with much greater speed and efficiency
+than other, competing chains. With decentralized exchanges on BSC
+offering lightning-fast swaps and extremely low fees, BSC has started to
+become one of the most widely used blockchains for Decentralized
+Finance (Defi). BSC uses a token protocol developed by the BinanceTeam
+called BEP-20. Known for 5 second block speeds much faster than doge
+with 1 minute block speeds. These 2 articles compare block speed:
+Doge 1 Minute:
+https://coinsutra.com/transaction-speeds/
+Bep-20/BSC 5 seconds:
+https://trustwallet.com/blog/binance-smart-chain-in-numbers
+Advantages of the Binance smart chain are:
+It’s a sovereign blockchain, which will provide security and safety to all
+users and developers.
+Its native dual chain interoperability will allow cross-chain
+communication and scaling of high-performance dApps that require a
+fast and smooth user experience. It’s EVM-compatible and will support
+all of the existing Ethereum toolings along with faster and cheaper
+transactions.
+Its on-chain governance with Proof of Staked Authority consensus, built
+on 21 validators who validate the transactions, will provide
+decentralization and enable significant community involvement.
+Baby Doge is not responsible for the actions of the Binance smart chain network
+
+www.babydogecoin.com
+
+6
+
+04
+
+Ecosystem
+
+Community-Powered
+Baby Doge is fully decentralized
+and owned by its fun, vibrant
+community. We welcome and
+embrace diverse perspectives to
+build Baby Doge into the best
+community in crypto. With a
+do-good mission of helping save
+dogs in need.
+
+Instant Rewards
+For every transaction in the Baby
+dodge network a 5% fee is
+distributed to existing holders. That
+means you earn more Baby Doge
+just by holding it in your wallet.
+Watch your Baby Doge grow every
+transaction!
+
+Locked LP
+Liquidity tokens are burned and locked. Additionally, 5% of all transaction fees are
+added to liquidity.
+Here you can view LP holders:
+https://bscscan.com/token/0xc736cA3d9b1E90Af4230BD8F9626528B3D4e0Ee0#ba
+lances
+
+www.babydogecoin.com
+
+7
+
+05
+
+Baby Doge Protocol
+
+Baby Doge employs 3 simple functions: Reflection + LP acquisition + Burn.
+In each trade, the transaction is charged a 10% fee, which is split 2 ways.
+
+5%
+
+5% fee = redistributed to all existing holders
+
+5%
+
+5% fee is split 50/50 half of which is sold by the
+contract into BNB, while the other half of the
+BABY DOGE tokens are paired automatically
+with the previously mentioned BNB and added
+as a liquidity pair on Pancake Swap.
+
+5%
+
+30%+ of the total supply has been burned so far
+so 30%+ of the 5% redistributions are burned
+with every transaction
+
+2.2%
+
+We have a charity wallet with 2.2% of the total
+supply which receives redistributions to donate
+to our charity partners.
+
+www.babydogecoin.com
+
+8
+
+06
+
+Accomplishments
+
+Baby Doge First 21 Days
+100,000+ Holders | 220m+ Market Cap | 45,000+ telegram members
+50,000+ twitter followers | 15,000+ Instagram followers
+Shared by Multiple Celebs
+
+Baby Doge Swap + Pay with Card LIVE
+New Website Redesign | Featured in PR including BEZINGA
+Audited by DESSERT FINANCE | Trends on CoinmarketCap and Dex Tools
+Read our audit
+
+https://dessertswap.finance/audits/Baby%20Doge%20Coin%20(BabyDoge)%20BEP-20%20Audit%208332977.pdf
+
+www.babydogecoin.com
+
+9
+
+07
+Phase 1 - Birth
+• Marketing push to spread
+awareness
+• Website launch
+• 5000 telegram members
+• Meme development
+• Baby Doge is Born!
+
+Phase 4 - Run
+
+Paw Map
+
+Phase 2 - Crawl
+• Inﬂuencer marketing push
+
+• 100,000 holders
+
+• Listing on coin gecko
+
+• 100,000 telegram members
+
+• Listing on coin market cap
+
+• Air drop #2
+
+• 25,000 telegram members
+
+• Large inﬂuencer marketing push
+
+• 25,000 holders
+
+• Listings on major cex
+
+• Third party audit
+
+• More memes from community
+
+7. Voluntary donation for
+community + charity
+partnership
+
+• Credit Card For crypto live on our
+website.
+
+Phase 5 Jump
+
+• 150,000 holders
+
+• 300,000 Holders
+
+• increase marketing
+
+• Release NFT market place for
+baby doge Treats . Baby Doge
+Treats will be available to
+BabyDogeCoin holders
+
+• Baby Doge Swap
+• Add way more memes
+• Website Redesign
+• Baby Doge Paw (Paw wallet
+growth tracker )
+
+Phase 3 - Walk
+
+• Give away Tesla to promote
+eco-friendliness campaign of
+baby doge vs doge at $250m
+market cap.
+• Memes. Everywhere.
+• $250k Donation to charity of
+community choice at $500m
+market cap
+
+Phase 6 Moon
+• Donate to help build animal
+sanctuary at $50b market cap
+• 100b market cap community
+gathers to carve a baby doge
+into a large mountain forever
+being locked as literally the
+LARGEST meme history.
+• 500b cap we form a baby doge
+religion. Community will vote
+what happens.
+• 1T cap worlds largest baby
+doge coin meet up/gathering.
+
+• $500k Donation to animal
+shelters for baby doges at $1b
+market cap
+• Donate to Help Build
+Homeless dog shelter at $25b
+market cap
+
+Baby Doge reserves the right to edit this White Paper at any time.
+
+www.babydogecoin.com
+
+10
+
+08
+
+Tokenomics & Stats
+
+TOKEN SYMBOL
+Baby Doge
+
+TOTAL SUPPLY
+420 Quadrillion
+
+CIRCULATING SUPPLY
+295 Quadrillion
+
+MARKET CAP
+200 Million+
+
+COIN BURNT
+125 Quadrillion
+
+HOLDERS
+100.000+
+
+125 Quadrillion
+
+420 Quadrillion
+
+295 Quadrillion
+
+BURN TOKEN
+
+CIRCULATING SUPPLY
+
+Pancake swap address:
+
+0xc748673057861a797275cd8a068abb95a902e8de
+
+LP Holders Link:
+
+https:/bscscan.com/toke/0xc736cA3d9b1E90Af4230BD8F9626528BD4e0e0#balances
+
+Link to holders:
+
+https://bscscan.com/token/0xc736cA3d9b1E90Af4230BD8F9626528B3D4e0Ee0#balances
+
+www.babydogecoin.com
+
+11
+
+THANK
+YOU
+
+Stay Updated
+
+@BabyDogeCoin
+
+t.me/babydogecoin
+
+www.babydogecoin.com
+
+
