@@ -1,0 +1,1256 @@
+Whitepaper v1.0
+Ecomi Technology PTE. Ltd.
+15 November 2018
+
+FOR INFORMATIONAL PURPOSES ONLY
+Information in this whitepaper does not constitute as an offer or solicitation to sell shares or securities in Ecomi Technology​PTE. Ltd.
+
+Contents
+Introduction
+ECOMI Collect Overview
+Secure Wallet Overview
+The Metcalfe Effect
+
+4
+4
+5
+5
+
+Why Blockchain
+Non Fungible Token (NFT)
+OMI Tokens
+Scarcity
+Counterfeit Protection
+Peer-to-Peer Transfer
+
+6
+6
+6
+7
+7
+7
+
+ECOMI Collect
+Overview
+Technology
+Onboarding
+Token
+Pricing
+Store
+Secondary Marketplace
+Digital Collectibles
+Master Collector Program
+Wallet
+Collect Digital Hardware Wallet
+Augmented Reality
+Showroom
+Scene Creator
+Virtual Goods
+Gamification
+Social Wall (Show ‘n’ Tell)
+
+7
+8
+8
+9
+9
+10
+10
+10
+11
+11
+12
+12
+13
+13
+14
+14
+15
+15
+
+Secure Wallet
+Overview
+Secure Wallet Components
+Secure Wallet Main Features
+Loss, Backup and Restoration
+
+16
+16
+16
+17
+18
+
+OMI Token
+
+19
+
+Whitepaper v1.0 | ecomi.com | © 2018, Ecomi Technology PTE. Ltd.
+
+Purchasing Tokens
+Token Metrics
+Use of Funds
+Token Lockup Periods
+
+19
+19
+20
+20
+
+Roadmap
+
+21
+
+Team
+Key Members
+Board & Advisors
+
+22
+22
+23
+
+Risks And Disclaimers
+
+26
+
+Whitepaper v1.0 | ecomi.com | © 2018, Ecomi Technology PTE. Ltd.
+
+Introduction
+ECOMI is a Singapore registered business, operated and supported by ORBIS Blockchain
+Technology Ltd. ORBIS is a registered company in New Zealand with offices in Auckland, New York,
+Taipei and Shanghai.
+ECOMI’s aim is to create the world’s best platform to purchase, protect and collect premium
+licensed digital collectibles using Distributed Ledger Technology. ECOMI consists of two elements,
+the ECOMI Collect ecosystem and the ECOMI Secure Storage Wallet.
+
+ECOMI Collect Overview
+ECOMI Collect is an application that allows users to buy, sell and trade premium licensed, digital
+collectibles and other related virtual goods.
+Through the ECOMI Collect app, users can browse a multitude of different brands and categories
+to view and purchase digital collectibles, becoming the official owner.
+Users can display their digital collectibles in their personal showroom and create custom scenes
+with their digital collectibles and props. Within a social feed users can share their digital
+collectibles, showrooms and scenes with the ECOMI Collect community, who can comment and
+show appreciation.
+The Augmented Reality feature lets users interact with their digital collectibles in the real-world
+and even show them on social media. Eventually through ECOMI’s in-app gameplay, collectibles
+will be able to interact with each other.
+Within the app, users can connect to a secondary marketplace, where they will be able to buy, sell
+and trade to other members of the community.
+All transactions within ECOMI Collect are carried out utilising the OMI token, which is used to
+purchase the digital collectibles and via staking, open access to premium features.
+
+Whitepaper v1.0 | ecomi.com | © 2018, Ecomi Technology PTE. Ltd.
+
+Secure Wallet Overview
+The Secure Wallet is a wireless, credit card-sized, cryptocurrency
+cold storage, hardware wallet.
+The Secure Wallet never directly connects to the internet, keeping
+your digital assets safe from malware and/or person’s with
+malicious intent.
+Employing CC EAL5+ security standards, the Secure Wallet offers an
+incredibly high level of protection of your private keys, whilst
+maintaining ultra portability. To put this in perspective, EAL5 is what
+the majority of banks use.
+Users interact with the Secure Wallet using the free companion app (available on iOS and
+Android), which allows the user to carry out wallet functions such as sending and receiving
+cryptocurrencies.
+
+The Metcalfe Effect
+As ECOMI Collect is a platform targeting the mass market, Metcalfe's law (which states the value of
+a network is proportional to the square of the number of connected users of the system) will play
+a role in the growth of the user base.
+
+^ Metcalfe’s law in action - Two telephones can make only one connection, five can make 10 connections,
+and 12 can make 66 connections and so on.
+
+Whitepaper v1.0 | ecomi.com | © 2018, Ecomi Technology PTE. Ltd.
+
+There are numerous positives associated with a growth of the ECOMI Collect user base, such as:
+●
+
+Increase in the scarcity of ECOMI digital collectibles (driving value)
+
+●
+
+Increased liquidity of the OMI token
+
+●
+
+Increase in the number of staked OMI tokens
+
+●
+
+Increased activity in the secondary market
+
+●
+
+Increased social activity across the ECOMI Collect app
+
+●
+
+Increased uptake of new (digital collectible) releases.
+
+Why Blockchain
+ECOMI Collect employs Blockchain / Distributed Ledger Technology in a number of ways to make
+the ECOMI Collect experience possible.
+
+Non Fungible Token (NFT)
+The digital collectibles offered through ECOMI Collect are NFTs. The NFT standard allows for
+verifiable digital scarcity with a proven authenticity and an immutable proof of ownership. NFT’s
+allow for more detailed attributes to be included, such as rich metadata about the asset and these
+authenticated details allow owners to be confident about the NFT’s authenticity and provenance.
+ECOMI Collect will use the GO721 standard.
+
+OMI Tokens
+In order to facilitate the purchase and trade of digital collectibles, ECOMI Collect utilises the OMI
+token. There will only be 750 Billion OMI tokens minted and these are purchased during the ICO,
+through the ECOMI Collect app, or on an exchange.
+The OMI tokens will be GO20 standard whereas the digital collectibles are GO721 (NFTs). When a
+purchase of a collectible is made, the OMI tokens will be exchanged for the NFT. The NFT will be
+sent to the users Ecomi Collect app and become rightfully theirs, whilst the OMI tokens used for
+the purchase are discarded to a locked address.
+
+Whitepaper v1.0 | ecomi.com | © 2018, Ecomi Technology PTE. Ltd.
+
+Scarcity
+ECOMI Collect digital collectibles are released in a limited number of batches, called ‘Series’. A
+Series may, for example, have ten thousand digital collectibles and within this Series the digital
+collectibles are divided across five rarity categories, ranging from ‘Common’, (representing 62% of
+the total) through to ‘Secret-Rare’ (representing 1%). The Blockchain and NFT standard is used to
+generate these limited number of digital assets.
+
+Counterfeit Protection
+A key advantage of using the Blockchain for digital collectibles is that each collectible is a uniquely
+generated asset that cannot be duplicated. Each digital collectible is recorded in the Blockchain
+and ties ownership directly to the verified owner.
+
+Peer-to-Peer Transfer
+To facilitate effortless buying, selling and trading of digital collectibles amongst users within the
+app, ECOMI Collect leverages blockchain for the trustless transfer of digital assets between users.
+When a transfer happens, ownership is immediately transferred to the new owner and the
+previous owner will no longer have access to the digital collectible.
+
+ECOMI Collect
+Collectables have existed throughout human history and today they come in many forms, such as
+trading cards, figurines, comics and toys. Digital collectables have shown extreme promise to date
+and are on track to be the next generation of collect-o-mania. Currently the virtual goods market is
+valued at $80 Billion annually and is expected to grow to $100 Billion within the next 2 - 3 years.
+
+Whitepaper v1.0 | ecomi.com | © 2018, Ecomi Technology PTE. Ltd.
+
+Overview
+ECOMI Collect is a cross-platform (mobile, desktop, web) application used for the delivery and
+storage of digital collectible content. It is a marketplace where users can buy, swap, sell and store
+digital assets in the form of digital collectible NFTs. The authenticity, scarcity and ownership of
+digital collectibles are managed using Distributed Ledger Technology.
+
+Technology
+Blockchain Protocol and Contract Standards
+Due to the throughput and congestion issues that currently plague the Ethereum network, ECOMI
+Collect will be deploying the OMI token and the digital collectible NFT contracts on the GoChain
+network.
+Currently the GoChain network successfully performs 1,300 transactions per second and are on
+track to perform at 13,000 transactions per second. This vs Ethereum’s 13 transactions per second
+make it an ideal choice for both short and long term DAPP viability. Additionally, as a fork of the
+Ethereum protocol, GoChain is 100% compatible with Ethereum smart contracts, which will allow
+ECOMI to leverage existing GO20 and GO721 token standard implementations. To achieve long
+term stability and compatibility, the ECOMI NFT smart contract will be compatible with the ERC721
+token standard.
+
+Minting and Generation
+When new digital collectibles are created they are done so by minting a new NFT in our blockchain
+contract. Each NFT is provided with an associated URI which links that NFT to a set of metadata
+which includes the collectible name, licensor, brand, series and links to the NFT’s various digital
+assets (such as clothing, props, etc).
+ECOMI will host the publicly accessible JSON API containing the metadata for each NFT’s URI.
+
+Whitepaper v1.0 | ecomi.com | © 2018, Ecomi Technology PTE. Ltd.
+
+Digital Exchange Platform and NFT Ownership
+After the minting of each NFT, the ownership is sent to an address assigned to ECOMI for security
+and management on behalf of the owner. The ECOMI Collect platform operates as a hybrid model
+whereby ECOMI maintains ownership of all collectibles within the system, as is a common practice
+among digital exchange platforms. The ECOMI Collect platform will maintain centralized
+ownership records as users buy, sell and trade NFTs.
+Additionally, all transactions in our system require signing authorization from either the user’s app
+or their Collect Digital Hardware Wallet. This hybrid approach allows ECOMI to provide users with
+a streamlined experience within the ECOMI Collect app, while still leveraging the power of
+Distributed Ledger Technology for ECOMI digital collectibles.
+
+Onboarding
+Registration is required to use and access the ECOMI Collect app. To facilitate simple onboarding,
+ECOMI Collect will offer Single Sign On Services with an option to sign up manually via email.
+During onboarding, the user will be prompted to indicate their preferences towards specific
+brands and interests, which is used as a basis for personalised content.
+
+Token
+The underlying economy of ECOMI Collect is the OMI Token. The token is needed for two reasons.
+Firstly, the sale and purchase of digital collectibles and secondly, access to extra features and
+benefits within the app, such as the ’Master Collector Program’.
+When a purchase is made using OMI tokens, the tokens involved in the transaction are exchanged
+for the digital collectible and then expire. After a successful purchase the invalid OMI tokens are
+sent to an inaccessible smart contract where they reside permanently.
+ECOMI Collect users can acquire OMI Tokens using a credit or debit card, or where applicable, via
+an in-app purchase. When via in-app purchases, the payment will seamlessly purchase an amount
+of OMI tokens (determined by the user) and once the OMIs are acquired they are used to
+purchase the digital collectible. This process happens entirely in the background.
+
+Whitepaper v1.0 | ecomi.com | © 2018, Ecomi Technology PTE. Ltd.
+
+Pricing
+Digital collectible pricing within the ECOMI Collect app will be displayed in both fiat and OMI
+tokens. As ECOMI Collect targets the mass market, representing payment in familiar terms (fiat) is
+key for adoption.
+It is likely that over the natural progression of time the OMI token value will fluctuate based on
+supply and demand. By pricing digital collectibles in fiat, ECOMI can ensure any fluctuations in the
+OMI token value will not affect the collectible price. For example, at OMI token issuance the value
+of 1 OMI = 1 Sat (0.00000001 BTC), a USD $9 digital collectable would be worth approximately
+138,831 OMI tokens (current BTC USD $6,483.39). If the OMI token value was to double to 1 OMI =
+2 Sats, a US$9 digital collectable would be worth 69,415 OMI tokens.
+ECOMI Collect users will not be affected by these fluctuations in the OMI token value as the price
+will have always remained a consistent dollar value.
+
+Store
+From the Store section of the ECOMI Collect app users can browse and purchase new and
+premium licensed, digital collectibles. Within the store, the digital collectables are organized into
+categories and brands, with search and filter tools allowing users to easily find the content they
+seek.
+Each user has an intelligent store data profile which offers personalised content suggestions
+based on what they have viewed, purchased or interacted with. Users can purchase digital
+collectibles from the store using fiat or OMI. When the purchase is completed the digital collectible
+is removed from the store and ownership is transferred to the purchaser.
+
+Secondary Marketplace
+In the ECOMI Collect secondary marketplace users can connect, buy, sell, trade and put to auction
+their ECOMI digital collectibles. When selling, the owner can choose how they want to sell the
+
+Whitepaper v1.0 | ecomi.com | © 2018, Ecomi Technology PTE. Ltd.
+
+digital collectible - either sell at a fixed price or via a seven-day auction, which requires a reserve
+(set by the seller) to be met, in order to complete the auction.
+Items in the marketplace can be added to the users personal watchlist so the activity can be
+monitored. Users can can also make offers to swap or trade any item in the marketplace.
+
+Digital Collectibles
+Users can choose to inspect any individual collectible, whether in the store or secondary
+marketplace and view the information associated with it. This information can include the
+ownership history (previous owners usernames, with no identifiable information), purchase
+history, value over time, edition number, licensor and associated visual assets. Users can ‘like’ and
+comment on any digital collectible as well as share it in-app and on major social channels.
+
+Master Collector Program
+The Master Collector Program allows ECOMI Collect users to gain access to extra features and
+benefits such as; early access to digital collectible releases, limited edition collectibles, bonus OMI
+tokens and more.
+To become a Master Collector, the user needs to hold (stake) OMI tokens in a special section of
+their in-app wallet called The Powerchest.
+New users will start at ‘level 1’ Master Collector when they register. A user’s Master Collector level
+is based on a number of factors and variables including the amount of OMI tokens held in the
+user’s wallet, purchase and sale history and in-app activity such as community votes and
+interactions.
+The primary actions a user can take to increase their Master Collector level are:
+●
+
+Paid: A user can accelerate their progress through the levels, unlocking further features
+and benefits by purchasing and staking more OMI tokens.
+
+Whitepaper v1.0 | ecomi.com | © 2018, Ecomi Technology PTE. Ltd.
+
+●
+
+Unpaid: For users who choose not to accelerate financially, they can earn OMI tokens from
+in-app activity and then stake these earned tokens.
+
+Wallet
+Every ECOMI Collect user has an in-app wallet that is generated during the account set up. The
+wallet can be accessed from within the ECOMI Collect app and holds the users OMI tokens and the
+digital collectibles they own.
+From within the wallet users can see their OMI balance, staked token balance, purchase more OMI
+tokens and view their transaction history. They can also see the associated digital hardware wallet
+(see below) if one has been paired.
+
+Collect Digital Hardware Wallet
+The Collect Digital Hardware Wallet offers ECOMI Collect users an offline way to securely store
+their OMI tokens and digital collectibles. ECOMI Collect users can choose to authorize their digital
+collectibles and OMI token purchases and transfers using the Collect Digital Hardware Wallet,
+instead of the the in-app wallet. The Collect Digital Hardware Wallet will be made available
+internationally through retail outlets at a price point of approximately US$29,99.
+Based on the Secure Wallet technology (see Secure Wallet p.10), the Collect Digital Hardware
+Wallet is the size of a credit card and wirelessly connects to the ECOMI Collect app.
+Once connected and paired, users can utilize their Collect Digital Hardware Wallet to authorize the
+transfers of their digital collectibles and assets.
+When transferring collectibles or OMI token ownership, the user must physically approve this
+transaction by pressing the button on the Collect Digital Hardware Wallet. If the wallet happens to
+get lost, the user can recover their digital collectibles and OMI tokens using the seed numbers
+generated during the setup.
+
+Whitepaper v1.0 | ecomi.com | © 2018, Ecomi Technology PTE. Ltd.
+
+Augmented Reality
+A key feature of the ECOMI Collect product suite is the Augmented Reality (AR) tools. Using this
+technology, ECOMI Collect allows users to bring their ECOMI digital collectibles out of the phone
+and project them into the real world, when viewed through the ECOMI Collect mobile app.
+When viewing an ECOMI Collect digital collectible in AR, the digital collectible is like a real world
+object - the user can move around it and view it from all angles. Using the AR, ECOMI Collect users
+can interact with their collectibles such as move them around the real world environment or
+engage in ECOMI game experiences.
+In addition, users can customise their collectibles and decorate the surrounding area with props
+and accessories, then view (and share) these creations in AR also.
+Users will have the ability to scale the AR content to match their environment, whether that be a
+small size on a table top, or scaled up to fill an open outdoor area.
+ECOMI Collect AR is placed into the real world in one of the following ways - on a flat surface (AR
+technology will locate and detect a flat surface and then place the AR elements on top), floating in
+space, on a reference point, or based on a geolocation.
+
+Showroom
+Every ECOMI Collect user has their own personal Showroom - a place where they can show off
+their most prized digital collectibles. A user can customise their Showroom by choosing which
+digital collectibles to display, selecting a layout and adding background images. Showrooms can
+be made private or public. If public, the Showroom can be viewed by other users within the ECOMI
+Collect app, as well as shared across major social platforms. Other users can show their
+appreciation for others Showrooms by ‘liking’ and leaving comments.
+
+Whitepaper v1.0 | ecomi.com | © 2018, Ecomi Technology PTE. Ltd.
+
+Scene Creator
+ECOMI Collect allows users to get creative and build their own unique Scenes which consist of
+digital collectibles, props, accessories and background images to create visually rich 3D
+environments.
+An easy-to-use 3D visual editor allows users to drop items into the 3D Scene and using a range of
+tools, move, rotate or scale items. The user can also adjust the scene lighting and the camera view
+angle to capture the perfect frame.
+When a Scene is completed, the user can share their Scene/s on the ECOMI Collect Social Wall and
+across major social media platforms.
+All Scenes can be viewed and experienced using the ECOMI Collect AR features. The Scene Creator
+is a custom-built feature leveraging industry standard tools, such as Unity and integrated into the
+ECOMI Collect app.
+
+Virtual Goods
+As well as digital collectibles, virtual goods can also be added to the Scenes for greater
+customisation. Virtual goods are any digital asset that is not a digital collectible, for example a hat,
+tree, prop, animation sequence, background image, etc.
+Virtual Goods are available both free and purchased (with OMIs or fiat) and accessed from the
+Virtual Goods section of the Store and within the Scene Creator.
+Virtual goods are organized into categories and consist of generic content, which can be used in
+any Scene and licensed content, that is paired with specific digital collectibles or brands. All virtual
+goods are NFTs minted by ECOMI and will be released in both high quantities and scarce, limited
+numbers.
+Assets in the Virtual Goods Store will be provided initially by ECOMI and partners and in future
+
+Whitepaper v1.0 | ecomi.com | © 2018, Ecomi Technology PTE. Ltd.
+
+releases ECOMI aims to allow user generated content to be contributed and sold within the Virtual
+Goods Store also.
+
+Gamification
+ECOMI Collect in-app gaming allows user to interact and play with the digital collectibles they own,
+creating a further level of engagement. A range of single and multiplayer game experiences can be
+played within ECOMI Collect using the Augmented Reality features.
+ECOMI Collect users gain access to game experiences based on the collectibles they own, for
+example, owning a digital collectible can grant access to play AR games, which can also be played
+multiplayer against other ECOMI Collect users who own digital collectibles. As users play through
+the ECOMI game experiences they can earn OMI Tokens, experience points (Master Collector) and
+find ranges of common to secret-rare digital collectibles and virtual goods.
+ECOMI aims to produce game content as bite-sized playable adventures which are released on a
+regular basis, both as generic to ECOMI and in partnership with licensors.
+
+Social Wall (Show ‘n’ Tell)
+Within the ECOMI Collect app, a social section called Show ‘n’ Tell allows the community to connect
+and interact with other ECOMI Collect members.
+On the Social Wall, users can share their digital collectibles, Scenes or items they are selling in the
+marketplace. The Social Wall will also display personalised content to the user’s taste and interest.
+Users can choose to follow another ECOMI Collect user (from the users Showroom page) and will
+see this content any time that user shares something new.
+Show ‘n’ Tell offers Ecomi Collect users a number of ways to show their appreciation for content
+posted (digital collectibles and scenes) by other member such as liking, commenting, sharing and
+also giving a ‘tip’ in OMI tokens.
+
+Whitepaper v1.0 | ecomi.com | © 2018, Ecomi Technology PTE. Ltd.
+
+Secure Wallet
+Overview
+The Secure Wallet is a wireless, credit card-sized, hardware cold storage device that protects
+private keys. The Secure Wallet is designed to be impenetrable to malicious cyber-attacks as it
+never connects directly to the internet or insecurely via an online device.
+The Secure Wallet is securely paired using an encrypted Bluetooth connection to the host device
+(iOS or Android smartphone). Removing the need for a wired connection reduces the likelihood of
+being compromised, whilst allowing for the highest degree of portability.
+On the Secure Wallet device itself, the user can view balances and feedback information on the
+e-paper display. Further interactions with the Secure Wallet are carried out via the ECOMI Secure
+Wallet App. Using the Secure Wallet App, users can:
+
+●
+
+Maintain full control over the transfer of private keys in and out of the Secure Wallet
+
+●
+
+Securely store and manage Bitcoin, Bitcoin Cash, Ethereum, Ripple, Litecoin (more coming)
+
+●
+
+See all cryptocurrency balances
+
+●
+
+Send and receive all supported cryptocurrencies
+
+●
+
+View transaction history
+
+●
+
+Create up to five individual accounts per cryptocurrency
+
+Secure Wallet Components
+1. Hardware Secure Element
+2. E-Paper Display
+3. Bluetooth connector
+4. Power / Confirmation Button
+5. Integrated Circuitry
+6. Rechargeable Battery
+7. Charging connectors
+
+Whitepaper v1.0 | ecomi.com | © 2018, Ecomi Technology PTE. Ltd.
+
+8. LED Charging Indicator
+
+Secure Wallet Main Features
+●
+
+Top-of-the-line security
+
+●
+
+True cold wallet that never connects directly to the internet
+
+●
+
+Full loss recovery and restoration
+
+●
+
+Everyday convenience
+
+●
+
+Physical transaction confirmation
+
+●
+
+Supports Bitcoin, Ethereum, Ripple, Litecoin, Bitcoin Cash (more coming)
+
+●
+
+No strings and no fees (other than standard blockchain fees)
+
+●
+
+Long life rechargeable lithium battery
+
+●
+
+Waterproof and a bend capability of 15 degrees
+
+●
+
+Environmentally friendly components
+
+Market Comparison:
+Secure Wallet
+
+Trezor
+
+Ledger Nano
+
+Keep Key
+
+$99
+
+$115
+
+$105
+
+$129.00
+
+Currency Support
+
+Bitcoin, Ethereum,
+Litecoin, Bitcoin Cash
+and Ripple. Supported
+soon on the Secure
+Wallet is full ERC20
+support, GoChain, OMI,
+BNB
+
+Bitcoin, Litecoin, Dash,
+Zcash, Bitcoin Cash,
+Bitcoin Gold, Ethereum
+(+ all ERC-20 tokens),
+Ethereum Classic,
+Expanse, UBIQ, NEM,
+Namecoin, Dogecoin
+and Bitcoin Testnet.
+
+Bitcoin, Bitcoin Cash,
+Bitcoin Gold, Ethereum,
+Ethereum Classic,
+Litecoin, Dogecoin,
+Zcash, XRP, Dash,
+Stratis, Komodo, Ark,
+Expanse, Ubiq, Vertcoin,
+Viacoin, Neo,
+Stealthcoin, Stellar,
+Hcash, Digibyte, Qtum,
+PivX
+
+bitcoin, bitcoin cash,
+ethereum, litecoin,
+dogecoin, dash
+
+Open Platform
+
+Yes
+
+Yes
+
+No
+
+No
+
+Mobile App
+
+Yes
+
+No
+
+Yes
+
+No
+
+Portable
+
+Yes
+
+No
+
+No
+
+No
+
+Wireless
+
+Yes
+
+No
+
+No
+
+No
+
+Bitcoin ATM Compatible
+
+Yes
+
+No
+
+No
+
+No
+
+Price (USD)
+
+Whitepaper v1.0 | ecomi.com | © 2018, Ecomi Technology PTE. Ltd.
+
+Loss, Backup and Restoration
+Security and restoration of private keys is extremely important and the Secure Wallet has a very
+robust restoration capability. If owners lose their Secure Wallet and / or their host device, their
+private keys will remain protected. During the setup of the Secure Wallet, a Recovery Seed is
+generated within the app, as outlined in the explanation above.
+When the seed is generated, the user should write this in the Recovery Card supplied with the
+Secure Wallet and store it in a safe place. In the event that the Secure Wallet is lost or stolen, the
+user can purchase a replacement Secure Wallet, pair it with the host device, and enter the
+Recovery Seed to restore their private keys. In the future, ECOMI plans to make use of biometric
+technologies to make the process simpler and more secure.
+
+Whitepaper v1.0 | ecomi.com | © 2018, Ecomi Technology PTE. Ltd.
+
+OMI Token
+Purchasing Tokens
+As ECOMI Collect is targeted to the mass market, it is of the utmost importance the onboarding
+and purchasing of OMI tokens remains a task that can be easily carried out by consumers with
+zero knowledge or understanding of the blockchain and cryptocurrencies. To facilitate this, users
+will acquire OMI tokens using credit or debit cards, or in-app purchases.
+When a purchase is made using OMI tokens, the tokens involved in the transaction are exchanged
+for the digital collectible and then expire. After a successful purchase the invalid OMI tokens are
+sent to an inaccessible smart contract where they reside permanently.
+
+Token Metrics
+Total Supply
+
+750,000,000,000 OMI
+
+Tokens Available for Sale
+
+450,000,000,000 OMI
+
+Token Price
+
+0.00000001 (1 Satoshi)
+
+ICO (Public and Private Sale)
+
+20% | 150,000,000,000 OMI
+
+In App Purchases
+
+40% | 300,000,000,000 OMI
+
+Business Development
+
+20% | 150,000,000,000 OMI
+
+Team, Advisors, Board Members
+
+20% | 150,000,000,000 OMI
+
+Ticker Symbol
+Token Type
+Hardcap
+
+OMI
+GO20 / GO721
+1,500 BTC
+
+Whitepaper v1.0 | ecomi.com | © 2018, Ecomi Technology PTE. Ltd.
+
+Use of Funds
+Licensing Acquisition
+Product Development
+
+55%
+22.5%
+
+Marketing Expenses
+
+15%
+
+Business Operation
+
+5%
+
+Legal Expenses
+
+2.5%
+
+Token Lockup Periods
+ICO (Public/Private Sale)
+
+0 months
+
+In App Purchases
+
+0 months
+
+ECOMI Team / Board / Advisors
+ECOMI Founders
+
+12 month cliff
+24 month cliff, then vested at 25% quarterly
+
+Whitepaper v1.0 | ecomi.com | © 2018, Ecomi Technology PTE. Ltd.
+
+Roadmap
+●
+
+2018:
+○
+
+●
+
+Q4:
+■
+
+Whitepaper
+
+■
+
+Initial Coin Offering
+
+■
+
+15 Brands Secured
+
+■
+
+ECOMI Collect Beta App
+
+■
+
+ECOMI Collect v1 Public Release
+
+■
+
+ECOMI Public In-App Sale commences
+
+■
+
+Augmented Reality Scene Creator Implementation
+
+■
+
+Ecomi Collect Digital Hardware Wallet distribution
+
+■
+
+ECOMI Collect v2 Release
+
+■
+
+Addition of Virtual Goods library for greater customisations
+
+■
+
+Roll out of in-app gamification
+
+■
+
+3rd Party Integrations
+
+2019:
+○
+○
+
+○
+
+○
+
+Q1:
+Q2:
+
+Q3
+
+Q4
+
+Whitepaper v1.0 | ecomi.com | © 2018, Ecomi Technology PTE. Ltd.
+
+Team
+Key Members
+David Yu - CEO, Founder
+David is an Auckland-based company director and was a founder of Games R Us Ltd at the age of
+17. David has 21 years experience in the retail industry and working with intellectual property,
+transforming licenses into brands. David’s business extended into global projects with Retail
+Management Group Ltd, launching brands over several continents setting up international offices
+and distribution centres for electronics, skincare, food and beverage products. Both businesses
+have earned him Finalist in the Ernst & Young Entrepreneur of the Year in 2004 and 2008, the
+2016 Australia New Zealand Chamber of Commerce award and Taipei Young Entrepreneur of the
+year. Equally as prestigious, David’s company was ranked 12th in 2014 “Deloitte Fast 50 growing
+companies“.
+
+Daniel Crothers - COO, Co-Founder
+Dan has founded a variety of successful startups, including a web agency servicing international
+clients such as Hasbro and The Red Cross. Dan’s previous successful exit was a US media company
+he co-founded, which gained millions of social followers and an equal number of monthly
+pageviews. Dan continues to hold interests in numerous businesses. He entered the
+cryptocurrency space in early 2016 and quickly became passionate about the cryptocurrency and
+blockchain revolution and has since then has been deeply involved with the crypto-world.
+
+Alfred Kahn - Head of Licensing
+As a licensing executive, Kahn has spent more than 30 years distributing and promoting iconic
+brands such as Cabbage Patch Kids, Teenage Mutant Ninja Turtles and Yu- Gi-Oh! He is also
+credited for the marketing and licensing programs for other iconic brands like Mario Bros., Zelda,
+Donkey Kong, James Bond, WWF, Polly Pocket and more. The true highlight of Kahn’s career is that
+he is the man responsible for bringing Pokemon to the world.
+
+Whitepaper v1.0 | ecomi.com | © 2018, Ecomi Technology PTE. Ltd.
+
+Mikel Duffy - CTO
+Mikel has over 15 years of experience in leading technical teams to success. With a focus on
+intellectual property, Mikel has used both AI and Blockchain to solve major problems. He has led
+teams in the Blockchain Advisory department of KPMG, universities and AI firms, and has a keen
+eye for innovation. In his spare time he has developed cryptocurrency exchanges, wallets, multiple
+other DApps and has a doctorate in philosophy.
+
+Joseph Janik - Head of Hardware Sales, Co-Founder
+Joseph is an Australian entrepreneur who began his journey at a young age, starting his first
+business at 18 years old. He later went on to become a leading account executive within
+international corporations focused on the stock market, cloud technology, health and lifestyle
+automation. Joseph now owns multiple successful businesses and has been involved in Blockchain
+since 2016, where he became a very successful day trader, as well as spotting key opportunities in
+crypto-space. Joseph is extremely talented at execution and has a strong passion for creative
+innovation, marketing and online business.
+
+Board & Advisors
+Hongbo Xu - CEO InnoHub
+Hongbo is a serial entrepreneur and has more than 25 years of experience in the TMT (technology,
+media and telecom) industry with extensive experience in strategic planning, product
+development, marketing and investments around the world in more than 8 countries. Previously
+he served as senior architect and principal consultant for Sun Microsystems and BEA.
+
+Jonty Kelt - Founder, Fantail Ventures
+Jonty is an investor in thirty early-stage companies out of his venture fund, Fantail Ventures and
+works at Silicon Valley based data and analytics firm Palantir Technologies. Previously, Jonty
+helped establish Macquarie Bank in New Zealand, co-founded a media business in China,
+co-founded technology businesses in the UK and USA and worked for DoubleClick and Google.
+
+Jeff Lander - Big Red Button Entertainment
+Whitepaper v1.0 | ecomi.com | © 2018, Ecomi Technology PTE. Ltd.
+
+Jeff is a game technology leader with a strong background in creating custom systems, engines,
+and teams for game projects. Focused on high end PC and console titles with an emphasis on
+character interaction and gameplay. Jeff is currently developing high quality character experiences
+in room space VR on the Vive and Oculus as well as AR technology and real-world gaming on
+mobile.
+
+Kam Punia - Digital Gaming Specialist
+Kam Punia was pivotal in building Konami Northern Europe's Trading Card Game (TCG) division
+helping is Yugioh become one of the most popular TCG's in several territories in both the hobby
+and mass market. Kam has been instrumental in forging relationships with games, creative and
+event led industries to build strong brand partnerships internationally.
+
+Paul Adams - CEO EverEdge Global
+Since embarking upon his technology commercialization career in the 1990s, Paul has worked with
+some of the world’s leading technology companies. He is renowned for his extensive
+understanding of intellectual property strategy as well as being a keen advocate for the concept
+that intangible assets are fundamental to corporate performance.
+
+James Lu - Integrated Circuitry & Biometrics
+James has over 20 years of Integrated circuitry & biometrics experience. Having advised the likes
+of Acer, Toshiba, Lenovo and Konica, he has a Masters in Science & Electrical Engineering (Digital
+Signal Processing) and holds 17 related patents. He was the former Senior director of listed
+company Pixart Imaging & EOSMEM Corporation.
+
+Ward Stirrat - Technology Entrepreneur
+Ward is a longtime entrepreneur & seasoned executive with a focus in the marketing &
+communication sector for the past 25 years. Ward has owned & continues to operate several
+companies ranging from small boutique communication & branding consultancies to larger sales
+& marketing companies with 100+ staff in Vancouver & Toronto.
+
+Tudor Clee - Legal Counsel / Education
+
+Whitepaper v1.0 | ecomi.com | © 2018, Ecomi Technology PTE. Ltd.
+
+Tudor Clee is a Barrister and Solicitor of the High Court of New Zealand. He has visited over 200
+countries and territories to expand his knowledge of geo politics and social development. In 2012
+he created the Touchable Earth Foundation, developer of the first app where kids teach kids about
+the world, which has been awarded by the UN as the best program to promote intercultural
+dialogue amongst children.
+
+Risks And Disclaimers
+PLEASE READ THIS PART “RISKS AND DISCLAIMERS” CAREFULLY. IF YOU ARE IN ANY DOUBT AS TO
+THE ACTION YOU SHOULD TAKE, YOU SHOULD CONSULT YOUR LEGAL, FINANCIAL, TAX OR OTHER
+PROFESSIONAL ADVISOR(S). By accessing the information set forth in this document or any part
+hereof, you represent and warrant to ECOMI Technology Pte. Ltd. (“ECOMI”) that you
+unconditionally and irrevocably accept and agree with the following:
+RESTRICTED TERRITORIES AND DISTRIBUTION
+It may not be lawful in certain jurisdictions for individuals, or certain categories of individuals in
+other jurisdictions, to view this document. An individual who wishes to view this document must
+first satisfy himself or herself that he or she is not subject to any local requirements that prohibits
+or restricts him or her from doing so. In particular, unless otherwise determined by ECOMI
+Technology Pte. Ltd. and permitted by the applicable law and regulations, it is not intended that
+any information contained in this document should be sent, directly or indirectly, in or into,
+countries where participating in Initial Coin Offerings are banned due to legal restrictions, and
+countries sanctioned by the US, or countries considered as high risk and monitored by the
+Financial Action Task Force (“FATF”) (each, a “Restricted Territory”) and nor should it be accessed by
+any individual who is a national citizen or resident of a Restricted Territory, including corporations,
+partnerships, or other entities created or organised in any such jurisdiction, unless they are
+exempted from the prohibition against participating in Initial Coin Offerings. ECOMI shall not be
+responsible for individuals who access this document from territories whose laws prohibit such
+access or where any part of the document may be illegal. Such individuals do so at their own risk.
+The publication, distribution or dissemination of this Whitepaper does not imply that the
+applicable laws, regulatory requirements or rules have been complied with. This Whitepaper is not
+an advertisement, nor is it intended to be used to call for an offer on behalf of ECOMI. Persons to
+
+Whitepaper v1.0 | ecomi.com | © 2018, Ecomi Technology PTE. Ltd.
+
+whom a copy of this Whitepaper has been distributed or disseminated, provided access to or who
+otherwise have the Whitepaper in their possession shall not circulate it to any other persons,
+reproduce or otherwise distribute this Whitepaper or any information contained herein for any
+purpose whatsoever nor permit or cause the same to occur. This Whitepaper, any part thereof
+and any copy thereof must not be taken or transmitted to any country where distribution or
+dissemination of this Whitepaper is prohibited or restricted. No part of this Whitepaper is to be
+reproduced, distributed or disseminated without including this part “RISKS AND DISCLAIMERS”.
+NO AGREEMENT
+No person is bound to enter into any contract or binding legal commitment concerning the sale
+and purchase of the OMI Tokens and no cryptocurrency, or other form of payment is to be
+accepted on the basis of this Whitepaper. Any agreement in relation to any sale and purchase of
+OMI Tokens (as referred to in this Whitepaper) is to be governed by only a separate document
+setting out the terms and conditions (the “OMI Token Sales Terms”) of such agreement. In the
+event of any inconsistencies between the OMI Token Sales Terms and this Whitepaper, the OMI
+Token Sales Terms shall prevail.
+NO ADVICE
+This Whitepaper does not constitute or form part of any opinion on any advice to sell, or any
+solicitation of any offer by ECOMI to acquire any OMI Tokens nor shall it or any part of it nor the
+fact of its presentation form the basis of, or be relied upon in connection with, any contract or
+investment decision. You must conduct your own due diligence and ensure you comply with all
+local laws regarding cryptocurrency, tax, securities and other regulations in your jurisdiction. We
+encourage you to consult with the relevant professional advisors independently.
+If any provision or part of any provision in this “RISKS AND DISCLAIMERS” part is or becomes
+invalid, illegal or unenforceable, it shall be deemed modified to the minimum extent necessary to
+make it valid, legal and enforceable. If such modification is not possible, the relevant provision or
+part-provision shall be deemed deleted. Any modification to or deletion of a provision or part of
+any provision under this “RISKS AND DISCLAIMERS” part shall not affect the validity and
+enforceability of the rest of this “RISKS AND DISCLAIMERS” part.
+NO OFFER OF SECURITIES OR REGISTRATION
+
+Whitepaper v1.0 | ecomi.com | © 2018, Ecomi Technology PTE. Ltd.
+
+This document is for information purposes only and does not constitute or form, and not intended
+to be, an offer or solicitation of an offer to buy or sell, subscribe for, underwrite or purchase any
+form of investment or securities or other financial instruments, nor shall it or any part of it form
+the basis of, or be relied upon, in any way in connection with any contract or investment decision
+relating to the same. It does not constitute a prospectus or offer document of any sort and is not
+intended to constitute an offer of securities or a solicitation for investment in securities in any
+jurisdiction. No regulatory authority has examined or approved of any of the information set out
+in this Whitepaper. No such action has been or will be taken under the laws, regulatory
+requirements or rules of any jurisdiction. The publication, distribution or dissemination of this
+Whitepaper does not imply that the applicable laws, regulatory requirements or rules have been
+complied with.
+DISCLAIMER OF LIABILITY
+In no event shall either ECOMI, or any of their respective current or former employees, officers,
+directors, partners, trustees, representatives, agents, advisors, contractors, or volunteers be liable
+for any indirect, special, incidental, consequential or other losses of any kind, in tort, contract or
+otherwise (including but not limited to loss of revenue, income or profits, and loss of use or data),
+arising out of or in connection with:
+(i)
+
+any acceptance of or reliance on this Whitepaper or any part thereof by you;
+
+(ii)
+
+any failure by ECOMI, any of its affiliate companies or third party contractors or
+licensors to deliver or realize all or any part of the project described in or envisaged in
+this Whitepaper;
+
+(iii)
+
+any information contained in or omitted from this Whitepaper;
+
+(iv)
+
+your use or inability to use at any time the services or products or OMI Tokens offered
+by ECOMI,
+
+(v)
+
+mistakes or errors in code, text, or images involved in the OMI Token sale or in this
+Whitepaper; or
+
+(vi)
+
+any expectation, promise, representation or warranty arising (or purportedly arising)
+from this Whitepaper;
+
+(vii)
+
+the purchase, use, sale, resale, redemption, or otherwise of the OMI Tokens; or
+
+(viii)
+
+the volatility in pricing of OMI tokens in any countries and/or on any exchange or
+market (regulated, unregulated, primary, secondary or otherwise);
+
+Whitepaper v1.0 | ecomi.com | © 2018, Ecomi Technology PTE. Ltd.
+
+(ix)
+
+any security risk or security breach or security threat or security attack or any theft or
+loss of data including but not limited to hacker attacks, losses of password, losses of
+private keys, or anything similar; and
+
+(x)
+
+your failure to properly secure any private key to a wallet containing OMI Tokens.
+
+NO REPRESENTATIONS AND WARRANTIES
+All information is provided without any warranties of any kind and ECOMI, its employees, officers
+and/or advisors do not make or purport to make, and hereby disclaim, any express or implied
+representation, warranty or undertaking in any form whatsoever to any entity or person, including
+any representation, warranty or undertaking in relation to the truth, accuracy and completeness
+of any of the information set out in this Whitepaper. This Whitepaper and the OMI Tokens are
+provided on an “as is” basis and without any warranties of any kind, either expressed or implied.
+Each of ECOMI, its employees, officers and/or professional advisors assumes no responsibility or
+liability to you or any third party for the consequence of reliance on such information, errors or
+omissions in such information or any action resulting therefrom. You assume all responsibility and
+risk with respect to your use of the Whitepaper and purchasing of any amount of OMI Tokens and
+their use.
+CAUTIONARY NOTE ON FORWARD-LOOKING STATEMENTS
+All statements contained in this Whitepaper, statements made in press releases or in any place
+accessible by the public and oral statements that may be made by ECOMI or their respective
+directors, executive officers or employees acting on behalf of ECOMI, that are not statements of
+historical fact, constitute “forward looking statements”.
+
+Some of these statements can be
+
+identified by forward-looking terms such as “aim”, “anticipate”, “believe”, “could”, “estimate”,
+“expect”, “if”, “intend”, “may”, “plan”, “possible”, “probable”, “project”, “should”, “target”, “will” or
+“would”, or other similar terms. However, these terms are not the exclusive means of identifying
+forward-looking statements.
+All statements regarding ECOMI’s business strategies, financial position, plans and prospects and
+the future prospects of the industry which ECOMI is in are forward-looking statements. These
+forward-looking statements, including but not limited to statements as to ECOMI’s revenue and
+profitability, prospects, future plans, other expected industry trends and other matters discussed
+in this Whitepaper regarding ECOMI are matters that are not historical facts, but only predictions.
+
+Whitepaper v1.0 | ecomi.com | © 2018, Ecomi Technology PTE. Ltd.
+
+These forward-looking statements involve known and unknown risks, uncertainties and other
+factors that may cause the actual future results, performance or achievements of ECOMI to be
+materially different from any future results, performance or achievements expected, expressed or
+implied by such forward-looking statements.
+These factors include, but are not limited to:
+(a) the risk that ECOMI may be unable or execute or implement their respective business
+strategies and future plans;
+(b) risks and uncertainties associated with ECOMI and its businesses and operations, the OMI
+Tokens, the OMI Initial Token Sale, and the Secure Wallet (each as referred to in the
+Whitepaper).
+(c) changes in the future capital needs of ECOMI and the availability of financing and capital to
+fund such needs;
+(d) changes in political, social, economic and stock or cryptocurrency market conditions, and the
+regulatory environment in the countries in which ECOMI conducts its respective businesses
+and operations;
+(e) changes in interest rates and exchange rates of fiat currencies and cryptocurrencies;
+(f) changes in the anticipated growth strategies and expected internal growth of ECOMI and/or
+their respective affiliates;
+(g) changes in the availability and fees payable to ECOMI in connection with their respective
+businesses and operations;
+(h) changes in the availability and salaries of employees who are required by ECOMI and to
+operate their respective businesses and operations;
+(i) changes in preferences of customers of ECOMI;
+(j) changes in competitive conditions under which ECOMI operate, and the ability of ECOMI to
+compete under such conditions; and
+(k) war or acts of international or domestic terrorism, occurrences of catastrophic events, natural
+disasters and acts of God that affect the businesses and/or operations of ECOMI, and other
+factors beyond the control of ECOMI.
+All forward-looking statements made by or attributable to ECOMI or persons acting on behalf of
+ECOMI are expressly qualified in their entirety by such factors. These forward-looking statements
+are applicable only as of the date of this Whitepaper, and nothing contained in this Whitepaper is
+
+Whitepaper v1.0 | ecomi.com | © 2018, Ecomi Technology PTE. Ltd.
+
+or may be relied upon as a promise, representation or undertaking as to the future performance
+or policies of ECOMI, or in relation to the truth, accuracy and completeness of any of the
+information set out in this paper. The actual results, performance or achievements of ECOMI may
+differ materially from those anticipated in these forward-looking statements. Whilst ECOMI
+intends to fulfil all the goals set out in this document, in case of unforeseen circumstances, the
+goals may change or may not be achieved without any notice to you.
+Neither ECOMI or any other person represents, warrants and/or undertakes that the actual future
+results, performance or achievements of ECOMI will be as discussed in those forward-looking
+statements. Further, ECOMI disclaim any responsibility to update any of those forward-looking
+statements or publicly announce any revisions to those forward-looking statements to reflect
+future developments, events or circumstances, even if new information becomes available or
+other events occur in the future, except to the extent required by law.
+THIRD PARTY INFORMATION AND NO CONSENT OF OTHER PERSONS
+This Whitepaper includes information obtained from various third party sources (“Third Party
+Information”). None of the publishers of Third Party Information has consented to the inclusion of
+Third Party Information in this Whitepaper and is therefore not liable for Third Party Information.
+While ECOMI have taken reasonable actions to ensure that the information is extracted accurately
+and in its proper context, ECOMI have not conducted any independent review of the information
+extracted from third party sources, verified the accuracy, timeliness or completeness of such
+information or ascertained the underlying economic assumptions relied upon therein.
+Consequently, neither ECOMI nor any of its respective directors, executive officers and employees
+acting on their behalf makes any representation or warranty as to the accuracy or completeness
+of such information and shall not be obliged to provide any updates on the same.
+NO ADVICE
+No information in this Whitepaper should be considered to be legal, business, financial or tax
+advice regarding ECOMI, the OMI tokens, the OMI Initial Token Sale, and the Secure Wallet (each
+as referred to in the Whitepaper). You should consult your own legal financial, tax or other
+professional adviser regarding ECOMI and their respective businesses and operations, the OMI
+tokens, the OMI Initial Token Sale and the Secure Wallet (each as referred to in the Whitepaper).
+You should be aware that you may be required to bear the financial risk of any purchase of OMI
+tokens for an indefinite period. You must conduct your own due diligence and ensure you comply
+with all local laws regarding cryptocurrency, tax, securities and other regulations in your
+
+Whitepaper v1.0 | ecomi.com | © 2018, Ecomi Technology PTE. Ltd.
+
+jurisdiction.
+NO FURTHER INFORMATION OR UPDATE
+No person has been or is authorized to give any information or representation not contained in
+this Whitepaper in connection with ECOMI and its respective businesses and operations, the OMI
+Tokens, the OMI Initial Token Sale, and the Secure Wallet (each as referred to in the Whitepaper)
+and, if given, such information or representation must not be relied upon as having been
+authorized by or on behalf of ECOMI.
+The OMI Initial Token Sale (as referred to in the Whitepaper) shall not, under any circumstances,
+constitute a continuing representation or create any suggestion or implication that there has been
+no change, or development reasonably likely to involve a material change in the affairs, conditions
+and prospects of ECOMI or in any statement of fact or information contained in this Whitepaper
+since the date hereof.
+RISKS AND UNCERTAINTIES
+Prospective purchasers of OMI Tokens (as referred to in this Whitepaper) should carefully consider
+and evaluate all risks and uncertainties associated with ECOMI, and their respective businesses
+and operations, the OMI Tokens, the OMI Initial Token Sale and the Secure Wallet (each as
+referred to in the Whitepaper), including all information set out in this Whitepaper prior to any
+purchase of OMI tokens. If any of such risks and uncertainties develops into actual events, the
+business, financial condition, results of operations and prospects of ECOMI could be materially
+and adversely affected. In such cases, you may lose all or part of the value of the OMI tokens.
+The regulatory status of cryptographic tokens, including any digital currency, digital assets and
+blockchain applications is unclear or unsettled in many jurisdictions. The publication and
+dissemination of this document do not imply that any relevant laws, regulations and rules have
+been complied with. No regulatory authority has examined or approved this document. Where
+any relevant governmental authority makes changes to existing laws, regulations and/or rules, or
+where financial institutions make certain commercial decisions, it may have a material adverse
+effect and/or impair the ability of any relevant entity referred to in the document to function as
+intended, or at all. There are risks involved in the technologies relating to the Ethereum
+blockchain, and the OMI tokens, such as unforeseen bugs, security issues or disruptions. By way of
+
+Whitepaper v1.0 | ecomi.com | © 2018, Ecomi Technology PTE. Ltd.
+
+the above and other factors not within our control, the entire sum used to purchase the OMI
+tokens may be lost.
+ECOMI may contract with third parties to develop and license their products and/or technology for
+use within the ECOMI Ecosystem. While ECOMI will take all commercially reasonable steps to
+secure the necessary rights and licenses, there are risks and uncertainties associated with the
+business and operations of such third party contractors that are beyond ECOMI’s control and they
+may not deliver on the products and/or technology. There is also a risk that ECOMI does not
+succeed in obtaining and/or renewing the necessary rights and licenses to such third party
+products and/or technology mentioned in this Whitepaper. Such events may have a material
+adverse effect on the function, deployment and use of the ECOMI Ecosystem as intended.
+This Whitepaper does not identify, or claim to identify, all the risk factors connected with ECOMI
+and its businesses and operations, the OMI Tokens, the OMI Initial Token Sale, and the Secure
+Wallet (each as referred to in the Whitepaper). The disclaimers set out above are not exhaustive.
+A more comprehensive list will be set out in other documents that may be published by ECOMI
+from time to time. You must make your own independent evaluation, after making such
+investigations as you consider essential, of the merits of participating in the Token Sale and after
+obtaining your own independent professional advice. To the fullest extent possible, ECOMI shall
+not be liable for any responsibility, liability, claims, demands and/or damages (actual and
+consequential) of every kind and nature, known and unknown (including, but not limited to, claims
+of negligence), arising out of or related to any acceptance or reliance on the information set forth
+in this document by you.
+TERMS USED
+To facilitate a better understanding of the OMI Tokens being offered for purchase by ECOMI, and
+the businesses and operations of ECOMI, certain technical terms and abbreviations, as well as, in
+certain instances, their descriptions, have been used in this Whitepaper. These descriptions and
+assigned meanings should not be treated as being definitive of their meanings and may not
+correspond to standard industry meanings or usage.
+Words importing the singular shall, where applicable, include the plural and vice versa and words
+importing the masculine gender shall, where applicable, include the feminine and neuter genders
+
+Whitepaper v1.0 | ecomi.com | © 2018, Ecomi Technology PTE. Ltd.
+
+and vice versa. References to persons shall include corporations.
+STATEMENT OF NON-AFFILIATION
+ECOMI and the OMI Tokens are in no way affiliated, associated, or connected with:
+(i)
+
+[Orbis Worldwide Money Transfer and Investment] or its related ORBIS Token
+(ORBS) and ORBISInvest token (ORBSi);
+
+(ii)
+
+[Orbis Card];
+
+(iii)
+
+[Team Orbis], or
+
+(iv)
+
+[Orbis Communications LLC] or its related Orbis Token (OBT),
+
+or any of the services provided by or related to any of the foregoing entities, or any of their
+respective subsidiaries or affiliates.
+
+Whitepaper v1.0 | ecomi.com | © 2018, Ecomi Technology PTE. Ltd.
+
+

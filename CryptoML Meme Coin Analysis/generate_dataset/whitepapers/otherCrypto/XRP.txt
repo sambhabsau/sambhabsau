@@ -1,0 +1,514 @@
+1
+
+As part of their remit of continuing
+to evolve money and payments,
+Central Banks around the world
+are beginning to explore, test and
+implement some form of Central
+Bank Digital Currency (CBDC).
+There are a number of reasons for the
+growing momentum behind offering
+sovereign-backed versions of private
+cryptocurrencies.
+The Rise of CBDCs
+Through the power of blockchain technology, financial
+institutions are enabling seamless, instant global payments.
+Each Central Bank will also have its own motivations for
+pursuing a digital currency that will be driven by specific
+market challenges and opportunities.
+The nature of that primary goal – whether it’s overcoming
+limitations of existing payments infrastructure, promoting
+financial inclusion, boosting competition or fostering
+innovation – will determine the approach and technology of
+each CBDC.
+It is likely that we will end up with a world of diverse CBDCs,
+which makes interoperability critical. Though most Central
+Banks are focused on solving domestic problems, the global
+nature of trade and finance means cross-border coordination
+must be baked into the original recipe of each CBDC.
+The internet became a global tool for the exchange of
+information because the world agreed to build it using
+common standards. Likewise, CBDCs can adopt open
+payments protocols and use neutral bridge assets to
+facilitate a frictionless exchange of value across borders.
+Without this crucial interoperability, Central Banks will be
+putting limits on their CBDC’s success while compromising
+the future of their financial system – instead of developing a
+more effective and inclusive evolution of money.
+
+Key Findings
+Trend for declining cash use has been
+accelerated by COVID-19 as more people
+shop online and opt for contact-free
+payment options.
+
+¼
+
+of US consumers used cash less often
+since the pandemic began.
+
+Facebook’s announcement of plans to
+create its own digital coin prompted
+fears that it could undermine the
+traditional global financial system.
+
+2.4B
+
+users is the potential global reach of
+Facebook-backed currency.
+
+China’s testing of a digital yuan payment
+system potentially threatens the U.S.
+Dollar’s position as the dominant global
+reserve currency.
+
+Feb 2022
+
+Proposed launch date for China’s CBDC.
+
+There is a growing need for a more
+effective way for governments to pay
+benefits or stimulus money directly to
+citizens, especially the unbanked.
+
+1.7B
+
+Number of unbanked adults across the
+world.
+
+2
+
+S E CT I O N I
+
+Introduction
+to CBDCs
+
+What Is a Central Bank
+Digital Currency?
+A CBDC is the sovereign equivalent
+of private cryptocurrencies and
+digital assets like Bitcoin, Ethereum
+and XRP. It would be issued and
+controlled by a country’s Central Bank
+and used by people and businesses
+for retail payments, much like cash
+but in digital form. CBDCs will also be
+used for wholesale settlements in the
+interbank market.
+CBDCs: The Future of Fiat
+Central Banks issuing their own digital currencies is a natural
+evolution of how we exchange value. But that does not
+mean that CBDC development should simply follow the old
+pathways. Our existing currencies were created in a
+much less globalized world and are not designed for
+efficient exchange.
+While most markets are exploring CBDCs that solve specific
+domestic challenges, each Central Bank also needs to
+implement a holistic strategy that enables their CBDC to
+interact in the global market efficiently and ensure it can
+scale and evolve to meet future requirements.
+
+The Main Benefits of CBDCs
+Enhance existing payments infrastructure:
+Increase the speed and efficiency of
+payments, while reducing costs and
+failure rates
+
+Promote financial inclusion:
+Increase access to financial services for
+under and unbanked populations and
+enhance direct person-to-person payments
+
+Encourage greater competition:
+Reduce barriers to entry and boost access
+to global markets through interoperability
+
+Foster innovation:
+Use advanced digital features like smart
+contracts and programmable money that
+will be the basis of new financial services
+
+Maintain control:
+Ensure Central Banks retain sovereignty
+over monetary policy and not allow
+alternative currencies to dominate
+the market
+
+4
+
+80% of Central Banks are actively
+exploring CBDCs: This map shows
+a subset of these countries.
+
+SW E D E N
+
+I CE L AND
+NO RWAY
+
+L I T HUANI A
+CANADA
+UK
+
+CHI NA
+
+SW I T Z E R L AND
+
+U K RAI NE
+
+E U RO PE
+
+JA PA N
+
+USA
+
+BA H A MAS
+I S RAE L
+SO U T H
+KO R E A
+
+EAST ERN CARI B B EAN
+CURREN CY UN I ON
+
+B RA ZI L
+
+T HAI L AND
+
+S I NG AP O R E
+
+URAGUAY
+
+SO U T H
+AF R I CA
+
+Legend
+Creating CBDC Prototypes
+Advanced Research Stage
+Early Research Stage
+
+AU ST RAL I A
+
+MARSHALL
+I S L A N DS
+
+S E CT I O N I I
+
+The Main
+Barriers
+Impeding
+CBDC
+Success
+
+Despite the many benefits of
+CBDCs, most Central Banks are
+understandably cautious about
+pursuing real-world initiatives.
+Everything, from how people pay bills
+and buy groceries to how businesses
+transact and governments are run,
+depends on a stable financial system
+CBDC initiatives raise many
+challenges for Central Banks,
+who must balance the desire for
+transformation with the need to
+maintain stability on a global scale.
+
+The Need for Control Versus
+Desire for Innovation
+Most existing digital assets are based on decentralized
+blockchains where every transaction is validated by a public
+network of hundreds, often thousands of validators. Central
+Banks will not be willing to relinquish control to a completely
+distributed model, as they need the ability to direct and
+influence their economies through currency management
+While a fully centralized model would provide the required
+control, Central Banks would miss out on innovations like
+programmable money and smart contracts that blockchain
+technology enables. It would also reduce the ability of
+private sector players to access and collaborate with CBDCs.
+In addition, Central Banks are typically focusing CBDC
+approaches, solutions and technologies on achieving
+specific domestic goals. However, many stakeholders
+interested in using CBDCs will have other needs as well as
+global requirements.
+If Central Banks do not enable the broad access, enhanced
+native functionality and interoperability that will allow their
+currencies to be adaptive and scalable, they risk losing
+control of the infrastructure for global digitized services.
+
+"If [CBDCs] are cheaper, faster,
+more secure for users, we should
+explore it. If it's going to contribute to
+better monetary sovereignty, better
+autonomy, we should explore it. If
+it's going to facilitate cross-border
+payments, we should explore it."
+Christine Lagarde, President of the European Central Bank
+
+8
+
+Connecting Across Borders
+
+Including Non-bank Channels
+
+The vast majority of CBDC initiatives are focused on
+domestic use cases and in a 2019 BIS survey, Central
+Banks rated cross-border payments as among their least
+important considerations. This may be due to the fact
+that typically, Central Banks are not part of cross-border
+payment flows and do not have the infrastructure to deal
+with related functions like transaction monitoring and Know
+Your Customer (KYC), Anti-Money Laundering (AML) checks.
+Having its CBDC circulating in foreign jurisdictions
+will also impact a Central Bank’s monetary policy and
+liquidity management.
+
+One of the bigger drivers of financial inclusion over the past
+decade has been the rise of financial services from outside
+the banking sector, such as remittances providers and digital
+wallets. These services are pioneering new offerings and
+alternative experiences for traditional banking users.
+
+Yet, it is extremely short-sighted to overlook cross-border
+requirements just because these requirements come with
+additional challenges. In our globalized world, consumers
+and businesses will inevitably have a need to transact with
+foreign suppliers and vendors. CBDCs that are interoperable
+with each other will give those countries a competitive
+advantage, much like how being part of a trading block
+benefits member nations.
+It will take a lot of effort to harmonize the global frameworks
+and standards that will enable CBDCs to be successful for
+cross-border payments. It’s critical that Central Banks start
+working together to resolve these issues now, rather than
+leaving a bigger problem to fix further down the line.
+
+Current fiat currency capabilities limit the effectiveness of
+monetary digitization and compel end users to transact
+in the private cryptocurrencies that Central Banks often
+view as a threat to financial stability. CBDCs will help retain
+those users, while boosting financial inclusion and enabling
+governments to make direct payments to citizens effectively,
+especially those who are unbanked.
+This will require Central Banks to provide non-bank
+participants with greater access to core payment systems
+and infrastructure than they currently offer. They will also
+have to start understanding the potential impact of this
+change on the role of commercial banks as gatekeepers to
+retail customers, in order to ensure the continuing stability of
+the entire system.
+
+Confirming Identities
+While many private digital assets make a virtue out of
+anonymity, the ability to identify CBDC users will be a
+fundamental requirement for Central Banks.
+When the U.S. government was struggling to get muchneeded stimulus checks to citizens and businesses during
+the height of the COVID-19 pandemic, fintech advocates
+noted that a CBDC would have made it much faster and
+cheaper to pay people directly. However, it would also have
+required robust identity infrastructure to ensure that each
+payment was transferred to the right person.
+Many other benefits of CBDCs require ID certainty — and the
+ability to clearly connect users and transactions will be a key
+condition for Central Banks. Some private cryptocurrencies
+are already beginning to grapple with some of these issues
+and Central Banks will need to build on their efforts to create
+interoperable ID solutions that work globally.
+
+9
+
+By 2024, at least half of the world’s
+population is expected to use
+digital wallets for transactions
+that will be valued at more than
+$9 trillion annually.
+
+S E CT I O N I I I
+
+Bridging
+the Gap in
+Innovation
+
+The Three Keys to Overcoming
+Every CBDC Challenge
+1. Interoperability
+For a digital currency to have any utility to people and
+businesses, it needs to coexist and interact with other
+payment schemes in that domestic market. The next level
+of interoperability for CBDCs is the ability to work for global
+transactions. Without seamless cross-border functionality,
+most CBDC projects will significantly underachieve their
+potential.
+Just as the global internet thrived by early agreement on
+common protocols like TCP/IP, HTTP and FTP, so too should
+Central Banks start coordinating on CBDC standards to
+cover basic functions, including:
+•
+
+Transaction-level operations, such as escrow
+and hash time-locks
+
+•
+
+Identity and addressing schemes
+
+•
+
+Flexible routing to determine most efficient
+ways of transmission
+
+For an even greater level of interoperability, Central Banks
+will need the ability to actually exchange assets between
+ledgers, rather than issuing instructions via an API. The key
+will be for all Central Banks to enable cross-issuance of
+CBDCs on interoperable ledgers.
+Each individual CBDC can create its own rules and policies
+that best suit its domestic market. However, CBDCs should
+also be united and guided by collective protocols that will
+enable them to cooperate seamlessly with other CBDCs
+and Digital Currencies .
+Such a network of networks will allow independent CBDCs
+to also operate as a unit and make cross-border value
+exchange faster, cheaper and more reliable for businesses
+and consumers. It means pushing the idea of interoperability
+further than many Central Banks have yet considered — but
+without these shared standards, CBDCs will be as inefficient
+and expensive a way to exchange value globally as existing
+fiat currencies.
+
+This will allow CBDCs to connect with other domestic
+services, as well as each other, thereby enhancing their
+utility, lowering transaction costs and reducing barriers for
+new market entrants — while allowing each Central Bank to
+retain sovereignty.
+
+Every CBDC will need to have
+some basic level of interoperability
+built into it from day one.
+11
+
+2. Public and Private Partnerships
+
+3. Neutral Bridge Currencies
+
+The infrastructure supporting the existing financial system
+is vast and varied and not likely to be redundant any time
+soon. CBDC technology cannot replace what we already
+have, which is why a layered architecture model, where new
+systems are built on top of the existing infrastructure, makes
+the most sense.
+
+While interoperability will support the direct exchange
+of a CBDC in domestic transactions, many of the same,
+old issues with cross-border transactions will remain.
+In particular, supporting immediate real-time foreign
+exchanges, as opposed to the current 3-5 day process, will
+likely still require the need for prefunded currency accounts.
+
+A major benefit of layered architecture is that Central Banks
+can call on the expertise of the private sector to implement
+CBDC infrastructure without compromising the integrity of
+the rest of its system. Many reputable private companies
+have developed successful digital currencies — their
+technology and experience can help Central Banks get
+initiatives up-and-running faster and more effectively than
+starting from scratch.
+
+Like any commercial bank or global business, Central Banks
+will want to avoid the increased costs and risks associated
+with this familiar liquidity issue. They would also welcome
+the ability to free up capital that could be generating value
+elsewhere and skews the financial system in favor of the
+most liquid currencies – typically those of the most
+powerful nations.
+
+A CBDC could be issued and managed using a private
+version of an existing decentralized ledger. While blockchain
+transactions are typically validated by many public
+validators, Central Banks could restrict this ability to a
+handful of trusted partners such as commercial banks or
+the different member states of cooperating unions like the
+European Union or Eastern Caribbean Currency Union.
+This would give Central Banks the flexibility and functionality
+that comes with decentralized ledgers, while retaining
+enough centralized control over their monetary policies and
+economic management.
+
+A neutral bridge asset can support healthy, alternative
+liquidity markets that will allow for frictionless and costeffective value movement between various CBDCs in
+real-time. It would also enable the exchange of less liquid
+CBDC pairs and increase global competition by lowering
+entry barriers to new and smaller market participants.
+To enable a truly efficient global market, a bridge currency
+must be specifically optimized for payments and support
+the same speed, scalability, low cost and security that
+CBDCs will provide. One example of a neutral bridge is the
+digital asset XRP, which can be used to bridge two different
+currencies quickly and efficiently.
+By underpinning an effective alternative liquidity market,
+neutral bridge currencies are the final piece of the
+interoperability puzzle that will drive the success of CBDCs
+as a global tool for exchanging value.
+
+"A neutral bridge asset can support
+healthy, alternative liquidity markets
+that will allow for frictionless and
+cost-effective value movement
+between various CBDCs in real-time"
+12
+
+S E CT I O N I V
+
+Closing
+
+Time to Define the Future of Money
+The introduction of CBDCs will be
+one of the defining transformations
+in the history of money.
+How the underlying technology is
+implemented and monetary policies
+are set over the coming decade
+will determine whether sovereignbacked digital assets open the door
+to enhance global trade and financial
+inclusion or maintain the siloed,
+inefficient and inequitable status quo.
+
+Today, some Central Banks are moving faster than others,
+when it comes to piloting programs and implementing
+initiatives. But the future success of CBDCs will require a
+global consensus, rather than relying on a few pioneers with
+their own agendas to lead the way. The world’s Central Banks
+must come together to agree on common CBDC standards
+and protocols that will enable interoperability, while also
+drawing on the existing knowledge and infrastructure of the
+private sector to accelerate initiatives.
+CBDCs have enormous potential but must first overcome
+numerous challenges. Now is the time for Central Banks to
+explore these issues, develop common solutions and ensure
+that the next evolution of money benefits more people and
+businesses and makes the world better.
+
+About Ripple
+
+Join the Conversation
+
+Ripple provides one frictionless experience to send money
+globally using the power of blockchain technology.
+
+twitter.com/ripple
+linkedin.com/company/ripple-labs
+ripple.com/insights
+facebook.com/ripplepay.
+
+By joining Ripple’s growing global network, financial
+institutions can process their customers’ payments
+anywhere in the world instantly, reliably and cost-effectively.
+
+Contact Us
+For more information, please contact us
+at CBDC@ripple.com
+
+©2020 Ripple. All rights reserved.
+
+14
+
+
